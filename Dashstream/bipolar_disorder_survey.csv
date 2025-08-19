@@ -1,0 +1,17 @@
+Country,Gender,Age Group,Diagnosed,Bipolar Type
+USA,Male,18-25,1,Type I
+USA,Female,26-35,1,Type II
+Canada,Female,36-45,0,Type II
+Canada,Male,46-60,1,Type I
+India,Female,18-25,1,Type I
+India,Male,26-35,0,Type II
+UK,Female,36-45,1,Cyclothymia
+UK,Male,18-25,1,Type I
+Australia,Female,46-60,1,Type II
+Australia,Male,60+,0,Type I
+Germany,Female,26-35,1,Cyclothymia
+Germany,Male,36-45,1,Type I
+Brazil,Female,18-25,1,Type II
+Brazil,Male,46-60,0,Type II
+Japan,Female,60+,1,Cyclothymia
+Japan,Male,26-35,1,Type I

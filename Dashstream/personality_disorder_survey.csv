@@ -1,0 +1,1001 @@
+Country,Gender,Age Group,Personality Disorder,Disorder Type,Cluster
+USA,Other,26-35,1,Narcissistic,Cluster B
+Brazil,Male,18-25,1,Antisocial,Cluster B
+Australia,Male,26-35,0,,
+Germany,Female,26-35,1,Schizotypal,Cluster A
+UK,Female,60+,0,,
+USA,Male,18-25,0,,
+Brazil,Other,36-45,1,Borderline,Cluster B
+UK,Other,18-25,0,,
+UK,Other,36-45,0,,
+Canada,Other,26-35,0,,
+India,Female,36-45,0,,
+Brazil,Other,46-60,1,Schizoid,Cluster A
+Canada,Other,18-25,1,Schizoid,Cluster A
+India,Female,60+,1,Obsessive-Compulsive,Cluster C
+India,Male,26-35,0,,
+UK,Female,36-45,0,,
+Germany,Male,18-25,0,,
+Canada,Female,36-45,0,,
+Australia,Male,60+,0,,
+Brazil,Other,60+,0,,
+India,Female,60+,0,,
+Germany,Female,46-60,1,Dependent,Cluster C
+UK,Female,60+,1,Borderline,Cluster B
+Germany,Male,36-45,1,Paranoid,Cluster A
+India,Other,46-60,0,,
+UK,Male,26-35,0,,
+Australia,Other,36-45,0,,
+USA,Female,36-45,0,,
+UK,Other,18-25,0,,
+Canada,Male,18-25,0,,
+India,Other,18-25,0,,
+Brazil,Other,46-60,0,,
+Brazil,Female,18-25,0,,
+India,Other,26-35,1,Avoidant,Cluster C
+UK,Male,60+,0,,
+Germany,Other,36-45,1,Paranoid,Cluster A
+Canada,Male,26-35,1,Paranoid,Cluster A
+India,Male,26-35,0,,
+India,Male,18-25,0,,
+India,Male,18-25,1,Paranoid,Cluster A
+India,Female,36-45,0,,
+Brazil,Other,46-60,0,,
+USA,Female,36-45,1,Dependent,Cluster C
+Canada,Female,36-45,1,Narcissistic,Cluster B
+India,Male,36-45,1,Schizotypal,Cluster A
+Germany,Other,18-25,1,Histrionic,Cluster B
+UK,Other,46-60,0,,
+UK,Other,36-45,0,,
+India,Male,26-35,0,,
+India,Male,26-35,0,,
+India,Male,18-25,0,,
+India,Other,26-35,1,Paranoid,Cluster A
+USA,Male,26-35,0,,
+USA,Other,18-25,1,Dependent,Cluster C
+Germany,Other,18-25,0,,
+India,Other,36-45,0,,
+Australia,Female,46-60,1,Borderline,Cluster B
+India,Other,36-45,0,,
+UK,Female,36-45,1,Obsessive-Compulsive,Cluster C
+Australia,Male,46-60,0,,
+Brazil,Female,60+,0,,
+Australia,Male,36-45,0,,
+Germany,Male,26-35,1,Histrionic,Cluster B
+Australia,Female,18-25,0,,
+Brazil,Male,18-25,0,,
+India,Male,60+,0,,
+Germany,Female,26-35,1,Schizotypal,Cluster A
+UK,Other,26-35,0,,
+Brazil,Other,46-60,1,Histrionic,Cluster B
+UK,Other,18-25,0,,
+India,Male,60+,1,Borderline,Cluster B
+UK,Male,60+,1,Histrionic,Cluster B
+Canada,Female,36-45,0,,
+UK,Male,46-60,1,Paranoid,Cluster A
+Germany,Male,26-35,0,,
+Germany,Other,46-60,0,,
+USA,Female,60+,1,Narcissistic,Cluster B
+Canada,Male,26-35,1,Paranoid,Cluster A
+India,Female,60+,0,,
+USA,Male,46-60,0,,
+UK,Male,46-60,1,Histrionic,Cluster B
+Canada,Other,26-35,0,,
+Canada,Other,36-45,1,Schizotypal,Cluster A
+UK,Female,60+,1,Schizoid,Cluster A
+India,Male,18-25,1,Schizoid,Cluster A
+UK,Female,26-35,0,,
+Australia,Male,36-45,1,Avoidant,Cluster C
+India,Male,60+,1,Histrionic,Cluster B
+Brazil,Other,18-25,1,Narcissistic,Cluster B
+India,Other,60+,0,,
+India,Male,26-35,0,,
+Brazil,Other,36-45,0,,
+USA,Male,18-25,1,Narcissistic,Cluster B
+Canada,Other,18-25,1,Borderline,Cluster B
+UK,Male,26-35,0,,
+Germany,Female,60+,0,,
+Brazil,Other,60+,0,,
+Canada,Female,46-60,1,Avoidant,Cluster C
+India,Male,36-45,1,Dependent,Cluster C
+India,Male,26-35,0,,
+UK,Male,36-45,0,,
+India,Female,46-60,1,Paranoid,Cluster A
+India,Male,26-35,0,,
+Brazil,Male,26-35,0,,
+India,Other,36-45,0,,
+Germany,Other,26-35,0,,
+USA,Female,36-45,0,,
+India,Other,18-25,0,,
+India,Male,26-35,0,,
+India,Other,36-45,0,,
+Brazil,Male,26-35,0,,
+Canada,Other,18-25,1,Dependent,Cluster C
+India,Male,26-35,0,,
+Canada,Female,36-45,0,,
+UK,Male,60+,1,Avoidant,Cluster C
+UK,Female,18-25,1,Borderline,Cluster B
+USA,Other,18-25,1,Histrionic,Cluster B
+Germany,Other,18-25,0,,
+India,Female,26-35,0,,
+USA,Male,18-25,0,,
+UK,Other,36-45,1,Paranoid,Cluster A
+Australia,Other,26-35,1,Paranoid,Cluster A
+UK,Male,36-45,1,Schizotypal,Cluster A
+Canada,Other,46-60,1,Antisocial,Cluster B
+Australia,Female,18-25,0,,
+Germany,Other,26-35,1,Borderline,Cluster B
+UK,Other,26-35,0,,
+USA,Male,36-45,0,,
+Germany,Female,26-35,1,Dependent,Cluster C
+USA,Female,18-25,1,Schizoid,Cluster A
+Canada,Female,46-60,0,,
+Australia,Other,46-60,0,,
+USA,Male,26-35,1,Schizotypal,Cluster A
+Germany,Female,26-35,0,,
+USA,Female,26-35,0,,
+USA,Other,46-60,0,,
+Brazil,Female,26-35,0,,
+Brazil,Male,36-45,1,Paranoid,Cluster A
+India,Other,26-35,0,,
+Canada,Female,36-45,0,,
+UK,Other,36-45,1,Schizoid,Cluster A
+UK,Female,36-45,1,Histrionic,Cluster B
+UK,Male,46-60,0,,
+Brazil,Female,18-25,0,,
+India,Female,36-45,0,,
+Germany,Female,18-25,0,,
+USA,Male,18-25,1,Avoidant,Cluster C
+Australia,Female,18-25,1,Dependent,Cluster C
+Germany,Male,46-60,0,,
+Canada,Other,46-60,0,,
+Brazil,Female,36-45,0,,
+Brazil,Female,18-25,0,,
+Brazil,Male,60+,1,Obsessive-Compulsive,Cluster C
+Brazil,Other,36-45,0,,
+USA,Male,60+,1,Obsessive-Compulsive,Cluster C
+India,Male,46-60,0,,
+USA,Other,26-35,0,,
+USA,Male,60+,0,,
+India,Other,36-45,0,,
+USA,Female,60+,1,Narcissistic,Cluster B
+Canada,Female,26-35,0,,
+Brazil,Female,60+,0,,
+India,Female,46-60,1,Avoidant,Cluster C
+Brazil,Female,60+,1,Dependent,Cluster C
+Canada,Other,26-35,0,,
+India,Other,36-45,0,,
+Canada,Female,46-60,0,,
+USA,Other,26-35,0,,
+Canada,Male,46-60,1,Borderline,Cluster B
+USA,Other,60+,0,,
+Canada,Female,18-25,1,Dependent,Cluster C
+Brazil,Other,18-25,0,,
+USA,Other,26-35,1,Paranoid,Cluster A
+Brazil,Male,26-35,1,Histrionic,Cluster B
+USA,Other,36-45,0,,
+UK,Female,18-25,0,,
+USA,Other,18-25,1,Borderline,Cluster B
+Canada,Male,60+,1,Schizotypal,Cluster A
+USA,Male,36-45,1,Schizotypal,Cluster A
+Australia,Other,36-45,1,Borderline,Cluster B
+USA,Other,46-60,0,,
+Canada,Other,36-45,0,,
+Brazil,Other,18-25,0,,
+UK,Other,36-45,0,,
+Australia,Other,46-60,1,Avoidant,Cluster C
+UK,Female,18-25,0,,
+India,Other,46-60,0,,
+Brazil,Female,36-45,0,,
+Germany,Female,46-60,0,,
+USA,Female,60+,0,,
+USA,Female,60+,0,,
+USA,Other,46-60,1,Schizotypal,Cluster A
+India,Other,60+,0,,
+Australia,Male,36-45,0,,
+USA,Male,18-25,0,,
+UK,Other,36-45,0,,
+India,Other,46-60,0,,
+USA,Other,18-25,0,,
+Brazil,Male,46-60,0,,
+India,Female,36-45,0,,
+Germany,Male,46-60,0,,
+India,Other,46-60,0,,
+USA,Male,46-60,1,Histrionic,Cluster B
+India,Male,26-35,0,,
+Brazil,Other,46-60,1,Paranoid,Cluster A
+Australia,Male,36-45,0,,
+USA,Male,46-60,0,,
+Brazil,Male,60+,1,Avoidant,Cluster C
+India,Male,46-60,1,Borderline,Cluster B
+Australia,Female,60+,0,,
+Canada,Male,36-45,0,,
+Brazil,Female,18-25,0,,
+India,Other,36-45,1,Schizoid,Cluster A
+India,Female,46-60,0,,
+USA,Other,36-45,0,,
+Brazil,Female,60+,0,,
+Canada,Male,36-45,1,Paranoid,Cluster A
+Brazil,Other,60+,0,,
+USA,Female,46-60,0,,
+USA,Male,18-25,1,Borderline,Cluster B
+Germany,Female,46-60,0,,
+USA,Male,46-60,0,,
+Australia,Other,26-35,0,,
+USA,Other,36-45,0,,
+USA,Other,60+,1,Obsessive-Compulsive,Cluster C
+Germany,Female,18-25,0,,
+India,Female,36-45,0,,
+Germany,Female,18-25,0,,
+Brazil,Other,46-60,0,,
+USA,Male,36-45,1,Dependent,Cluster C
+India,Female,60+,0,,
+Brazil,Female,26-35,1,Borderline,Cluster B
+Australia,Male,26-35,0,,
+UK,Female,26-35,1,Antisocial,Cluster B
+Australia,Female,36-45,0,,
+UK,Female,26-35,0,,
+Germany,Other,26-35,0,,
+USA,Other,60+,1,Avoidant,Cluster C
+Germany,Male,18-25,1,Avoidant,Cluster C
+Australia,Male,36-45,0,,
+USA,Female,26-35,1,Antisocial,Cluster B
+Canada,Male,36-45,0,,
+Germany,Female,60+,0,,
+India,Female,18-25,1,Paranoid,Cluster A
+UK,Male,26-35,0,,
+USA,Male,46-60,0,,
+UK,Male,18-25,0,,
+USA,Female,60+,0,,
+India,Male,18-25,0,,
+India,Female,18-25,1,Obsessive-Compulsive,Cluster C
+India,Other,46-60,1,Schizoid,Cluster A
+Canada,Other,18-25,1,Obsessive-Compulsive,Cluster C
+USA,Male,46-60,1,Paranoid,Cluster A
+USA,Female,60+,1,Schizotypal,Cluster A
+Australia,Other,60+,0,,
+USA,Female,46-60,1,Histrionic,Cluster B
+UK,Female,36-45,0,,
+Brazil,Female,18-25,0,,
+India,Male,46-60,0,,
+Brazil,Other,60+,0,,
+Germany,Male,18-25,0,,
+Germany,Female,60+,0,,
+Germany,Other,18-25,0,,
+India,Female,36-45,0,,
+UK,Other,36-45,0,,
+Brazil,Female,60+,0,,
+Australia,Female,46-60,0,,
+Brazil,Male,26-35,0,,
+Brazil,Male,46-60,0,,
+Canada,Other,36-45,1,Avoidant,Cluster C
+India,Other,36-45,1,Schizotypal,Cluster A
+Germany,Other,26-35,0,,
+India,Female,46-60,0,,
+UK,Female,26-35,0,,
+USA,Female,26-35,1,Schizotypal,Cluster A
+UK,Other,26-35,1,Avoidant,Cluster C
+Brazil,Male,26-35,0,,
+USA,Other,46-60,0,,
+India,Other,26-35,0,,
+Brazil,Female,60+,1,Narcissistic,Cluster B
+Brazil,Female,18-25,0,,
+UK,Other,26-35,1,Avoidant,Cluster C
+India,Other,46-60,0,,
+India,Other,60+,1,Dependent,Cluster C
+Brazil,Other,36-45,1,Borderline,Cluster B
+UK,Other,60+,1,Avoidant,Cluster C
+Germany,Other,60+,0,,
+UK,Female,26-35,1,Borderline,Cluster B
+UK,Female,46-60,1,Narcissistic,Cluster B
+India,Other,36-45,0,,
+India,Male,36-45,1,Dependent,Cluster C
+USA,Male,26-35,0,,
+UK,Female,60+,0,,
+Canada,Male,60+,1,Schizotypal,Cluster A
+USA,Other,18-25,1,Narcissistic,Cluster B
+Germany,Other,36-45,0,,
+Canada,Male,18-25,1,Schizoid,Cluster A
+Brazil,Male,46-60,0,,
+Germany,Female,46-60,0,,
+USA,Other,18-25,0,,
+Brazil,Female,18-25,0,,
+Germany,Male,36-45,0,,
+India,Female,18-25,0,,
+India,Other,26-35,0,,
+USA,Male,26-35,1,Schizotypal,Cluster A
+Brazil,Other,60+,0,,
+Germany,Male,60+,1,Paranoid,Cluster A
+Brazil,Female,26-35,1,Borderline,Cluster B
+India,Male,60+,0,,
+Australia,Female,26-35,0,,
+USA,Other,26-35,0,,
+Germany,Male,46-60,1,Avoidant,Cluster C
+USA,Male,36-45,0,,
+Brazil,Male,36-45,0,,
+USA,Female,26-35,1,Paranoid,Cluster A
+UK,Other,36-45,1,Dependent,Cluster C
+Canada,Other,60+,0,,
+Brazil,Other,26-35,0,,
+Australia,Female,36-45,1,Paranoid,Cluster A
+UK,Male,46-60,0,,
+Brazil,Male,36-45,1,Obsessive-Compulsive,Cluster C
+Brazil,Other,26-35,1,Paranoid,Cluster A
+USA,Male,18-25,0,,
+Canada,Male,26-35,0,,
+Brazil,Female,36-45,0,,
+India,Female,26-35,0,,
+Canada,Male,26-35,1,Paranoid,Cluster A
+Brazil,Other,26-35,0,,
+Brazil,Male,36-45,1,Antisocial,Cluster B
+USA,Female,46-60,1,Antisocial,Cluster B
+USA,Female,18-25,1,Histrionic,Cluster B
+UK,Female,60+,0,,
+UK,Male,46-60,1,Avoidant,Cluster C
+UK,Male,36-45,0,,
+Germany,Female,60+,1,Avoidant,Cluster C
+UK,Other,18-25,1,Dependent,Cluster C
+USA,Other,60+,0,,
+India,Female,46-60,1,Borderline,Cluster B
+India,Female,26-35,0,,
+Brazil,Female,36-45,0,,
+Canada,Other,46-60,1,Obsessive-Compulsive,Cluster C
+India,Female,60+,0,,
+USA,Male,60+,0,,
+Brazil,Male,36-45,0,,
+Canada,Other,36-45,0,,
+India,Female,18-25,0,,
+USA,Other,46-60,1,Narcissistic,Cluster B
+Brazil,Female,18-25,0,,
+Australia,Male,60+,1,Narcissistic,Cluster B
+USA,Male,46-60,0,,
+UK,Male,46-60,0,,
+India,Female,26-35,0,,
+UK,Other,18-25,0,,
+India,Male,60+,1,Obsessive-Compulsive,Cluster C
+India,Female,46-60,1,Paranoid,Cluster A
+Brazil,Male,36-45,0,,
+Brazil,Other,18-25,0,,
+USA,Female,60+,0,,
+USA,Other,18-25,0,,
+Germany,Female,36-45,1,Schizoid,Cluster A
+India,Female,46-60,1,Narcissistic,Cluster B
+India,Female,36-45,1,Dependent,Cluster C
+Brazil,Female,18-25,1,Narcissistic,Cluster B
+Germany,Other,18-25,0,,
+Germany,Male,26-35,0,,
+India,Other,60+,1,Borderline,Cluster B
+UK,Other,60+,1,Paranoid,Cluster A
+Germany,Other,60+,0,,
+Brazil,Male,60+,1,Antisocial,Cluster B
+Canada,Other,46-60,1,Schizoid,Cluster A
+UK,Male,18-25,1,Antisocial,Cluster B
+India,Female,36-45,1,Borderline,Cluster B
+Germany,Other,18-25,0,,
+Canada,Other,26-35,0,,
+Brazil,Male,46-60,0,,
+Brazil,Male,18-25,1,Histrionic,Cluster B
+India,Male,36-45,0,,
+India,Other,46-60,0,,
+Brazil,Other,36-45,1,Histrionic,Cluster B
+UK,Other,18-25,0,,
+Germany,Male,18-25,0,,
+UK,Other,36-45,0,,
+Canada,Other,60+,0,,
+India,Female,36-45,1,Obsessive-Compulsive,Cluster C
+Germany,Male,26-35,0,,
+Germany,Male,26-35,1,Obsessive-Compulsive,Cluster C
+UK,Female,36-45,0,,
+USA,Other,26-35,1,Histrionic,Cluster B
+UK,Male,26-35,0,,
+UK,Female,60+,0,,
+USA,Other,36-45,0,,
+Australia,Female,36-45,0,,
+USA,Other,60+,0,,
+Australia,Male,46-60,1,Borderline,Cluster B
+Brazil,Female,46-60,0,,
+India,Other,46-60,0,,
+UK,Female,46-60,0,,
+UK,Other,36-45,0,,
+Canada,Male,18-25,0,,
+UK,Other,26-35,0,,
+USA,Other,26-35,0,,
+India,Male,18-25,1,Avoidant,Cluster C
+Brazil,Other,26-35,1,Avoidant,Cluster C
+India,Other,26-35,0,,
+Brazil,Female,60+,0,,
+Brazil,Male,36-45,1,Antisocial,Cluster B
+USA,Other,46-60,1,Schizoid,Cluster A
+UK,Other,26-35,0,,
+India,Male,46-60,0,,
+Brazil,Female,60+,0,,
+Australia,Male,18-25,1,Schizotypal,Cluster A
+USA,Other,18-25,0,,
+USA,Male,36-45,0,,
+USA,Other,46-60,0,,
+USA,Male,26-35,1,Schizotypal,Cluster A
+India,Female,18-25,1,Narcissistic,Cluster B
+Australia,Other,26-35,1,Histrionic,Cluster B
+India,Male,26-35,0,,
+India,Male,60+,1,Dependent,Cluster C
+India,Male,46-60,0,,
+USA,Female,46-60,0,,
+India,Other,18-25,0,,
+Brazil,Female,46-60,1,Narcissistic,Cluster B
+India,Female,46-60,0,,
+Canada,Female,26-35,0,,
+Brazil,Female,36-45,0,,
+Germany,Male,18-25,1,Borderline,Cluster B
+Australia,Other,26-35,1,Avoidant,Cluster C
+India,Other,46-60,0,,
+UK,Other,46-60,1,Antisocial,Cluster B
+India,Female,46-60,0,,
+India,Male,26-35,0,,
+India,Female,46-60,0,,
+Canada,Other,46-60,1,Antisocial,Cluster B
+India,Female,26-35,0,,
+Brazil,Female,26-35,0,,
+Germany,Male,18-25,0,,
+Germany,Female,46-60,0,,
+UK,Female,60+,0,,
+UK,Female,36-45,0,,
+India,Other,26-35,1,Borderline,Cluster B
+Brazil,Other,60+,1,Paranoid,Cluster A
+Australia,Female,26-35,1,Histrionic,Cluster B
+India,Female,36-45,1,Schizotypal,Cluster A
+UK,Female,26-35,0,,
+Australia,Other,36-45,0,,
+USA,Female,36-45,1,Borderline,Cluster B
+USA,Male,26-35,1,Schizoid,Cluster A
+UK,Male,60+,0,,
+India,Female,36-45,1,Histrionic,Cluster B
+Canada,Female,18-25,1,Schizoid,Cluster A
+India,Female,26-35,1,Antisocial,Cluster B
+USA,Male,18-25,1,Dependent,Cluster C
+USA,Male,46-60,1,Schizoid,Cluster A
+India,Male,46-60,0,,
+Australia,Male,26-35,0,,
+India,Female,18-25,1,Narcissistic,Cluster B
+Brazil,Male,26-35,0,,
+UK,Female,46-60,0,,
+Germany,Other,18-25,0,,
+UK,Female,18-25,1,Avoidant,Cluster C
+Australia,Male,26-35,1,Paranoid,Cluster A
+India,Male,46-60,0,,
+Germany,Female,60+,0,,
+Canada,Male,46-60,1,Narcissistic,Cluster B
+UK,Female,26-35,1,Obsessive-Compulsive,Cluster C
+USA,Male,36-45,0,,
+Brazil,Female,26-35,0,,
+USA,Other,46-60,0,,
+USA,Female,46-60,1,Dependent,Cluster C
+USA,Female,60+,1,Narcissistic,Cluster B
+Brazil,Male,46-60,0,,
+USA,Other,26-35,0,,
+Canada,Other,60+,0,,
+USA,Other,26-35,1,Schizotypal,Cluster A
+India,Male,60+,0,,
+UK,Other,18-25,1,Avoidant,Cluster C
+India,Female,46-60,0,,
+India,Female,36-45,0,,
+UK,Female,60+,0,,
+USA,Other,18-25,0,,
+Brazil,Female,60+,0,,
+UK,Other,46-60,0,,
+Canada,Other,46-60,0,,
+Germany,Male,26-35,0,,
+Brazil,Other,60+,1,Histrionic,Cluster B
+India,Other,36-45,0,,
+Canada,Other,18-25,0,,
+Australia,Female,36-45,0,,
+Australia,Male,36-45,0,,
+USA,Male,26-35,1,Schizoid,Cluster A
+India,Other,36-45,1,Schizoid,Cluster A
+UK,Male,46-60,0,,
+Australia,Other,18-25,0,,
+Brazil,Other,60+,0,,
+Brazil,Other,26-35,0,,
+UK,Other,18-25,1,Obsessive-Compulsive,Cluster C
+UK,Male,60+,0,,
+USA,Other,60+,1,Histrionic,Cluster B
+Germany,Female,36-45,0,,
+India,Female,60+,0,,
+India,Male,60+,0,,
+Germany,Female,18-25,0,,
+Germany,Other,26-35,1,Paranoid,Cluster A
+USA,Male,36-45,1,Schizoid,Cluster A
+USA,Other,60+,0,,
+Australia,Female,26-35,1,Antisocial,Cluster B
+Canada,Female,46-60,0,,
+Brazil,Female,36-45,0,,
+India,Other,26-35,0,,
+India,Female,18-25,0,,
+Canada,Male,26-35,0,,
+Germany,Other,46-60,0,,
+Germany,Female,46-60,1,Borderline,Cluster B
+UK,Other,26-35,0,,
+India,Male,60+,1,Borderline,Cluster B
+India,Female,26-35,0,,
+Brazil,Other,26-35,0,,
+USA,Male,26-35,0,,
+Canada,Female,46-60,0,,
+Australia,Female,46-60,0,,
+India,Other,46-60,0,,
+India,Male,46-60,0,,
+India,Other,18-25,0,,
+Australia,Other,36-45,0,,
+USA,Male,60+,0,,
+USA,Male,26-35,1,Avoidant,Cluster C
+India,Male,46-60,0,,
+UK,Male,26-35,0,,
+UK,Female,18-25,0,,
+Canada,Other,26-35,0,,
+India,Female,26-35,0,,
+Brazil,Other,46-60,0,,
+India,Female,26-35,0,,
+Canada,Female,26-35,1,Obsessive-Compulsive,Cluster C
+Brazil,Male,46-60,0,,
+USA,Female,18-25,1,Dependent,Cluster C
+Brazil,Other,18-25,1,Obsessive-Compulsive,Cluster C
+UK,Female,18-25,1,Borderline,Cluster B
+Brazil,Other,26-35,1,Paranoid,Cluster A
+USA,Male,46-60,1,Paranoid,Cluster A
+Australia,Other,60+,1,Dependent,Cluster C
+Canada,Male,60+,0,,
+Canada,Other,36-45,0,,
+USA,Female,60+,0,,
+India,Female,60+,0,,
+Australia,Female,60+,0,,
+USA,Male,46-60,0,,
+USA,Male,36-45,0,,
+Germany,Female,46-60,0,,
+Germany,Male,18-25,1,Avoidant,Cluster C
+India,Other,36-45,0,,
+Brazil,Male,18-25,1,Paranoid,Cluster A
+Australia,Other,60+,0,,
+Canada,Other,26-35,1,Obsessive-Compulsive,Cluster C
+USA,Male,18-25,1,Schizoid,Cluster A
+India,Female,46-60,1,Obsessive-Compulsive,Cluster C
+UK,Male,26-35,0,,
+USA,Female,36-45,1,Dependent,Cluster C
+India,Other,60+,0,,
+UK,Female,36-45,1,Paranoid,Cluster A
+Germany,Female,46-60,0,,
+USA,Female,46-60,0,,
+USA,Male,36-45,0,,
+Australia,Other,26-35,0,,
+India,Male,36-45,0,,
+India,Other,60+,0,,
+Australia,Male,46-60,0,,
+Canada,Male,26-35,1,Paranoid,Cluster A
+UK,Female,18-25,1,Antisocial,Cluster B
+USA,Other,26-35,1,Schizoid,Cluster A
+Canada,Other,18-25,0,,
+Canada,Female,18-25,1,Dependent,Cluster C
+India,Female,36-45,0,,
+India,Male,18-25,1,Dependent,Cluster C
+Germany,Other,46-60,1,Narcissistic,Cluster B
+Canada,Female,26-35,1,Dependent,Cluster C
+Germany,Male,46-60,0,,
+India,Other,18-25,1,Obsessive-Compulsive,Cluster C
+India,Male,36-45,1,Borderline,Cluster B
+India,Male,60+,1,Schizotypal,Cluster A
+India,Male,60+,0,,
+UK,Female,18-25,0,,
+USA,Male,26-35,0,,
+India,Female,18-25,1,Antisocial,Cluster B
+Australia,Female,26-35,0,,
+India,Female,18-25,1,Narcissistic,Cluster B
+Germany,Male,26-35,0,,
+USA,Male,36-45,1,Histrionic,Cluster B
+Brazil,Other,60+,1,Borderline,Cluster B
+Germany,Other,26-35,1,Obsessive-Compulsive,Cluster C
+Germany,Other,46-60,0,,
+Brazil,Other,36-45,0,,
+Canada,Male,18-25,1,Schizoid,Cluster A
+Brazil,Female,26-35,0,,
+USA,Female,46-60,1,Obsessive-Compulsive,Cluster C
+Australia,Female,46-60,1,Schizotypal,Cluster A
+Germany,Female,60+,0,,
+UK,Female,18-25,0,,
+UK,Female,26-35,0,,
+USA,Male,36-45,0,,
+Germany,Male,18-25,0,,
+Brazil,Male,46-60,1,Obsessive-Compulsive,Cluster C
+Brazil,Female,18-25,1,Schizoid,Cluster A
+Brazil,Male,46-60,1,Avoidant,Cluster C
+USA,Other,60+,0,,
+Germany,Female,26-35,1,Schizoid,Cluster A
+USA,Other,18-25,1,Obsessive-Compulsive,Cluster C
+UK,Female,60+,1,Narcissistic,Cluster B
+Brazil,Female,46-60,0,,
+Brazil,Male,18-25,1,Obsessive-Compulsive,Cluster C
+India,Other,46-60,0,,
+Australia,Female,26-35,0,,
+UK,Male,26-35,1,Antisocial,Cluster B
+Brazil,Male,36-45,0,,
+Brazil,Male,18-25,0,,
+India,Other,18-25,1,Paranoid,Cluster A
+Brazil,Other,46-60,1,Narcissistic,Cluster B
+India,Female,26-35,0,,
+UK,Female,36-45,0,,
+Canada,Other,60+,1,Schizotypal,Cluster A
+Australia,Male,36-45,0,,
+UK,Male,60+,0,,
+Brazil,Other,46-60,0,,
+Australia,Other,26-35,0,,
+Canada,Other,36-45,0,,
+Australia,Other,26-35,0,,
+UK,Female,60+,0,,
+UK,Other,60+,1,Narcissistic,Cluster B
+USA,Male,60+,0,,
+Brazil,Female,60+,0,,
+India,Male,26-35,1,Borderline,Cluster B
+India,Male,26-35,0,,
+India,Female,26-35,0,,
+Brazil,Female,26-35,0,,
+Canada,Other,18-25,1,Dependent,Cluster C
+Germany,Male,18-25,0,,
+USA,Male,46-60,0,,
+UK,Male,36-45,0,,
+India,Female,36-45,1,Antisocial,Cluster B
+UK,Female,26-35,1,Histrionic,Cluster B
+USA,Male,36-45,1,Schizotypal,Cluster A
+India,Female,26-35,0,,
+India,Female,60+,1,Narcissistic,Cluster B
+Germany,Other,26-35,0,,
+Australia,Male,26-35,0,,
+Canada,Male,60+,0,,
+India,Male,46-60,1,Antisocial,Cluster B
+UK,Male,60+,0,,
+India,Male,18-25,0,,
+USA,Male,18-25,1,Schizoid,Cluster A
+Australia,Male,36-45,1,Schizoid,Cluster A
+UK,Other,46-60,1,Schizoid,Cluster A
+Brazil,Female,18-25,0,,
+Canada,Male,18-25,1,Histrionic,Cluster B
+Australia,Male,46-60,0,,
+Brazil,Female,60+,1,Antisocial,Cluster B
+USA,Female,60+,0,,
+Germany,Male,46-60,1,Histrionic,Cluster B
+UK,Male,18-25,0,,
+Australia,Other,46-60,0,,
+USA,Male,36-45,0,,
+USA,Female,36-45,0,,
+Germany,Other,36-45,0,,
+Brazil,Male,46-60,0,,
+Canada,Other,60+,0,,
+India,Male,36-45,0,,
+Brazil,Male,36-45,0,,
+Australia,Female,60+,0,,
+UK,Male,36-45,0,,
+Germany,Other,60+,0,,
+India,Other,18-25,1,Obsessive-Compulsive,Cluster C
+UK,Female,26-35,0,,
+Germany,Male,18-25,1,Histrionic,Cluster B
+India,Female,36-45,0,,
+Canada,Female,60+,0,,
+Brazil,Female,46-60,0,,
+Brazil,Female,36-45,1,Antisocial,Cluster B
+Germany,Female,60+,1,Schizoid,Cluster A
+UK,Other,46-60,0,,
+Germany,Other,18-25,1,Narcissistic,Cluster B
+Australia,Female,60+,0,,
+Brazil,Female,36-45,0,,
+India,Other,46-60,0,,
+India,Female,26-35,1,Antisocial,Cluster B
+Brazil,Male,46-60,0,,
+India,Other,46-60,1,Dependent,Cluster C
+UK,Other,60+,0,,
+Canada,Male,60+,0,,
+USA,Other,60+,0,,
+USA,Male,26-35,0,,
+UK,Male,46-60,0,,
+Australia,Female,26-35,1,Obsessive-Compulsive,Cluster C
+Brazil,Other,36-45,0,,
+USA,Other,36-45,0,,
+Brazil,Male,18-25,0,,
+India,Male,26-35,1,Schizoid,Cluster A
+Brazil,Other,60+,1,Obsessive-Compulsive,Cluster C
+Brazil,Male,46-60,0,,
+Brazil,Female,46-60,0,,
+India,Other,26-35,0,,
+Australia,Male,26-35,0,,
+USA,Female,18-25,1,Borderline,Cluster B
+USA,Other,60+,1,Narcissistic,Cluster B
+India,Other,46-60,0,,
+USA,Female,46-60,1,Histrionic,Cluster B
+Australia,Female,26-35,1,Avoidant,Cluster C
+UK,Male,60+,0,,
+USA,Male,18-25,1,Borderline,Cluster B
+Canada,Female,18-25,0,,
+India,Female,36-45,1,Dependent,Cluster C
+UK,Male,36-45,0,,
+UK,Male,18-25,0,,
+Canada,Female,26-35,0,,
+Brazil,Other,36-45,0,,
+USA,Male,18-25,1,Histrionic,Cluster B
+Canada,Male,46-60,0,,
+Germany,Male,26-35,1,Schizoid,Cluster A
+USA,Male,60+,1,Paranoid,Cluster A
+USA,Other,26-35,1,Borderline,Cluster B
+India,Female,36-45,0,,
+India,Other,18-25,0,,
+Brazil,Male,60+,1,Narcissistic,Cluster B
+Canada,Female,18-25,0,,
+USA,Male,36-45,1,Borderline,Cluster B
+UK,Other,36-45,1,Paranoid,Cluster A
+Germany,Female,46-60,1,Obsessive-Compulsive,Cluster C
+Canada,Male,18-25,1,Schizoid,Cluster A
+UK,Male,18-25,1,Schizoid,Cluster A
+Germany,Female,60+,0,,
+USA,Other,46-60,0,,
+Brazil,Male,36-45,1,Avoidant,Cluster C
+UK,Other,60+,1,Borderline,Cluster B
+Germany,Other,18-25,0,,
+India,Other,18-25,0,,
+Australia,Male,36-45,0,,
+India,Female,26-35,1,Schizotypal,Cluster A
+Brazil,Male,18-25,1,Obsessive-Compulsive,Cluster C
+Brazil,Male,60+,0,,
+USA,Other,36-45,1,Antisocial,Cluster B
+USA,Female,60+,0,,
+Germany,Other,26-35,0,,
+Australia,Female,46-60,0,,
+Australia,Other,36-45,0,,
+India,Male,18-25,0,,
+Brazil,Other,46-60,0,,
+USA,Female,36-45,0,,
+Australia,Male,60+,1,Antisocial,Cluster B
+USA,Male,36-45,0,,
+India,Other,36-45,0,,
+Germany,Other,60+,0,,
+Brazil,Male,26-35,1,Schizotypal,Cluster A
+Brazil,Male,18-25,0,,
+Australia,Other,18-25,1,Schizotypal,Cluster A
+India,Other,60+,0,,
+India,Female,46-60,0,,
+UK,Male,46-60,0,,
+Australia,Male,36-45,0,,
+USA,Other,60+,0,,
+Brazil,Other,46-60,0,,
+Brazil,Female,46-60,0,,
+Australia,Other,46-60,1,Obsessive-Compulsive,Cluster C
+UK,Male,26-35,0,,
+Brazil,Male,26-35,1,Obsessive-Compulsive,Cluster C
+UK,Female,46-60,0,,
+Australia,Female,46-60,0,,
+India,Other,36-45,1,Obsessive-Compulsive,Cluster C
+UK,Other,18-25,0,,
+Australia,Male,36-45,1,Antisocial,Cluster B
+Brazil,Male,46-60,1,Schizotypal,Cluster A
+Australia,Male,60+,0,,
+UK,Male,18-25,0,,
+Canada,Female,36-45,0,,
+USA,Female,46-60,0,,
+USA,Other,26-35,0,,
+Canada,Female,26-35,0,,
+India,Female,60+,0,,
+India,Other,60+,0,,
+India,Other,46-60,0,,
+USA,Female,18-25,0,,
+India,Female,18-25,0,,
+India,Other,26-35,0,,
+UK,Female,36-45,0,,
+UK,Male,60+,0,,
+USA,Male,26-35,0,,
+USA,Male,46-60,1,Obsessive-Compulsive,Cluster C
+Brazil,Female,26-35,1,Obsessive-Compulsive,Cluster C
+Australia,Other,46-60,1,Paranoid,Cluster A
+India,Other,46-60,1,Antisocial,Cluster B
+India,Male,60+,0,,
+UK,Female,26-35,0,,
+Brazil,Female,18-25,0,,
+Germany,Other,36-45,1,Schizotypal,Cluster A
+UK,Female,18-25,1,Obsessive-Compulsive,Cluster C
+UK,Other,36-45,0,,
+USA,Female,26-35,0,,
+Australia,Male,18-25,0,,
+India,Female,18-25,1,Histrionic,Cluster B
+USA,Male,18-25,0,,
+USA,Female,60+,0,,
+India,Other,18-25,0,,
+UK,Other,26-35,0,,
+UK,Female,36-45,1,Histrionic,Cluster B
+USA,Female,18-25,0,,
+India,Male,18-25,0,,
+Brazil,Other,18-25,1,Borderline,Cluster B
+Canada,Other,26-35,0,,
+USA,Male,46-60,0,,
+Germany,Female,36-45,0,,
+India,Female,26-35,0,,
+Brazil,Female,46-60,0,,
+Brazil,Male,60+,1,Paranoid,Cluster A
+Canada,Female,18-25,0,,
+USA,Female,18-25,1,Schizoid,Cluster A
+UK,Female,26-35,0,,
+Brazil,Female,60+,0,,
+Germany,Male,60+,0,,
+Brazil,Other,46-60,0,,
+USA,Other,36-45,1,Narcissistic,Cluster B
+Germany,Male,36-45,0,,
+Canada,Female,18-25,0,,
+USA,Male,18-25,0,,
+Brazil,Male,26-35,0,,
+India,Other,60+,1,Antisocial,Cluster B
+India,Other,60+,0,,
+Australia,Other,26-35,0,,
+Germany,Other,60+,1,Obsessive-Compulsive,Cluster C
+UK,Female,60+,0,,
+Australia,Other,36-45,1,Narcissistic,Cluster B
+Germany,Female,46-60,0,,
+Germany,Other,36-45,0,,
+UK,Female,60+,0,,
+UK,Other,60+,1,Obsessive-Compulsive,Cluster C
+Canada,Male,18-25,1,Histrionic,Cluster B
+India,Male,18-25,1,Narcissistic,Cluster B
+USA,Other,26-35,0,,
+Australia,Male,60+,0,,
+UK,Female,36-45,0,,
+UK,Male,18-25,1,Antisocial,Cluster B
+USA,Other,26-35,1,Avoidant,Cluster C
+Brazil,Female,26-35,1,Schizoid,Cluster A
+Canada,Other,36-45,0,,
+Germany,Male,26-35,0,,
+India,Female,18-25,1,Antisocial,Cluster B
+India,Other,18-25,0,,
+India,Male,26-35,0,,
+Germany,Female,60+,1,Histrionic,Cluster B
+Australia,Female,60+,0,,
+Brazil,Male,46-60,1,Obsessive-Compulsive,Cluster C
+UK,Other,60+,1,Schizoid,Cluster A
+Australia,Male,60+,0,,
+India,Female,26-35,1,Antisocial,Cluster B
+Australia,Female,26-35,1,Narcissistic,Cluster B
+UK,Male,26-35,0,,
+USA,Male,26-35,0,,
+USA,Male,18-25,1,Obsessive-Compulsive,Cluster C
+India,Other,36-45,0,,
+Australia,Female,26-35,0,,
+Germany,Female,26-35,1,Avoidant,Cluster C
+USA,Female,26-35,1,Antisocial,Cluster B
+USA,Other,18-25,0,,
+USA,Other,46-60,0,,
+Brazil,Other,46-60,0,,
+India,Female,18-25,0,,
+UK,Male,60+,1,Avoidant,Cluster C
+India,Male,46-60,1,Borderline,Cluster B
+Canada,Male,36-45,0,,
+USA,Male,46-60,1,Antisocial,Cluster B
+Germany,Male,26-35,1,Antisocial,Cluster B
+Brazil,Male,18-25,0,,
+Brazil,Male,26-35,0,,
+Australia,Male,36-45,0,,
+Germany,Male,18-25,1,Antisocial,Cluster B
+UK,Other,18-25,1,Narcissistic,Cluster B
+Germany,Female,46-60,0,,
+India,Other,26-35,1,Schizotypal,Cluster A
+Australia,Male,36-45,0,,
+Brazil,Female,36-45,0,,
+Canada,Female,46-60,0,,
+UK,Female,46-60,0,,
+USA,Other,26-35,1,Avoidant,Cluster C
+UK,Other,60+,0,,
+Australia,Male,36-45,0,,
+India,Female,18-25,0,,
+USA,Female,26-35,0,,
+Australia,Male,26-35,0,,
+India,Female,36-45,1,Borderline,Cluster B
+India,Male,26-35,0,,
+India,Male,36-45,0,,
+India,Male,36-45,1,Schizotypal,Cluster A
+UK,Female,36-45,0,,
+USA,Female,46-60,1,Paranoid,Cluster A
+Brazil,Female,46-60,0,,
+Australia,Male,60+,0,,
+UK,Female,60+,1,Borderline,Cluster B
+Australia,Male,46-60,1,Borderline,Cluster B
+Australia,Other,36-45,0,,
+Brazil,Female,60+,0,,
+Germany,Other,36-45,0,,
+Germany,Female,46-60,0,,
+USA,Female,60+,0,,
+UK,Other,46-60,0,,
+Brazil,Male,26-35,0,,
+India,Male,60+,0,,
+India,Female,36-45,0,,
+Brazil,Male,26-35,0,,
+Canada,Other,60+,1,Antisocial,Cluster B
+India,Other,46-60,1,Obsessive-Compulsive,Cluster C
+Brazil,Female,26-35,1,Borderline,Cluster B
+Canada,Other,60+,0,,
+India,Male,46-60,0,,
+USA,Female,18-25,0,,
+USA,Female,18-25,0,,
+UK,Female,18-25,0,,
+Australia,Male,46-60,0,,
+USA,Female,60+,0,,
+UK,Female,18-25,0,,
+Australia,Female,46-60,0,,
+Canada,Other,36-45,0,,
+Canada,Male,60+,1,Obsessive-Compulsive,Cluster C
+USA,Male,18-25,1,Borderline,Cluster B
+India,Male,26-35,1,Antisocial,Cluster B
+Brazil,Other,60+,1,Avoidant,Cluster C
+India,Other,26-35,1,Schizotypal,Cluster A
+Australia,Male,60+,0,,
+UK,Other,46-60,0,,
+Australia,Female,46-60,1,Schizotypal,Cluster A
+Australia,Female,26-35,1,Obsessive-Compulsive,Cluster C
+India,Other,46-60,1,Histrionic,Cluster B
+India,Male,46-60,1,Antisocial,Cluster B
+India,Other,46-60,0,,
+Brazil,Male,60+,1,Histrionic,Cluster B
+Brazil,Male,26-35,0,,
+Brazil,Female,26-35,0,,
+India,Other,26-35,0,,
+Germany,Other,26-35,1,Borderline,Cluster B
+USA,Male,46-60,1,Histrionic,Cluster B
+UK,Female,26-35,1,Paranoid,Cluster A
+Canada,Male,46-60,0,,
+UK,Other,60+,0,,
+India,Female,18-25,0,,
+Brazil,Male,46-60,0,,
+Australia,Female,26-35,1,Histrionic,Cluster B
+UK,Female,26-35,0,,
+Germany,Other,46-60,0,,
+Brazil,Female,18-25,0,,
+Germany,Female,36-45,0,,
+USA,Male,46-60,1,Obsessive-Compulsive,Cluster C
+UK,Other,36-45,0,,
+Canada,Female,18-25,0,,
+USA,Other,26-35,0,,
+UK,Male,36-45,0,,
+Australia,Male,46-60,1,Schizotypal,Cluster A
+USA,Male,26-35,0,,
+India,Male,26-35,0,,
+Canada,Male,18-25,0,,
+USA,Male,46-60,0,,
+Germany,Male,60+,0,,
+Brazil,Other,26-35,1,Narcissistic,Cluster B
+Germany,Female,26-35,0,,
+India,Other,36-45,0,,
+Brazil,Other,18-25,0,,
+UK,Other,60+,1,Histrionic,Cluster B
+India,Female,46-60,0,,
+UK,Other,26-35,0,,
+UK,Female,36-45,0,,
+Canada,Other,60+,1,Narcissistic,Cluster B
+Canada,Female,18-25,0,,
+UK,Other,18-25,0,,
+USA,Female,60+,0,,
+Canada,Female,60+,1,Narcissistic,Cluster B
+USA,Male,36-45,0,,
+Brazil,Other,26-35,1,Narcissistic,Cluster B
+India,Male,26-35,0,,
+India,Female,36-45,0,,
+India,Female,26-35,1,Borderline,Cluster B
+Canada,Female,36-45,0,,
+UK,Male,26-35,1,Obsessive-Compulsive,Cluster C
+Australia,Female,36-45,1,Schizotypal,Cluster A
+UK,Female,46-60,1,Dependent,Cluster C
+Australia,Male,26-35,1,Obsessive-Compulsive,Cluster C
+USA,Female,46-60,0,,
+India,Female,46-60,0,,
+Brazil,Other,60+,0,,
+USA,Female,46-60,1,Schizotypal,Cluster A
+Germany,Other,46-60,1,Histrionic,Cluster B
+USA,Other,46-60,1,Narcissistic,Cluster B
+Australia,Male,60+,1,Antisocial,Cluster B
+Brazil,Female,26-35,0,,
+UK,Female,36-45,0,,
+Brazil,Other,26-35,1,Avoidant,Cluster C
+Australia,Female,26-35,0,,
+USA,Other,46-60,0,,
+Germany,Other,60+,0,,
+USA,Female,18-25,1,Dependent,Cluster C
+UK,Female,18-25,1,Antisocial,Cluster B
+Canada,Female,18-25,0,,
+Germany,Male,18-25,1,Avoidant,Cluster C
+USA,Male,26-35,0,,
+Canada,Other,18-25,1,Narcissistic,Cluster B

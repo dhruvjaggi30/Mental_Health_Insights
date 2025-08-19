@@ -1,0 +1,701 @@
+Country,Gender,Age Group,Diagnosed,Primary Symptom,Trigger Cause,Severity,Treatment Sought,Functional Impairment
+UK,Female,46-60,1,Disorganized Thinking,Substance Abuse,Severe,Yes,Personal
+Germany,Female,18-25,1,Disorganized Thinking,Brain Injury,Mild,Yes,Personal
+India,Male,18-25,1,Hallucinations,Substance Abuse,Moderate,Yes,Social
+Germany,Female,36-45,0,,,,,
+USA,Male,46-60,0,,,,,
+India,Female,18-25,1,Delusions,Trauma,Mild,Yes,Work
+India,Male,46-60,1,Catatonia,Trauma,Moderate,Yes,Social
+Canada,Male,36-45,0,,,,,
+UK,Male,36-45,1,Delusions,Trauma,Moderate,No,Work
+Canada,Female,18-25,1,Disorganized Thinking,Genetic,Severe,Yes,Personal
+Germany,Male,26-35,1,Delusions,Severe Stress,Mild,Yes,Work
+Germany,Female,26-35,1,Disorganized Thinking,Trauma,Moderate,No,Social
+India,Male,18-25,0,,,,,
+Canada,Female,26-35,1,Disorganized Thinking,Substance Abuse,Mild,Yes,Social
+India,Male,60+,1,Delusions,Substance Abuse,Mild,Yes,Social
+Australia,Male,26-35,1,Disorganized Thinking,Brain Injury,Moderate,No,Work
+Australia,Female,26-35,1,Hallucinations,Trauma,Severe,No,Social
+India,Female,36-45,0,,,,,
+Australia,Male,46-60,0,,,,,
+USA,Male,18-25,0,,,,,
+Australia,Male,46-60,0,,,,,
+Australia,Female,36-45,1,Hallucinations,Severe Stress,Moderate,Yes,Work
+USA,Female,46-60,1,Hallucinations,Severe Stress,Severe,No,Work
+Canada,Female,18-25,1,Disorganized Thinking,Trauma,Severe,No,Work
+Canada,Female,26-35,1,Disorganized Thinking,Severe Stress,Moderate,No,Work
+Canada,Female,36-45,1,Delusions,Brain Injury,Moderate,No,Social
+India,Male,26-35,0,,,,,
+India,Male,26-35,1,Delusions,Brain Injury,Mild,Yes,Personal
+Canada,Male,18-25,1,Delusions,Substance Abuse,Moderate,Yes,Work
+USA,Female,60+,1,Catatonia,Trauma,Severe,No,Personal
+Germany,Male,18-25,1,Hallucinations,Severe Stress,Severe,No,Work
+Canada,Male,60+,0,,,,,
+Germany,Male,18-25,1,Hallucinations,Brain Injury,Moderate,No,Personal
+Canada,Female,18-25,0,,,,,
+Canada,Male,18-25,1,Disorganized Thinking,Genetic,Mild,Yes,None
+USA,Female,26-35,1,Hallucinations,Substance Abuse,Severe,Yes,Personal
+Australia,Male,46-60,1,Disorganized Thinking,Substance Abuse,Mild,Yes,Work
+Australia,Female,18-25,1,Delusions,Substance Abuse,Moderate,No,Work
+UK,Female,36-45,1,Disorganized Thinking,Genetic,Mild,No,Social
+USA,Female,18-25,1,Disorganized Thinking,Genetic,Moderate,Yes,Work
+Canada,Female,Under 18,1,Hallucinations,Trauma,Moderate,Yes,Personal
+UK,Male,36-45,1,Hallucinations,Severe Stress,Mild,Yes,Work
+Australia,Male,26-35,0,,,,,
+India,Female,18-25,1,Hallucinations,Substance Abuse,Mild,No,Work
+Canada,Male,Under 18,0,,,,,
+Germany,Male,36-45,1,Catatonia,Substance Abuse,Severe,No,Social
+Germany,Male,18-25,1,Catatonia,Substance Abuse,Severe,No,Work
+USA,Female,46-60,1,Hallucinations,Trauma,Severe,Yes,None
+Australia,Male,26-35,1,Hallucinations,Genetic,Severe,No,Personal
+USA,Female,26-35,0,,,,,
+USA,Male,36-45,1,Catatonia,Severe Stress,Mild,Yes,Personal
+India,Female,60+,1,Disorganized Thinking,Substance Abuse,Moderate,Yes,Personal
+Germany,Female,46-60,1,Disorganized Thinking,Genetic,Moderate,No,Social
+Australia,Male,36-45,0,,,,,
+India,Female,36-45,0,,,,,
+USA,Male,36-45,0,,,,,
+Germany,Female,18-25,0,,,,,
+UK,Male,36-45,0,,,,,
+UK,Male,18-25,0,,,,,
+UK,Male,18-25,1,Disorganized Thinking,Severe Stress,Moderate,No,Social
+USA,Male,26-35,0,,,,,
+UK,Female,60+,1,Disorganized Thinking,Trauma,Severe,Yes,None
+Germany,Male,18-25,0,,,,,
+Germany,Male,26-35,0,,,,,
+Canada,Female,46-60,0,,,,,
+USA,Male,18-25,0,,,,,
+Canada,Female,18-25,0,,,,,
+Canada,Male,26-35,1,Delusions,Genetic,Mild,No,Work
+Canada,Male,18-25,1,Disorganized Thinking,Brain Injury,Severe,No,None
+UK,Female,26-35,1,Catatonia,Brain Injury,Moderate,Yes,Social
+USA,Male,26-35,1,Delusions,Brain Injury,Mild,No,Social
+USA,Male,26-35,1,Hallucinations,Genetic,Moderate,Yes,Social
+UK,Female,18-25,1,Catatonia,Severe Stress,Severe,No,Personal
+UK,Female,26-35,1,Hallucinations,Trauma,Severe,Yes,Work
+USA,Female,26-35,0,,,,,
+India,Male,46-60,1,Delusions,Genetic,Mild,Yes,Personal
+Germany,Female,26-35,1,Hallucinations,Trauma,Mild,No,Work
+USA,Male,Under 18,0,,,,,
+Germany,Female,46-60,0,,,,,
+UK,Female,26-35,0,,,,,
+Germany,Female,46-60,1,Catatonia,Brain Injury,Severe,No,None
+Germany,Female,18-25,1,Hallucinations,Substance Abuse,Moderate,No,Personal
+UK,Female,60+,0,,,,,
+Australia,Male,26-35,0,,,,,
+Australia,Female,18-25,1,Catatonia,Severe Stress,Moderate,Yes,Social
+Canada,Female,36-45,1,Catatonia,Substance Abuse,Mild,Yes,Work
+Germany,Female,46-60,0,,,,,
+Canada,Female,18-25,1,Disorganized Thinking,Genetic,Moderate,Yes,Personal
+Canada,Male,26-35,0,,,,,
+India,Female,Under 18,1,Disorganized Thinking,Substance Abuse,Severe,Yes,Personal
+Australia,Male,60+,0,,,,,
+USA,Male,Under 18,0,,,,,
+UK,Female,60+,1,Hallucinations,Trauma,Mild,Yes,Work
+Canada,Female,36-45,0,,,,,
+Canada,Male,26-35,1,Delusions,Brain Injury,Mild,No,Social
+Canada,Female,36-45,1,Catatonia,Severe Stress,Mild,Yes,Personal
+Germany,Male,26-35,1,Disorganized Thinking,Substance Abuse,Severe,No,Personal
+USA,Female,26-35,1,Hallucinations,Genetic,Severe,No,Social
+USA,Female,18-25,1,Catatonia,Brain Injury,Severe,No,None
+India,Female,18-25,1,Delusions,Severe Stress,Moderate,No,None
+USA,Male,18-25,1,Delusions,Trauma,Mild,Yes,None
+UK,Female,18-25,0,,,,,
+UK,Male,18-25,0,,,,,
+USA,Female,36-45,1,Delusions,Brain Injury,Moderate,No,Work
+UK,Male,18-25,0,,,,,
+Australia,Female,60+,0,,,,,
+India,Male,36-45,1,Catatonia,Substance Abuse,Moderate,Yes,None
+India,Male,26-35,0,,,,,
+USA,Female,46-60,1,Delusions,Substance Abuse,Severe,No,Personal
+India,Male,26-35,0,,,,,
+India,Male,18-25,1,Hallucinations,Substance Abuse,Severe,Yes,Social
+Canada,Female,46-60,0,,,,,
+UK,Male,36-45,1,Catatonia,Severe Stress,Moderate,No,Personal
+Australia,Female,36-45,0,,,,,
+Germany,Male,26-35,1,Catatonia,Substance Abuse,Severe,Yes,Work
+India,Male,36-45,0,,,,,
+Australia,Female,36-45,1,Hallucinations,Genetic,Mild,No,Personal
+Australia,Male,60+,1,Hallucinations,Substance Abuse,Mild,Yes,Work
+Germany,Male,60+,1,Catatonia,Severe Stress,Moderate,Yes,Work
+Australia,Female,18-25,1,Catatonia,Severe Stress,Moderate,Yes,Social
+Australia,Male,36-45,0,,,,,
+Germany,Male,26-35,1,Catatonia,Severe Stress,Mild,Yes,Personal
+Australia,Female,26-35,0,,,,,
+Canada,Male,26-35,1,Disorganized Thinking,Severe Stress,Mild,Yes,Social
+Australia,Male,60+,0,,,,,
+Canada,Male,26-35,1,Hallucinations,Brain Injury,Moderate,No,None
+Germany,Female,46-60,1,Disorganized Thinking,Brain Injury,Mild,Yes,Social
+India,Female,18-25,0,,,,,
+Germany,Female,26-35,0,,,,,
+Germany,Male,46-60,1,Delusions,Substance Abuse,Mild,Yes,Personal
+Australia,Male,18-25,0,,,,,
+UK,Female,60+,1,Delusions,Severe Stress,Mild,No,Social
+Canada,Female,26-35,0,,,,,
+UK,Male,26-35,1,Disorganized Thinking,Severe Stress,Severe,No,Personal
+UK,Male,60+,1,Disorganized Thinking,Trauma,Mild,Yes,Work
+India,Female,26-35,1,Catatonia,Brain Injury,Moderate,No,Work
+Germany,Male,26-35,1,Hallucinations,Substance Abuse,Moderate,Yes,Social
+USA,Female,46-60,1,Catatonia,Trauma,Moderate,No,Personal
+USA,Male,36-45,1,Hallucinations,Severe Stress,Moderate,Yes,None
+Australia,Male,36-45,1,Catatonia,Substance Abuse,Moderate,No,Social
+UK,Male,26-35,1,Hallucinations,Severe Stress,Moderate,Yes,Work
+Canada,Male,46-60,0,,,,,
+USA,Male,18-25,1,Delusions,Brain Injury,Mild,Yes,Work
+India,Female,18-25,0,,,,,
+UK,Male,26-35,1,Catatonia,Trauma,Moderate,Yes,Social
+Germany,Female,18-25,1,Disorganized Thinking,Brain Injury,Moderate,No,None
+USA,Female,26-35,1,Catatonia,Trauma,Severe,Yes,Social
+India,Male,18-25,1,Delusions,Trauma,Mild,No,Social
+UK,Male,46-60,0,,,,,
+Australia,Male,18-25,0,,,,,
+USA,Female,36-45,1,Delusions,Severe Stress,Severe,No,Work
+USA,Male,46-60,0,,,,,
+India,Female,36-45,0,,,,,
+India,Female,36-45,0,,,,,
+India,Male,Under 18,1,Delusions,Genetic,Severe,Yes,Work
+Germany,Female,36-45,1,Disorganized Thinking,Genetic,Mild,Yes,Social
+Australia,Male,26-35,0,,,,,
+UK,Female,18-25,1,Disorganized Thinking,Trauma,Moderate,Yes,Work
+USA,Male,46-60,1,Catatonia,Severe Stress,Moderate,No,Work
+Australia,Female,36-45,1,Catatonia,Genetic,Moderate,Yes,Personal
+Canada,Male,26-35,1,Delusions,Genetic,Severe,No,Personal
+USA,Female,26-35,1,Hallucinations,Severe Stress,Mild,Yes,Work
+Australia,Male,36-45,1,Hallucinations,Genetic,Severe,Yes,Work
+Germany,Male,26-35,0,,,,,
+Australia,Male,36-45,0,,,,,
+India,Male,26-35,0,,,,,
+Germany,Male,60+,0,,,,,
+USA,Male,26-35,0,,,,,
+Germany,Female,36-45,1,Catatonia,Genetic,Moderate,No,Social
+Germany,Female,26-35,1,Disorganized Thinking,Trauma,Mild,No,Personal
+Canada,Female,36-45,1,Delusions,Severe Stress,Moderate,Yes,Social
+Australia,Female,46-60,0,,,,,
+India,Male,36-45,1,Catatonia,Severe Stress,Mild,No,Social
+Germany,Male,46-60,0,,,,,
+Canada,Male,26-35,1,Hallucinations,Severe Stress,Severe,Yes,Social
+UK,Female,36-45,0,,,,,
+USA,Female,26-35,0,,,,,
+Canada,Female,18-25,1,Catatonia,Substance Abuse,Mild,No,Work
+Germany,Male,Under 18,1,Hallucinations,Substance Abuse,Mild,Yes,Social
+Germany,Male,18-25,1,Disorganized Thinking,Genetic,Severe,Yes,Social
+Australia,Female,18-25,0,,,,,
+Australia,Male,26-35,1,Catatonia,Substance Abuse,Moderate,No,Personal
+Australia,Male,18-25,1,Hallucinations,Genetic,Severe,No,None
+Australia,Male,Under 18,0,,,,,
+USA,Female,18-25,1,Catatonia,Brain Injury,Moderate,No,None
+UK,Male,26-35,1,Disorganized Thinking,Substance Abuse,Severe,No,Work
+UK,Female,46-60,0,,,,,
+Canada,Female,26-35,0,,,,,
+Canada,Female,18-25,1,Hallucinations,Genetic,Mild,No,Personal
+Australia,Female,36-45,0,,,,,
+USA,Male,26-35,1,Catatonia,Substance Abuse,Moderate,Yes,Work
+Australia,Female,26-35,1,Hallucinations,Severe Stress,Mild,Yes,None
+USA,Male,26-35,1,Hallucinations,Substance Abuse,Moderate,Yes,Personal
+India,Female,60+,1,Catatonia,Trauma,Moderate,No,Work
+USA,Male,Under 18,1,Disorganized Thinking,Severe Stress,Mild,Yes,None
+Germany,Female,26-35,1,Catatonia,Genetic,Moderate,No,Work
+Canada,Male,Under 18,1,Hallucinations,Trauma,Moderate,Yes,Personal
+USA,Male,26-35,1,Disorganized Thinking,Trauma,Moderate,No,Work
+USA,Female,26-35,0,,,,,
+Australia,Male,26-35,0,,,,,
+Australia,Male,46-60,0,,,,,
+UK,Male,Under 18,0,,,,,
+India,Female,26-35,1,Catatonia,Genetic,Moderate,Yes,Social
+Canada,Male,46-60,0,,,,,
+USA,Male,Under 18,0,,,,,
+Canada,Female,26-35,1,Hallucinations,Brain Injury,Severe,No,Personal
+Germany,Male,26-35,1,Disorganized Thinking,Brain Injury,Moderate,No,None
+Australia,Female,60+,0,,,,,
+Australia,Female,26-35,1,Catatonia,Brain Injury,Severe,No,None
+India,Female,26-35,0,,,,,
+Canada,Male,18-25,1,Catatonia,Genetic,Moderate,Yes,None
+UK,Female,36-45,1,Delusions,Severe Stress,Moderate,No,Work
+Canada,Male,18-25,1,Disorganized Thinking,Severe Stress,Moderate,Yes,Social
+India,Female,18-25,1,Disorganized Thinking,Brain Injury,Severe,No,Work
+UK,Male,18-25,1,Catatonia,Brain Injury,Moderate,No,Personal
+India,Male,18-25,1,Hallucinations,Substance Abuse,Moderate,No,Work
+USA,Female,18-25,1,Delusions,Brain Injury,Mild,No,Personal
+Canada,Male,26-35,0,,,,,
+India,Male,18-25,1,Catatonia,Severe Stress,Moderate,No,None
+USA,Male,60+,1,Delusions,Trauma,Moderate,No,None
+UK,Female,46-60,1,Disorganized Thinking,Genetic,Severe,Yes,Personal
+USA,Female,26-35,1,Catatonia,Severe Stress,Mild,No,Social
+UK,Male,26-35,0,,,,,
+UK,Male,26-35,0,,,,,
+India,Male,46-60,1,Disorganized Thinking,Genetic,Moderate,No,None
+UK,Male,26-35,1,Disorganized Thinking,Substance Abuse,Moderate,No,Work
+Canada,Female,18-25,1,Disorganized Thinking,Genetic,Mild,No,None
+Germany,Male,26-35,0,,,,,
+Australia,Female,36-45,0,,,,,
+Australia,Male,46-60,1,Disorganized Thinking,Severe Stress,Mild,Yes,Social
+Australia,Male,60+,0,,,,,
+India,Male,Under 18,0,,,,,
+India,Female,46-60,1,Disorganized Thinking,Brain Injury,Severe,No,None
+India,Male,60+,0,,,,,
+India,Female,26-35,1,Hallucinations,Severe Stress,Mild,Yes,Work
+UK,Female,60+,1,Hallucinations,Substance Abuse,Severe,No,Personal
+UK,Female,36-45,1,Catatonia,Trauma,Moderate,Yes,None
+India,Female,26-35,1,Catatonia,Trauma,Moderate,No,Work
+Germany,Male,26-35,1,Catatonia,Trauma,Moderate,Yes,Work
+USA,Male,36-45,1,Hallucinations,Brain Injury,Moderate,No,Social
+Canada,Female,18-25,1,Catatonia,Substance Abuse,Mild,No,Personal
+UK,Female,60+,1,Hallucinations,Genetic,Moderate,No,Social
+Canada,Female,26-35,0,,,,,
+Canada,Female,18-25,0,,,,,
+UK,Male,26-35,1,Disorganized Thinking,Severe Stress,Severe,No,Social
+Canada,Male,36-45,1,Hallucinations,Trauma,Moderate,Yes,Social
+USA,Male,46-60,0,,,,,
+Canada,Female,60+,1,Catatonia,Genetic,Severe,Yes,None
+Canada,Female,Under 18,1,Disorganized Thinking,Trauma,Severe,Yes,Personal
+India,Female,26-35,1,Catatonia,Trauma,Moderate,Yes,Personal
+India,Male,36-45,0,,,,,
+Germany,Female,36-45,0,,,,,
+Canada,Male,26-35,1,Disorganized Thinking,Severe Stress,Moderate,No,None
+USA,Female,36-45,0,,,,,
+Canada,Female,26-35,0,,,,,
+UK,Female,36-45,1,Disorganized Thinking,Brain Injury,Severe,Yes,Social
+USA,Male,18-25,1,Disorganized Thinking,Brain Injury,Mild,No,Social
+Germany,Female,18-25,1,Delusions,Substance Abuse,Mild,Yes,Personal
+Canada,Female,26-35,1,Catatonia,Brain Injury,Moderate,No,None
+USA,Male,60+,1,Disorganized Thinking,Substance Abuse,Mild,No,Personal
+India,Female,18-25,0,,,,,
+USA,Male,36-45,0,,,,,
+Australia,Male,26-35,1,Disorganized Thinking,Brain Injury,Mild,No,Personal
+India,Male,26-35,0,,,,,
+USA,Female,46-60,1,Hallucinations,Severe Stress,Mild,No,Personal
+Australia,Male,60+,1,Catatonia,Substance Abuse,Moderate,No,Personal
+Canada,Male,36-45,1,Catatonia,Severe Stress,Mild,Yes,Personal
+USA,Male,Under 18,1,Disorganized Thinking,Trauma,Moderate,No,Work
+Canada,Female,26-35,0,,,,,
+Australia,Male,26-35,0,,,,,
+UK,Male,26-35,0,,,,,
+USA,Female,36-45,0,,,,,
+India,Male,46-60,1,Disorganized Thinking,Brain Injury,Mild,Yes,Personal
+India,Male,26-35,0,,,,,
+Australia,Male,60+,0,,,,,
+UK,Female,18-25,1,Catatonia,Genetic,Moderate,No,Personal
+India,Male,46-60,1,Disorganized Thinking,Trauma,Severe,No,Personal
+India,Male,36-45,1,Catatonia,Brain Injury,Moderate,Yes,None
+Canada,Female,26-35,0,,,,,
+India,Male,26-35,1,Hallucinations,Substance Abuse,Mild,No,None
+Canada,Female,26-35,0,,,,,
+Germany,Male,18-25,1,Delusions,Severe Stress,Mild,No,Work
+UK,Male,18-25,0,,,,,
+UK,Female,26-35,0,,,,,
+India,Female,18-25,0,,,,,
+India,Female,46-60,0,,,,,
+UK,Female,18-25,1,Delusions,Severe Stress,Mild,No,Social
+USA,Male,18-25,1,Delusions,Substance Abuse,Mild,Yes,None
+USA,Male,18-25,1,Delusions,Severe Stress,Moderate,Yes,Personal
+Canada,Female,46-60,0,,,,,
+USA,Female,36-45,1,Hallucinations,Substance Abuse,Mild,No,Social
+USA,Male,18-25,0,,,,,
+UK,Male,26-35,1,Disorganized Thinking,Substance Abuse,Severe,No,None
+Australia,Male,36-45,0,,,,,
+Germany,Female,36-45,1,Hallucinations,Brain Injury,Mild,Yes,Social
+Canada,Male,26-35,1,Disorganized Thinking,Severe Stress,Severe,Yes,Social
+India,Male,26-35,0,,,,,
+India,Male,Under 18,0,,,,,
+Germany,Female,26-35,0,,,,,
+Canada,Male,26-35,0,,,,,
+USA,Female,36-45,0,,,,,
+Canada,Female,36-45,1,Delusions,Brain Injury,Severe,No,Personal
+Australia,Female,26-35,1,Disorganized Thinking,Severe Stress,Mild,No,Social
+USA,Female,36-45,0,,,,,
+Canada,Male,26-35,1,Delusions,Genetic,Moderate,No,Personal
+USA,Male,26-35,0,,,,,
+UK,Male,36-45,0,,,,,
+USA,Male,26-35,1,Hallucinations,Brain Injury,Mild,No,Social
+Canada,Male,46-60,1,Disorganized Thinking,Genetic,Moderate,Yes,Social
+India,Male,26-35,1,Delusions,Brain Injury,Moderate,No,Personal
+Germany,Female,26-35,1,Disorganized Thinking,Severe Stress,Mild,No,None
+Australia,Male,18-25,1,Catatonia,Trauma,Severe,No,Social
+Australia,Female,36-45,1,Hallucinations,Trauma,Moderate,No,None
+Canada,Male,26-35,1,Disorganized Thinking,Trauma,Moderate,No,Social
+Canada,Female,36-45,1,Catatonia,Brain Injury,Severe,No,Social
+Australia,Male,26-35,1,Catatonia,Trauma,Moderate,No,Social
+Germany,Female,46-60,1,Hallucinations,Trauma,Mild,Yes,Social
+Australia,Female,36-45,0,,,,,
+Canada,Female,46-60,0,,,,,
+Canada,Male,60+,1,Catatonia,Genetic,Moderate,No,None
+USA,Female,36-45,0,,,,,
+Australia,Female,26-35,1,Disorganized Thinking,Trauma,Severe,Yes,Work
+Germany,Female,60+,1,Catatonia,Brain Injury,Moderate,Yes,None
+USA,Female,60+,0,,,,,
+Canada,Male,46-60,0,,,,,
+India,Female,Under 18,1,Hallucinations,Trauma,Severe,No,None
+Germany,Female,36-45,1,Catatonia,Substance Abuse,Moderate,Yes,Personal
+USA,Male,18-25,0,,,,,
+Canada,Female,26-35,1,Hallucinations,Substance Abuse,Moderate,Yes,Work
+UK,Male,18-25,1,Catatonia,Substance Abuse,Mild,No,Work
+Canada,Male,36-45,1,Hallucinations,Trauma,Moderate,Yes,Personal
+Australia,Female,46-60,1,Hallucinations,Severe Stress,Moderate,Yes,Work
+India,Male,60+,1,Catatonia,Genetic,Moderate,Yes,Work
+Germany,Male,36-45,0,,,,,
+Canada,Female,18-25,0,,,,,
+Germany,Male,18-25,1,Delusions,Substance Abuse,Moderate,No,Personal
+Germany,Female,26-35,0,,,,,
+India,Male,26-35,0,,,,,
+USA,Male,60+,0,,,,,
+Canada,Female,60+,1,Hallucinations,Severe Stress,Moderate,Yes,None
+Australia,Male,36-45,1,Catatonia,Genetic,Mild,No,Work
+Germany,Male,36-45,0,,,,,
+Germany,Male,26-35,1,Delusions,Genetic,Severe,Yes,None
+Australia,Female,26-35,0,,,,,
+USA,Female,26-35,0,,,,,
+Australia,Male,26-35,1,Catatonia,Severe Stress,Moderate,Yes,Work
+Canada,Female,60+,0,,,,,
+Canada,Female,36-45,0,,,,,
+Australia,Male,18-25,0,,,,,
+Canada,Female,46-60,1,Delusions,Substance Abuse,Moderate,No,Personal
+UK,Female,26-35,0,,,,,
+India,Male,18-25,0,,,,,
+Canada,Male,26-35,1,Hallucinations,Brain Injury,Moderate,Yes,Personal
+USA,Female,36-45,1,Delusions,Genetic,Severe,No,Social
+Germany,Male,26-35,0,,,,,
+India,Male,Under 18,1,Delusions,Severe Stress,Moderate,Yes,Social
+Canada,Male,46-60,1,Catatonia,Brain Injury,Severe,No,Social
+Germany,Female,36-45,1,Disorganized Thinking,Severe Stress,Severe,No,Personal
+UK,Male,36-45,1,Disorganized Thinking,Brain Injury,Moderate,No,Personal
+Canada,Male,26-35,1,Disorganized Thinking,Severe Stress,Mild,No,Work
+Australia,Female,46-60,0,,,,,
+India,Female,36-45,0,,,,,
+Canada,Female,18-25,0,,,,,
+Canada,Female,60+,0,,,,,
+Australia,Male,46-60,1,Disorganized Thinking,Genetic,Severe,No,Personal
+India,Female,46-60,1,Delusions,Severe Stress,Mild,Yes,Personal
+UK,Male,18-25,1,Hallucinations,Trauma,Moderate,Yes,Personal
+USA,Male,60+,1,Catatonia,Genetic,Moderate,No,Social
+India,Female,36-45,1,Hallucinations,Trauma,Moderate,Yes,Social
+USA,Male,18-25,1,Hallucinations,Substance Abuse,Moderate,No,Personal
+Germany,Male,18-25,0,,,,,
+Canada,Male,26-35,0,,,,,
+Australia,Male,18-25,1,Hallucinations,Substance Abuse,Moderate,No,Personal
+Canada,Male,46-60,1,Delusions,Trauma,Mild,No,None
+UK,Male,26-35,1,Delusions,Trauma,Mild,Yes,Social
+Australia,Female,26-35,0,,,,,
+USA,Female,26-35,1,Disorganized Thinking,Severe Stress,Mild,No,Social
+India,Female,Under 18,1,Delusions,Substance Abuse,Moderate,No,None
+Germany,Female,36-45,0,,,,,
+India,Female,26-35,1,Delusions,Substance Abuse,Mild,No,Social
+India,Male,18-25,1,Hallucinations,Trauma,Mild,Yes,None
+Australia,Female,36-45,1,Disorganized Thinking,Substance Abuse,Severe,Yes,None
+Australia,Male,26-35,1,Delusions,Trauma,Severe,Yes,Personal
+Germany,Female,60+,0,,,,,
+Australia,Male,18-25,0,,,,,
+Germany,Male,46-60,1,Delusions,Trauma,Moderate,No,Social
+USA,Female,26-35,0,,,,,
+Canada,Female,60+,0,,,,,
+Germany,Male,26-35,0,,,,,
+USA,Female,36-45,1,Delusions,Brain Injury,Mild,Yes,Social
+UK,Male,18-25,0,,,,,
+UK,Female,36-45,1,Hallucinations,Brain Injury,Severe,No,None
+India,Female,18-25,1,Hallucinations,Genetic,Severe,No,Work
+Australia,Female,26-35,1,Disorganized Thinking,Brain Injury,Severe,Yes,Work
+India,Female,36-45,1,Delusions,Substance Abuse,Moderate,Yes,None
+UK,Male,18-25,1,Delusions,Trauma,Moderate,Yes,Personal
+Canada,Female,36-45,0,,,,,
+Germany,Female,36-45,1,Disorganized Thinking,Brain Injury,Moderate,Yes,Social
+Canada,Female,46-60,0,,,,,
+Australia,Female,36-45,1,Delusions,Trauma,Mild,No,Personal
+Australia,Female,36-45,1,Catatonia,Substance Abuse,Mild,No,None
+UK,Female,26-35,1,Delusions,Brain Injury,Mild,Yes,Personal
+Canada,Female,Under 18,1,Catatonia,Trauma,Moderate,No,Work
+USA,Female,18-25,0,,,,,
+Australia,Male,36-45,1,Catatonia,Brain Injury,Moderate,Yes,Work
+Canada,Female,36-45,0,,,,,
+USA,Male,60+,1,Delusions,Genetic,Mild,No,None
+India,Male,36-45,0,,,,,
+Germany,Male,26-35,1,Catatonia,Severe Stress,Mild,Yes,None
+UK,Male,36-45,0,,,,,
+Canada,Male,26-35,1,Disorganized Thinking,Genetic,Mild,Yes,Work
+India,Male,Under 18,1,Hallucinations,Trauma,Moderate,Yes,Work
+Germany,Female,26-35,1,Catatonia,Trauma,Moderate,No,Work
+India,Male,46-60,0,,,,,
+UK,Male,26-35,1,Disorganized Thinking,Substance Abuse,Severe,No,Personal
+Canada,Male,36-45,1,Catatonia,Trauma,Moderate,Yes,None
+Australia,Female,46-60,0,,,,,
+USA,Female,46-60,1,Hallucinations,Genetic,Moderate,No,Work
+India,Male,18-25,0,,,,,
+India,Male,36-45,1,Disorganized Thinking,Severe Stress,Moderate,Yes,Social
+Australia,Female,26-35,0,,,,,
+Germany,Male,46-60,1,Disorganized Thinking,Substance Abuse,Moderate,Yes,Personal
+UK,Female,Under 18,1,Disorganized Thinking,Trauma,Mild,Yes,Social
+USA,Female,26-35,1,Hallucinations,Trauma,Severe,No,Personal
+Canada,Male,26-35,0,,,,,
+Germany,Female,36-45,1,Catatonia,Trauma,Severe,No,Work
+Australia,Male,18-25,1,Delusions,Severe Stress,Moderate,Yes,None
+India,Female,26-35,1,Delusions,Substance Abuse,Mild,Yes,Work
+Germany,Male,46-60,0,,,,,
+USA,Female,18-25,0,,,,,
+UK,Male,60+,1,Hallucinations,Trauma,Mild,Yes,Social
+India,Male,18-25,1,Hallucinations,Substance Abuse,Moderate,Yes,Work
+USA,Male,36-45,1,Catatonia,Severe Stress,Moderate,No,Social
+UK,Female,26-35,1,Hallucinations,Brain Injury,Mild,Yes,Work
+Canada,Male,46-60,1,Catatonia,Trauma,Moderate,Yes,Personal
+India,Male,26-35,1,Catatonia,Severe Stress,Moderate,No,Personal
+Australia,Female,36-45,0,,,,,
+UK,Male,60+,1,Hallucinations,Severe Stress,Severe,Yes,None
+UK,Male,46-60,1,Catatonia,Trauma,Severe,Yes,Personal
+Australia,Female,36-45,1,Hallucinations,Brain Injury,Severe,Yes,Work
+Australia,Female,26-35,1,Disorganized Thinking,Substance Abuse,Moderate,No,None
+USA,Male,18-25,1,Delusions,Trauma,Mild,Yes,Social
+Australia,Male,26-35,0,,,,,
+UK,Female,26-35,1,Hallucinations,Genetic,Moderate,Yes,Personal
+India,Male,46-60,0,,,,,
+Canada,Female,18-25,1,Delusions,Brain Injury,Moderate,Yes,Social
+USA,Male,36-45,0,,,,,
+Canada,Female,46-60,0,,,,,
+UK,Male,36-45,0,,,,,
+Australia,Male,46-60,1,Disorganized Thinking,Severe Stress,Mild,Yes,Work
+India,Male,26-35,1,Hallucinations,Severe Stress,Moderate,No,None
+USA,Female,46-60,1,Delusions,Trauma,Moderate,Yes,None
+Australia,Female,36-45,0,,,,,
+UK,Male,18-25,1,Hallucinations,Brain Injury,Mild,No,Social
+India,Female,36-45,0,,,,,
+Germany,Male,18-25,1,Disorganized Thinking,Substance Abuse,Moderate,No,Work
+UK,Female,18-25,1,Catatonia,Genetic,Moderate,Yes,Social
+Canada,Female,60+,1,Hallucinations,Brain Injury,Mild,Yes,Work
+India,Male,18-25,1,Catatonia,Genetic,Mild,Yes,None
+Australia,Female,60+,0,,,,,
+UK,Male,26-35,1,Hallucinations,Trauma,Mild,Yes,None
+India,Female,18-25,0,,,,,
+UK,Male,46-60,0,,,,,
+Canada,Female,26-35,1,Delusions,Brain Injury,Mild,Yes,Personal
+Canada,Male,60+,1,Delusions,Genetic,Severe,No,None
+Canada,Male,26-35,1,Catatonia,Trauma,Moderate,Yes,Personal
+India,Female,26-35,1,Disorganized Thinking,Trauma,Mild,No,Personal
+USA,Female,60+,1,Hallucinations,Substance Abuse,Moderate,Yes,Personal
+UK,Male,60+,0,,,,,
+UK,Male,36-45,1,Catatonia,Substance Abuse,Moderate,Yes,Personal
+UK,Male,18-25,1,Catatonia,Trauma,Moderate,Yes,Social
+Australia,Female,46-60,1,Delusions,Severe Stress,Moderate,No,Work
+India,Female,26-35,1,Disorganized Thinking,Severe Stress,Severe,Yes,None
+USA,Male,18-25,1,Disorganized Thinking,Trauma,Severe,Yes,Social
+Australia,Female,26-35,1,Delusions,Substance Abuse,Moderate,No,Social
+Australia,Female,18-25,0,,,,,
+USA,Female,26-35,0,,,,,
+India,Female,60+,0,,,,,
+India,Female,18-25,0,,,,,
+Australia,Male,Under 18,0,,,,,
+India,Male,26-35,1,Catatonia,Genetic,Mild,Yes,None
+Germany,Female,26-35,1,Catatonia,Genetic,Moderate,No,Social
+Australia,Female,26-35,1,Disorganized Thinking,Severe Stress,Moderate,Yes,Personal
+USA,Female,36-45,1,Catatonia,Brain Injury,Mild,No,Social
+India,Female,18-25,1,Hallucinations,Genetic,Mild,Yes,None
+Canada,Male,36-45,0,,,,,
+Germany,Female,26-35,1,Delusions,Severe Stress,Mild,Yes,None
+India,Male,18-25,0,,,,,
+Canada,Female,36-45,1,Disorganized Thinking,Trauma,Mild,No,Social
+Germany,Female,18-25,1,Hallucinations,Trauma,Moderate,Yes,Work
+Germany,Male,26-35,1,Catatonia,Trauma,Moderate,No,Social
+UK,Male,26-35,0,,,,,
+Germany,Male,60+,0,,,,,
+USA,Male,26-35,1,Disorganized Thinking,Trauma,Moderate,Yes,Personal
+USA,Male,18-25,1,Disorganized Thinking,Brain Injury,Severe,No,None
+India,Female,26-35,1,Hallucinations,Severe Stress,Mild,Yes,Work
+USA,Male,36-45,1,Hallucinations,Severe Stress,Mild,Yes,Social
+USA,Female,Under 18,0,,,,,
+USA,Female,60+,1,Catatonia,Trauma,Moderate,Yes,Social
+India,Female,46-60,1,Disorganized Thinking,Brain Injury,Severe,No,None
+Australia,Male,26-35,1,Hallucinations,Substance Abuse,Severe,No,None
+Canada,Female,18-25,1,Delusions,Trauma,Moderate,No,Social
+UK,Male,36-45,0,,,,,
+Australia,Male,18-25,1,Delusions,Brain Injury,Severe,No,None
+Canada,Female,36-45,0,,,,,
+USA,Female,46-60,0,,,,,
+Australia,Female,26-35,0,,,,,
+India,Male,46-60,1,Delusions,Trauma,Mild,No,Personal
+Canada,Female,26-35,0,,,,,
+Germany,Male,60+,1,Hallucinations,Severe Stress,Moderate,Yes,None
+USA,Female,26-35,1,Disorganized Thinking,Substance Abuse,Moderate,No,Personal
+Canada,Male,Under 18,1,Catatonia,Genetic,Moderate,Yes,Social
+USA,Male,Under 18,0,,,,,
+UK,Male,18-25,1,Catatonia,Severe Stress,Mild,No,Personal
+USA,Male,Under 18,0,,,,,
+Canada,Female,36-45,1,Hallucinations,Genetic,Mild,No,None
+Canada,Female,26-35,0,,,,,
+UK,Male,26-35,1,Hallucinations,Severe Stress,Mild,Yes,Work
+Australia,Female,46-60,1,Delusions,Severe Stress,Mild,Yes,Work
+Canada,Female,18-25,1,Delusions,Genetic,Severe,Yes,Work
+Germany,Female,18-25,1,Catatonia,Trauma,Severe,Yes,Personal
+Germany,Male,26-35,0,,,,,
+USA,Female,36-45,1,Catatonia,Severe Stress,Mild,No,None
+UK,Male,26-35,1,Delusions,Severe Stress,Moderate,No,Social
+Canada,Female,26-35,1,Delusions,Severe Stress,Moderate,No,Personal
+India,Male,60+,0,,,,,
+UK,Female,46-60,1,Disorganized Thinking,Brain Injury,Mild,No,Personal
+USA,Male,26-35,1,Hallucinations,Severe Stress,Severe,Yes,Work
+Australia,Male,46-60,0,,,,,
+USA,Male,46-60,1,Hallucinations,Trauma,Moderate,No,Social
+USA,Male,60+,0,,,,,
+USA,Male,26-35,0,,,,,
+Australia,Male,36-45,1,Delusions,Brain Injury,Mild,No,None
+USA,Male,46-60,1,Disorganized Thinking,Trauma,Severe,Yes,Personal
+India,Female,60+,0,,,,,
+India,Male,46-60,0,,,,,
+Germany,Female,26-35,0,,,,,
+Germany,Female,18-25,1,Disorganized Thinking,Severe Stress,Moderate,No,Social
+India,Female,60+,1,Catatonia,Substance Abuse,Moderate,Yes,None
+India,Male,26-35,1,Disorganized Thinking,Genetic,Severe,No,Personal
+UK,Female,18-25,0,,,,,
+UK,Female,26-35,1,Catatonia,Brain Injury,Moderate,Yes,Work
+Australia,Female,36-45,0,,,,,
+India,Female,36-45,1,Hallucinations,Severe Stress,Mild,Yes,Social
+Germany,Female,18-25,0,,,,,
+Germany,Female,36-45,0,,,,,
+USA,Female,18-25,0,,,,,
+India,Male,26-35,0,,,,,
+Canada,Female,26-35,0,,,,,
+USA,Male,60+,0,,,,,
+Germany,Male,18-25,0,,,,,
+USA,Female,46-60,1,Catatonia,Substance Abuse,Moderate,No,Social
+Australia,Female,36-45,1,Hallucinations,Trauma,Mild,No,Work
+USA,Male,18-25,0,,,,,
+Germany,Female,18-25,1,Delusions,Severe Stress,Mild,Yes,Personal
+India,Female,18-25,1,Disorganized Thinking,Trauma,Severe,No,Personal
+USA,Male,18-25,0,,,,,
+Australia,Male,26-35,1,Delusions,Genetic,Moderate,No,Personal
+UK,Male,26-35,0,,,,,
+UK,Female,18-25,0,,,,,
+UK,Male,18-25,0,,,,,
+Canada,Female,26-35,0,,,,,
+Canada,Female,26-35,1,Hallucinations,Brain Injury,Severe,Yes,None
+UK,Female,Under 18,0,,,,,
+USA,Female,60+,0,,,,,
+India,Male,18-25,1,Disorganized Thinking,Trauma,Severe,Yes,Social
+UK,Male,26-35,1,Catatonia,Genetic,Moderate,Yes,Personal
+Canada,Female,26-35,0,,,,,
+USA,Female,26-35,1,Hallucinations,Substance Abuse,Mild,Yes,Personal
+Canada,Male,36-45,0,,,,,
+USA,Female,26-35,1,Delusions,Trauma,Moderate,No,Work
+UK,Male,26-35,1,Catatonia,Brain Injury,Moderate,No,Work
+UK,Male,36-45,0,,,,,
+USA,Female,26-35,0,,,,,
+Australia,Female,26-35,1,Disorganized Thinking,Brain Injury,Severe,No,Personal
+USA,Male,26-35,1,Catatonia,Severe Stress,Moderate,No,Personal
+UK,Female,26-35,1,Disorganized Thinking,Genetic,Mild,Yes,Personal
+Germany,Male,18-25,1,Catatonia,Severe Stress,Moderate,Yes,Personal
+Canada,Male,36-45,0,,,,,
+India,Male,Under 18,0,,,,,
+Canada,Female,36-45,1,Catatonia,Genetic,Mild,No,Social
+USA,Female,26-35,1,Disorganized Thinking,Substance Abuse,Moderate,Yes,None
+UK,Male,26-35,1,Hallucinations,Genetic,Moderate,Yes,None
+Australia,Female,26-35,0,,,,,
+Canada,Female,26-35,0,,,,,
+Australia,Female,18-25,1,Delusions,Genetic,Severe,No,Personal
+Canada,Male,26-35,1,Delusions,Trauma,Moderate,Yes,Social
+Australia,Male,36-45,0,,,,,
+UK,Male,26-35,0,,,,,
+Australia,Male,36-45,0,,,,,
+USA,Male,26-35,1,Delusions,Trauma,Severe,No,Work
+Germany,Female,46-60,0,,,,,
+India,Female,26-35,1,Disorganized Thinking,Trauma,Severe,Yes,Work
+Canada,Male,26-35,1,Hallucinations,Brain Injury,Moderate,Yes,Social
+Canada,Female,Under 18,1,Catatonia,Trauma,Moderate,No,None
+USA,Male,26-35,0,,,,,
+Australia,Male,26-35,1,Disorganized Thinking,Severe Stress,Severe,No,None
+India,Female,18-25,0,,,,,
+Germany,Female,36-45,1,Disorganized Thinking,Genetic,Severe,No,None
+India,Male,Under 18,1,Catatonia,Genetic,Moderate,Yes,None
+Germany,Female,36-45,1,Catatonia,Severe Stress,Moderate,No,Social
+Australia,Male,60+,1,Hallucinations,Brain Injury,Moderate,No,Work
+UK,Male,46-60,1,Catatonia,Trauma,Severe,Yes,Work
+UK,Female,36-45,1,Hallucinations,Genetic,Mild,Yes,Personal
+Australia,Male,46-60,0,,,,,
+USA,Male,26-35,0,,,,,
+UK,Male,36-45,1,Disorganized Thinking,Genetic,Mild,Yes,Social
+UK,Male,36-45,0,,,,,
+Germany,Male,26-35,0,,,,,
+Australia,Female,26-35,1,Catatonia,Substance Abuse,Moderate,No,Social
+USA,Female,26-35,0,,,,,
+Australia,Female,26-35,1,Hallucinations,Severe Stress,Moderate,Yes,Work
+Canada,Female,46-60,1,Catatonia,Trauma,Mild,Yes,Social
+India,Female,26-35,1,Disorganized Thinking,Substance Abuse,Moderate,No,None
+Germany,Female,26-35,0,,,,,
+Australia,Female,46-60,1,Delusions,Genetic,Severe,Yes,None
+Australia,Male,18-25,0,,,,,
+UK,Female,36-45,0,,,,,
+Germany,Male,60+,1,Delusions,Substance Abuse,Moderate,Yes,Social
+USA,Male,26-35,0,,,,,
+Canada,Female,36-45,1,Delusions,Severe Stress,Moderate,No,Social
+Germany,Female,36-45,1,Catatonia,Severe Stress,Moderate,No,Work
+Germany,Male,60+,0,,,,,
+UK,Male,26-35,1,Delusions,Trauma,Mild,No,Work
+UK,Male,26-35,1,Hallucinations,Trauma,Severe,No,Social
+Canada,Female,60+,1,Disorganized Thinking,Brain Injury,Moderate,No,Social
+Germany,Male,18-25,1,Hallucinations,Genetic,Severe,No,Personal
+Canada,Female,26-35,0,,,,,
+USA,Male,18-25,1,Catatonia,Substance Abuse,Moderate,No,Personal
+USA,Female,18-25,1,Delusions,Trauma,Moderate,No,None
+Germany,Male,26-35,1,Catatonia,Brain Injury,Severe,Yes,Social
+Canada,Female,60+,1,Hallucinations,Severe Stress,Moderate,Yes,Work
+Germany,Female,46-60,0,,,,,
+Australia,Female,60+,1,Delusions,Substance Abuse,Moderate,Yes,Work
+UK,Male,Under 18,0,,,,,
+Canada,Male,36-45,0,,,,,
+Germany,Male,18-25,1,Disorganized Thinking,Substance Abuse,Severe,Yes,None
+Canada,Male,26-35,1,Delusions,Substance Abuse,Moderate,Yes,None
+Germany,Male,18-25,0,,,,,
+Australia,Male,36-45,1,Catatonia,Substance Abuse,Mild,Yes,None
+Germany,Male,26-35,1,Disorganized Thinking,Brain Injury,Moderate,Yes,Work
+Canada,Female,18-25,1,Disorganized Thinking,Genetic,Severe,Yes,None
+Canada,Male,Under 18,1,Delusions,Brain Injury,Mild,Yes,None
+USA,Female,18-25,1,Disorganized Thinking,Severe Stress,Mild,No,Personal
+Canada,Male,36-45,1,Hallucinations,Severe Stress,Moderate,Yes,Social
+USA,Male,36-45,1,Disorganized Thinking,Brain Injury,Moderate,No,None
+India,Female,18-25,1,Delusions,Substance Abuse,Mild,No,None
+USA,Male,18-25,1,Catatonia,Brain Injury,Moderate,No,Social
+Canada,Female,26-35,1,Catatonia,Severe Stress,Severe,Yes,Social
+India,Male,36-45,1,Hallucinations,Trauma,Moderate,No,None
+UK,Female,36-45,1,Hallucinations,Severe Stress,Severe,No,Work
+Canada,Female,36-45,1,Hallucinations,Trauma,Moderate,No,Work
+Germany,Female,26-35,1,Catatonia,Brain Injury,Moderate,Yes,Social
+UK,Female,26-35,1,Delusions,Substance Abuse,Moderate,No,Work
+UK,Male,26-35,0,,,,,
+Canada,Male,18-25,0,,,,,
+UK,Female,60+,1,Delusions,Genetic,Moderate,Yes,Work
+Australia,Female,26-35,1,Hallucinations,Trauma,Moderate,Yes,Work
+Germany,Male,26-35,0,,,,,
+India,Female,18-25,1,Delusions,Brain Injury,Moderate,Yes,Work
+USA,Male,46-60,1,Hallucinations,Severe Stress,Mild,Yes,Social
+India,Female,18-25,0,,,,,
+India,Male,Under 18,1,Hallucinations,Substance Abuse,Severe,No,None
+Canada,Female,Under 18,0,,,,,
+Australia,Male,36-45,1,Disorganized Thinking,Substance Abuse,Moderate,No,Work
+Australia,Female,Under 18,0,,,,,
+USA,Male,36-45,1,Hallucinations,Substance Abuse,Moderate,Yes,Social
+Canada,Male,26-35,1,Catatonia,Severe Stress,Mild,Yes,None
+USA,Female,26-35,1,Delusions,Substance Abuse,Moderate,Yes,None
+USA,Female,18-25,0,,,,,
+UK,Female,26-35,1,Disorganized Thinking,Trauma,Moderate,No,Work
+Australia,Female,26-35,1,Disorganized Thinking,Brain Injury,Moderate,No,None
+Australia,Female,26-35,1,Hallucinations,Trauma,Moderate,No,Personal
+USA,Female,60+,1,Delusions,Severe Stress,Moderate,No,Social
+Germany,Male,18-25,0,,,,,
+USA,Female,36-45,1,Delusions,Severe Stress,Moderate,No,Work
+Canada,Female,46-60,0,,,,,
+UK,Female,18-25,1,Delusions,Brain Injury,Severe,No,Personal
+Australia,Female,26-35,1,Disorganized Thinking,Brain Injury,Mild,Yes,Work
+Canada,Female,26-35,0,,,,,
+Germany,Female,36-45,1,Catatonia,Severe Stress,Moderate,Yes,Work
+UK,Male,36-45,1,Hallucinations,Brain Injury,Severe,Yes,Personal
+Canada,Female,18-25,1,Hallucinations,Trauma,Moderate,No,Personal
+Canada,Male,46-60,1,Catatonia,Severe Stress,Severe,Yes,Personal
+UK,Male,60+,1,Disorganized Thinking,Severe Stress,Mild,No,Social
+UK,Female,26-35,1,Catatonia,Genetic,Moderate,Yes,Social
+USA,Female,26-35,1,Hallucinations,Severe Stress,Moderate,No,None
+India,Female,18-25,1,Delusions,Trauma,Moderate,Yes,Personal
+Canada,Male,60+,1,Hallucinations,Severe Stress,Moderate,No,Work
+Canada,Female,36-45,1,Disorganized Thinking,Trauma,Severe,No,None
+UK,Male,36-45,1,Delusions,Trauma,Severe,Yes,Personal
+India,Female,36-45,0,,,,,
+Germany,Male,36-45,1,Delusions,Severe Stress,Severe,No,Work
+USA,Male,18-25,0,,,,,
+Germany,Female,46-60,1,Hallucinations,Genetic,Moderate,No,Work
+UK,Female,46-60,1,Catatonia,Substance Abuse,Mild,No,Work
+USA,Male,26-35,1,Delusions,Genetic,Mild,No,None
+Canada,Male,26-35,1,Catatonia,Brain Injury,Moderate,Yes,Work
+Australia,Female,26-35,0,,,,,
+India,Female,36-45,1,Hallucinations,Genetic,Mild,Yes,Social

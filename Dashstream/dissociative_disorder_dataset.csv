@@ -1,0 +1,801 @@
+Country,Gender,Age Group,Diagnosed,Disorder Type,Trigger Event,Severity Level,Years With Disorder,Treatment Sought,Main Problem Faced
+USA,Other,26-35,0,,,,,,
+USA,Male,36-45,1,Dissociative Identity Disorder,Neglect,Severe,14,No,Relationship Issues
+Canada,Male,60+,0,,,,,,
+Canada,Other,46-60,1,Dissociative Amnesia,Neglect,Mild,18,No,Relationship Issues
+USA,Female,46-60,1,Dissociative Amnesia,Combat Exposure,Mild,13,Yes,Out-of-Body Experiences
+Germany,Female,36-45,0,,,,,,
+Germany,Other,18-25,1,Dissociative Identity Disorder,Sexual Trauma,Mild,15,Yes,Relationship Issues
+Australia,Female,36-45,1,Dissociative Amnesia,Neglect,Moderate,19,Yes,Emotional Detachment
+Australia,Other,18-25,0,,,,,,
+India,Female,46-60,1,Dissociative Amnesia,Sexual Trauma,Severe,11,No,Memory Loss
+Germany,Female,18-25,1,Dissociative Amnesia,Combat Exposure,Severe,2,Yes,Emotional Detachment
+India,Female,46-60,0,,,,,,
+Germany,Other,26-35,1,Dissociative Amnesia,Accidents,Moderate,11,No,Work Impairment
+USA,Male,36-45,0,,,,,,
+Canada,Female,46-60,0,,,,,,
+USA,Male,18-25,0,,,,,,
+Canada,Female,26-35,0,,,,,,
+UK,Female,46-60,0,,,,,,
+Australia,Male,26-35,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,18,No,Identity Confusion
+Canada,Female,18-25,0,,,,,,
+India,Other,36-45,1,Dissociative Amnesia,Combat Exposure,Severe,18,No,Memory Loss
+Germany,Female,18-25,1,Depersonalization/Derealization Disorder,Witnessing Violence,Severe,18,No,Relationship Issues
+Canada,Female,60+,1,Dissociative Identity Disorder,Neglect,Moderate,3,Yes,Work Impairment
+India,Other,26-35,0,,,,,,
+USA,Other,60+,0,,,,,,
+Germany,Other,60+,1,Dissociative Identity Disorder,Combat Exposure,Moderate,1,No,Memory Loss
+UK,Female,26-35,1,Depersonalization/Derealization Disorder,Combat Exposure,Severe,5,No,Identity Confusion
+Australia,Other,36-45,1,Depersonalization/Derealization Disorder,Witnessing Violence,Mild,7,Yes,Identity Confusion
+UK,Female,Under 18,1,Dissociative Identity Disorder,Accidents,Severe,20,Yes,Relationship Issues
+USA,Other,36-45,1,Depersonalization/Derealization Disorder,Neglect,Mild,20,No,Work Impairment
+India,Other,60+,0,,,,,,
+Germany,Other,60+,0,,,,,,
+Canada,Other,18-25,1,Depersonalization/Derealization Disorder,Accidents,Moderate,1,No,Work Impairment
+UK,Male,46-60,0,,,,,,
+USA,Male,18-25,0,,,,,,
+Germany,Female,18-25,1,Dissociative Amnesia,Childhood Abuse,Mild,4,Yes,Relationship Issues
+USA,Male,18-25,0,,,,,,
+India,Female,46-60,0,,,,,,
+USA,Male,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,11,No,Work Impairment
+Canada,Male,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,9,No,Work Impairment
+Canada,Other,46-60,1,Dissociative Amnesia,Childhood Abuse,Moderate,6,Yes,Out-of-Body Experiences
+India,Female,26-35,0,,,,,,
+Canada,Other,26-35,1,Dissociative Identity Disorder,Childhood Abuse,Mild,17,Yes,Work Impairment
+Canada,Female,46-60,0,,,,,,
+USA,Female,26-35,0,,,,,,
+Canada,Other,18-25,1,Depersonalization/Derealization Disorder,Neglect,Moderate,19,No,Out-of-Body Experiences
+Germany,Male,60+,0,,,,,,
+USA,Female,36-45,0,,,,,,
+Germany,Other,46-60,0,,,,,,
+India,Female,36-45,0,,,,,,
+India,Male,18-25,1,Dissociative Identity Disorder,Neglect,Mild,20,Yes,Identity Confusion
+USA,Other,18-25,0,,,,,,
+India,Other,46-60,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,5,Yes,Out-of-Body Experiences
+UK,Female,26-35,0,,,,,,
+Canada,Other,26-35,0,,,,,,
+Canada,Male,46-60,1,Depersonalization/Derealization Disorder,Combat Exposure,Mild,16,Yes,Relationship Issues
+Australia,Female,18-25,0,,,,,,
+Germany,Other,46-60,0,,,,,,
+India,Other,18-25,1,Dissociative Amnesia,Childhood Abuse,Mild,3,Yes,Work Impairment
+Australia,Male,36-45,0,,,,,,
+USA,Female,26-35,1,Dissociative Identity Disorder,Accidents,Moderate,8,No,Identity Confusion
+UK,Other,60+,0,,,,,,
+Germany,Other,18-25,0,,,,,,
+USA,Male,60+,0,,,,,,
+Australia,Other,Under 18,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,9,Yes,Out-of-Body Experiences
+USA,Other,36-45,1,Depersonalization/Derealization Disorder,Neglect,Moderate,13,No,Emotional Detachment
+Australia,Female,18-25,1,Dissociative Amnesia,Accidents,Moderate,12,No,Out-of-Body Experiences
+Germany,Other,26-35,0,,,,,,
+Germany,Male,60+,0,,,,,,
+Canada,Other,26-35,1,Dissociative Amnesia,Accidents,Moderate,12,Yes,Emotional Detachment
+Australia,Female,26-35,1,Dissociative Amnesia,Accidents,Mild,3,No,Work Impairment
+Australia,Male,46-60,1,Depersonalization/Derealization Disorder,Neglect,Severe,9,No,Identity Confusion
+Canada,Male,Under 18,0,,,,,,
+India,Male,Under 18,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,4,Yes,Memory Loss
+UK,Female,36-45,0,,,,,,
+India,Other,18-25,0,,,,,,
+Australia,Other,26-35,1,Dissociative Identity Disorder,Witnessing Violence,Severe,8,Yes,Memory Loss
+Germany,Female,36-45,0,,,,,,
+Canada,Female,36-45,0,,,,,,
+UK,Male,36-45,1,Dissociative Amnesia,Neglect,Mild,5,No,Memory Loss
+UK,Other,26-35,0,,,,,,
+Canada,Other,18-25,0,,,,,,
+Germany,Female,18-25,1,Depersonalization/Derealization Disorder,Witnessing Violence,Mild,16,No,Out-of-Body Experiences
+Australia,Other,26-35,0,,,,,,
+USA,Other,Under 18,1,Dissociative Amnesia,Combat Exposure,Moderate,14,No,Relationship Issues
+India,Male,18-25,0,,,,,,
+USA,Other,18-25,1,Dissociative Amnesia,Combat Exposure,Moderate,5,No,Work Impairment
+Canada,Other,46-60,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,18,Yes,Relationship Issues
+Australia,Other,36-45,0,,,,,,
+UK,Male,18-25,1,Dissociative Identity Disorder,Neglect,Moderate,18,Yes,Memory Loss
+Canada,Other,46-60,1,Dissociative Amnesia,Combat Exposure,Mild,16,Yes,Identity Confusion
+Germany,Male,36-45,1,Dissociative Amnesia,Sexual Trauma,Moderate,4,No,Memory Loss
+UK,Female,26-35,0,,,,,,
+India,Other,36-45,0,,,,,,
+USA,Female,36-45,1,Dissociative Amnesia,Combat Exposure,Moderate,3,No,Memory Loss
+Germany,Female,36-45,1,Dissociative Amnesia,Neglect,Mild,7,Yes,Identity Confusion
+Canada,Female,46-60,0,,,,,,
+India,Male,26-35,1,Dissociative Amnesia,Witnessing Violence,Severe,7,Yes,Out-of-Body Experiences
+Australia,Other,60+,1,Dissociative Identity Disorder,Accidents,Moderate,13,No,Work Impairment
+USA,Other,18-25,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,7,Yes,Identity Confusion
+Germany,Female,36-45,1,Dissociative Amnesia,Combat Exposure,Mild,2,Yes,Work Impairment
+USA,Male,18-25,1,Dissociative Amnesia,Sexual Trauma,Moderate,12,No,Memory Loss
+Germany,Other,18-25,1,Dissociative Amnesia,Witnessing Violence,Moderate,19,Yes,Memory Loss
+USA,Male,26-35,0,,,,,,
+India,Other,26-35,0,,,,,,
+UK,Other,60+,0,,,,,,
+USA,Male,46-60,1,Dissociative Identity Disorder,Neglect,Mild,3,No,Emotional Detachment
+UK,Other,46-60,1,Dissociative Amnesia,Neglect,Severe,5,No,Memory Loss
+UK,Other,46-60,0,,,,,,
+Australia,Female,26-35,0,,,,,,
+Canada,Male,36-45,0,,,,,,
+USA,Female,36-45,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+USA,Other,46-60,0,,,,,,
+Germany,Other,18-25,0,,,,,,
+USA,Male,26-35,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,5,Yes,Work Impairment
+Germany,Female,18-25,1,Dissociative Identity Disorder,Combat Exposure,Moderate,4,Yes,Out-of-Body Experiences
+UK,Other,26-35,0,,,,,,
+Germany,Male,26-35,0,,,,,,
+Canada,Other,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,9,No,Out-of-Body Experiences
+India,Other,46-60,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,16,Yes,Out-of-Body Experiences
+Germany,Female,46-60,0,,,,,,
+India,Male,18-25,0,,,,,,
+Canada,Male,Under 18,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,2,Yes,Identity Confusion
+UK,Female,46-60,0,,,,,,
+Canada,Other,Under 18,0,,,,,,
+India,Other,26-35,0,,,,,,
+Australia,Female,18-25,1,Depersonalization/Derealization Disorder,Neglect,Moderate,4,No,Relationship Issues
+Australia,Female,46-60,0,,,,,,
+India,Female,36-45,1,Dissociative Amnesia,Combat Exposure,Mild,1,No,Identity Confusion
+UK,Male,26-35,1,Depersonalization/Derealization Disorder,Combat Exposure,Mild,13,No,Identity Confusion
+India,Male,36-45,0,,,,,,
+Germany,Female,18-25,0,,,,,,
+USA,Male,18-25,1,Depersonalization/Derealization Disorder,Witnessing Violence,Severe,7,No,Work Impairment
+Canada,Male,Under 18,0,,,,,,
+USA,Female,36-45,0,,,,,,
+USA,Female,26-35,0,,,,,,
+USA,Male,18-25,1,Dissociative Identity Disorder,Combat Exposure,Mild,3,Yes,Emotional Detachment
+Australia,Other,46-60,1,Dissociative Identity Disorder,Accidents,Mild,8,Yes,Work Impairment
+UK,Male,60+,0,,,,,,
+USA,Male,26-35,0,,,,,,
+Canada,Other,60+,1,Dissociative Identity Disorder,Sexual Trauma,Severe,16,No,Work Impairment
+Germany,Other,46-60,0,,,,,,
+Canada,Female,26-35,0,,,,,,
+India,Female,46-60,1,Dissociative Identity Disorder,Sexual Trauma,Severe,7,No,Identity Confusion
+UK,Male,18-25,0,,,,,,
+Australia,Other,18-25,1,Depersonalization/Derealization Disorder,Neglect,Mild,4,Yes,Memory Loss
+UK,Female,46-60,1,Dissociative Amnesia,Accidents,Moderate,19,No,Out-of-Body Experiences
+Canada,Male,60+,1,Dissociative Amnesia,Childhood Abuse,Moderate,6,Yes,Work Impairment
+Australia,Male,46-60,1,Dissociative Amnesia,Neglect,Severe,6,Yes,Work Impairment
+UK,Female,60+,0,,,,,,
+Canada,Other,26-35,1,Dissociative Identity Disorder,Accidents,Moderate,11,Yes,Relationship Issues
+India,Other,36-45,0,,,,,,
+USA,Other,36-45,0,,,,,,
+Australia,Male,26-35,1,Depersonalization/Derealization Disorder,Accidents,Mild,19,Yes,Identity Confusion
+Australia,Male,36-45,0,,,,,,
+UK,Male,36-45,0,,,,,,
+Australia,Male,18-25,0,,,,,,
+UK,Female,26-35,0,,,,,,
+UK,Male,18-25,0,,,,,,
+Germany,Other,36-45,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,5,No,Emotional Detachment
+Germany,Female,46-60,0,,,,,,
+India,Female,26-35,0,,,,,,
+Australia,Female,18-25,0,,,,,,
+India,Female,26-35,1,Dissociative Identity Disorder,Witnessing Violence,Moderate,9,Yes,Work Impairment
+Australia,Male,26-35,0,,,,,,
+Canada,Male,60+,1,Depersonalization/Derealization Disorder,Combat Exposure,Mild,5,Yes,Emotional Detachment
+Germany,Male,60+,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,19,No,Out-of-Body Experiences
+Germany,Other,46-60,0,,,,,,
+Canada,Female,18-25,1,Dissociative Identity Disorder,Combat Exposure,Severe,17,Yes,Relationship Issues
+Australia,Female,36-45,1,Dissociative Amnesia,Sexual Trauma,Moderate,1,Yes,Memory Loss
+Australia,Male,46-60,1,Depersonalization/Derealization Disorder,Witnessing Violence,Severe,9,No,Work Impairment
+Australia,Other,36-45,0,,,,,,
+Germany,Male,18-25,0,,,,,,
+Germany,Female,18-25,0,,,,,,
+India,Other,60+,1,Depersonalization/Derealization Disorder,Sexual Trauma,Mild,15,Yes,Emotional Detachment
+Canada,Other,26-35,1,Dissociative Amnesia,Childhood Abuse,Moderate,7,No,Work Impairment
+Australia,Other,60+,1,Dissociative Identity Disorder,Witnessing Violence,Mild,8,Yes,Relationship Issues
+USA,Male,18-25,1,Dissociative Identity Disorder,Accidents,Mild,20,No,Memory Loss
+India,Other,26-35,1,Dissociative Identity Disorder,Neglect,Severe,9,Yes,Memory Loss
+Australia,Other,46-60,0,,,,,,
+Canada,Male,Under 18,0,,,,,,
+UK,Other,18-25,0,,,,,,
+Canada,Female,18-25,0,,,,,,
+India,Other,26-35,0,,,,,,
+USA,Male,18-25,0,,,,,,
+USA,Other,36-45,0,,,,,,
+UK,Female,Under 18,1,Dissociative Identity Disorder,Sexual Trauma,Mild,8,Yes,Identity Confusion
+USA,Female,36-45,0,,,,,,
+Germany,Female,46-60,0,,,,,,
+Canada,Male,46-60,0,,,,,,
+Canada,Other,26-35,0,,,,,,
+USA,Male,Under 18,0,,,,,,
+USA,Female,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,11,Yes,Work Impairment
+Canada,Male,18-25,0,,,,,,
+Canada,Male,46-60,0,,,,,,
+Canada,Other,18-25,1,Depersonalization/Derealization Disorder,Accidents,Severe,10,Yes,Out-of-Body Experiences
+Canada,Female,26-35,0,,,,,,
+UK,Female,46-60,0,,,,,,
+UK,Female,36-45,1,Dissociative Identity Disorder,Witnessing Violence,Mild,15,Yes,Out-of-Body Experiences
+India,Female,60+,0,,,,,,
+UK,Other,26-35,0,,,,,,
+Canada,Female,36-45,0,,,,,,
+USA,Other,26-35,0,,,,,,
+India,Other,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,12,No,Emotional Detachment
+Australia,Male,36-45,1,Dissociative Identity Disorder,Combat Exposure,Moderate,11,Yes,Relationship Issues
+Canada,Male,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Mild,19,Yes,Emotional Detachment
+India,Female,26-35,1,Dissociative Amnesia,Sexual Trauma,Severe,7,Yes,Identity Confusion
+USA,Female,18-25,0,,,,,,
+UK,Female,26-35,1,Dissociative Identity Disorder,Witnessing Violence,Mild,8,No,Memory Loss
+India,Male,46-60,0,,,,,,
+USA,Other,26-35,0,,,,,,
+UK,Male,18-25,1,Dissociative Identity Disorder,Combat Exposure,Severe,9,No,Out-of-Body Experiences
+Canada,Other,36-45,1,Dissociative Identity Disorder,Combat Exposure,Moderate,2,No,Identity Confusion
+Germany,Male,18-25,0,,,,,,
+Germany,Female,46-60,0,,,,,,
+USA,Female,36-45,1,Dissociative Identity Disorder,Combat Exposure,Moderate,9,Yes,Relationship Issues
+Germany,Female,Under 18,0,,,,,,
+USA,Female,18-25,0,,,,,,
+USA,Other,46-60,1,Dissociative Amnesia,Neglect,Mild,3,Yes,Out-of-Body Experiences
+Australia,Other,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,16,No,Out-of-Body Experiences
+UK,Other,46-60,0,,,,,,
+Canada,Other,18-25,0,,,,,,
+Canada,Other,46-60,0,,,,,,
+USA,Male,26-35,1,Dissociative Identity Disorder,Accidents,Mild,9,Yes,Memory Loss
+Canada,Other,18-25,0,,,,,,
+Germany,Other,Under 18,0,,,,,,
+Germany,Male,36-45,0,,,,,,
+UK,Other,18-25,1,Dissociative Identity Disorder,Combat Exposure,Severe,8,No,Identity Confusion
+Canada,Female,36-45,1,Dissociative Identity Disorder,Combat Exposure,Severe,9,Yes,Emotional Detachment
+Australia,Male,36-45,0,,,,,,
+Australia,Female,26-35,0,,,,,,
+Australia,Other,36-45,1,Dissociative Identity Disorder,Childhood Abuse,Severe,15,Yes,Identity Confusion
+UK,Other,26-35,1,Dissociative Identity Disorder,Neglect,Moderate,13,Yes,Memory Loss
+Australia,Female,46-60,0,,,,,,
+UK,Other,46-60,0,,,,,,
+UK,Male,36-45,0,,,,,,
+USA,Other,26-35,1,Dissociative Amnesia,Sexual Trauma,Moderate,2,No,Identity Confusion
+India,Female,18-25,0,,,,,,
+India,Male,26-35,0,,,,,,
+Australia,Other,36-45,0,,,,,,
+Australia,Male,18-25,1,Dissociative Amnesia,Sexual Trauma,Moderate,4,No,Memory Loss
+India,Male,60+,0,,,,,,
+UK,Female,26-35,0,,,,,,
+Germany,Male,60+,0,,,,,,
+UK,Male,26-35,1,Dissociative Amnesia,Sexual Trauma,Moderate,12,Yes,Out-of-Body Experiences
+Germany,Male,60+,0,,,,,,
+Australia,Female,18-25,0,,,,,,
+India,Other,18-25,1,Dissociative Identity Disorder,Neglect,Moderate,4,No,Work Impairment
+Canada,Female,36-45,1,Dissociative Amnesia,Witnessing Violence,Severe,1,No,Emotional Detachment
+Germany,Other,36-45,0,,,,,,
+Germany,Female,46-60,0,,,,,,
+India,Female,26-35,1,Depersonalization/Derealization Disorder,Neglect,Mild,14,No,Emotional Detachment
+USA,Male,36-45,0,,,,,,
+Australia,Female,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,16,Yes,Emotional Detachment
+Germany,Other,26-35,0,,,,,,
+India,Male,46-60,0,,,,,,
+USA,Male,18-25,1,Dissociative Amnesia,Accidents,Mild,8,Yes,Memory Loss
+USA,Other,18-25,0,,,,,,
+Australia,Female,18-25,1,Dissociative Amnesia,Childhood Abuse,Mild,11,No,Identity Confusion
+Canada,Male,36-45,0,,,,,,
+UK,Male,26-35,1,Dissociative Amnesia,Neglect,Severe,18,No,Work Impairment
+USA,Male,18-25,1,Dissociative Amnesia,Sexual Trauma,Moderate,18,Yes,Memory Loss
+USA,Male,Under 18,1,Dissociative Amnesia,Neglect,Moderate,6,Yes,Identity Confusion
+Germany,Male,Under 18,1,Dissociative Identity Disorder,Witnessing Violence,Moderate,16,No,Memory Loss
+UK,Female,60+,0,,,,,,
+USA,Male,26-35,1,Dissociative Amnesia,Sexual Trauma,Mild,3,No,Relationship Issues
+Canada,Female,36-45,0,,,,,,
+Australia,Female,18-25,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,15,No,Memory Loss
+Australia,Other,46-60,1,Depersonalization/Derealization Disorder,Witnessing Violence,Severe,10,Yes,Emotional Detachment
+India,Male,26-35,1,Dissociative Amnesia,Witnessing Violence,Severe,15,No,Identity Confusion
+Australia,Other,46-60,1,Depersonalization/Derealization Disorder,Sexual Trauma,Mild,19,No,Relationship Issues
+UK,Female,60+,0,,,,,,
+India,Other,36-45,0,,,,,,
+India,Male,36-45,0,,,,,,
+UK,Male,18-25,1,Depersonalization/Derealization Disorder,Accidents,Mild,3,No,Identity Confusion
+Canada,Male,46-60,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,18,No,Emotional Detachment
+Germany,Other,18-25,0,,,,,,
+Canada,Male,46-60,1,Dissociative Amnesia,Combat Exposure,Moderate,4,Yes,Identity Confusion
+Germany,Other,60+,1,Dissociative Amnesia,Combat Exposure,Moderate,2,No,Identity Confusion
+India,Female,26-35,0,,,,,,
+India,Male,36-45,0,,,,,,
+India,Female,18-25,0,,,,,,
+Australia,Female,18-25,1,Dissociative Amnesia,Sexual Trauma,Mild,13,Yes,Work Impairment
+UK,Male,26-35,0,,,,,,
+India,Female,26-35,0,,,,,,
+Germany,Other,36-45,0,,,,,,
+Germany,Other,60+,0,,,,,,
+Australia,Female,18-25,1,Dissociative Amnesia,Witnessing Violence,Severe,13,No,Emotional Detachment
+UK,Male,46-60,0,,,,,,
+India,Other,60+,0,,,,,,
+Australia,Other,46-60,1,Depersonalization/Derealization Disorder,Accidents,Moderate,10,Yes,Out-of-Body Experiences
+Australia,Male,36-45,0,,,,,,
+Germany,Female,26-35,1,Dissociative Identity Disorder,Combat Exposure,Moderate,14,No,Emotional Detachment
+USA,Other,36-45,0,,,,,,
+Germany,Female,36-45,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,17,Yes,Identity Confusion
+India,Female,36-45,0,,,,,,
+UK,Male,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Mild,8,Yes,Relationship Issues
+Canada,Male,18-25,0,,,,,,
+USA,Female,46-60,1,Dissociative Identity Disorder,Witnessing Violence,Mild,5,Yes,Out-of-Body Experiences
+Australia,Male,36-45,1,Dissociative Identity Disorder,Accidents,Moderate,13,Yes,Memory Loss
+Canada,Male,18-25,0,,,,,,
+Germany,Other,18-25,0,,,,,,
+Australia,Male,60+,0,,,,,,
+India,Female,26-35,1,Dissociative Amnesia,Childhood Abuse,Severe,15,Yes,Relationship Issues
+UK,Male,60+,0,,,,,,
+India,Male,36-45,0,,,,,,
+Australia,Male,36-45,1,Dissociative Amnesia,Combat Exposure,Mild,19,Yes,Identity Confusion
+USA,Male,36-45,1,Depersonalization/Derealization Disorder,Accidents,Mild,19,No,Emotional Detachment
+UK,Male,60+,0,,,,,,
+Australia,Other,18-25,1,Dissociative Identity Disorder,Combat Exposure,Severe,13,No,Emotional Detachment
+Australia,Female,46-60,1,Dissociative Amnesia,Neglect,Moderate,7,No,Relationship Issues
+Australia,Other,26-35,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+UK,Male,18-25,1,Dissociative Identity Disorder,Accidents,Severe,9,No,Out-of-Body Experiences
+Australia,Other,36-45,1,Dissociative Identity Disorder,Witnessing Violence,Moderate,2,Yes,Emotional Detachment
+UK,Other,18-25,0,,,,,,
+Canada,Other,18-25,0,,,,,,
+UK,Other,36-45,0,,,,,,
+UK,Other,36-45,0,,,,,,
+UK,Other,46-60,0,,,,,,
+Canada,Other,26-35,0,,,,,,
+USA,Other,36-45,0,,,,,,
+UK,Female,26-35,0,,,,,,
+India,Female,60+,1,Dissociative Amnesia,Childhood Abuse,Mild,10,No,Relationship Issues
+UK,Other,46-60,1,Dissociative Amnesia,Combat Exposure,Moderate,10,No,Emotional Detachment
+Australia,Male,26-35,0,,,,,,
+UK,Female,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,2,No,Out-of-Body Experiences
+Canada,Female,26-35,1,Dissociative Amnesia,Combat Exposure,Mild,8,Yes,Work Impairment
+India,Other,46-60,1,Dissociative Amnesia,Childhood Abuse,Moderate,11,Yes,Relationship Issues
+Australia,Other,46-60,1,Depersonalization/Derealization Disorder,Accidents,Mild,8,No,Work Impairment
+Canada,Female,36-45,0,,,,,,
+USA,Male,46-60,0,,,,,,
+Canada,Female,18-25,0,,,,,,
+UK,Other,26-35,0,,,,,,
+USA,Male,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,16,No,Out-of-Body Experiences
+Canada,Other,18-25,1,Dissociative Amnesia,Accidents,Mild,7,No,Memory Loss
+Germany,Male,26-35,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,14,Yes,Memory Loss
+Germany,Male,36-45,0,,,,,,
+India,Male,60+,1,Dissociative Identity Disorder,Accidents,Moderate,8,No,Memory Loss
+USA,Male,36-45,0,,,,,,
+UK,Female,18-25,1,Dissociative Amnesia,Witnessing Violence,Moderate,3,Yes,Emotional Detachment
+USA,Female,26-35,1,Dissociative Amnesia,Combat Exposure,Mild,6,Yes,Identity Confusion
+USA,Male,36-45,1,Dissociative Amnesia,Witnessing Violence,Severe,11,No,Relationship Issues
+Australia,Male,Under 18,1,Dissociative Amnesia,Witnessing Violence,Mild,14,No,Emotional Detachment
+UK,Other,Under 18,1,Dissociative Identity Disorder,Childhood Abuse,Severe,10,Yes,Out-of-Body Experiences
+Canada,Male,18-25,1,Depersonalization/Derealization Disorder,Combat Exposure,Mild,15,No,Identity Confusion
+Australia,Male,18-25,0,,,,,,
+UK,Female,46-60,0,,,,,,
+UK,Female,36-45,0,,,,,,
+UK,Other,Under 18,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,3,Yes,Memory Loss
+Germany,Female,46-60,0,,,,,,
+Australia,Female,36-45,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+USA,Female,18-25,1,Dissociative Identity Disorder,Neglect,Mild,3,No,Memory Loss
+USA,Male,36-45,1,Dissociative Amnesia,Accidents,Severe,2,Yes,Identity Confusion
+Germany,Other,36-45,1,Dissociative Identity Disorder,Combat Exposure,Mild,15,No,Memory Loss
+USA,Other,36-45,0,,,,,,
+UK,Other,46-60,0,,,,,,
+Australia,Other,18-25,0,,,,,,
+Canada,Male,46-60,0,,,,,,
+Canada,Female,36-45,0,,,,,,
+Australia,Female,18-25,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,14,Yes,Relationship Issues
+USA,Other,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Moderate,7,No,Identity Confusion
+Australia,Male,60+,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,18,Yes,Relationship Issues
+Australia,Male,36-45,0,,,,,,
+USA,Female,18-25,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,20,No,Memory Loss
+UK,Female,Under 18,0,,,,,,
+Canada,Other,18-25,1,Dissociative Amnesia,Witnessing Violence,Severe,19,Yes,Relationship Issues
+USA,Other,26-35,0,,,,,,
+Australia,Other,26-35,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,10,Yes,Out-of-Body Experiences
+Australia,Female,46-60,1,Dissociative Amnesia,Childhood Abuse,Mild,13,Yes,Identity Confusion
+Australia,Female,18-25,0,,,,,,
+UK,Female,60+,1,Dissociative Identity Disorder,Sexual Trauma,Mild,2,No,Memory Loss
+Australia,Male,26-35,0,,,,,,
+Germany,Female,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,1,No,Out-of-Body Experiences
+USA,Other,46-60,0,,,,,,
+Germany,Female,26-35,0,,,,,,
+USA,Female,Under 18,0,,,,,,
+Australia,Female,26-35,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,13,Yes,Identity Confusion
+India,Female,36-45,0,,,,,,
+Canada,Male,26-35,0,,,,,,
+India,Male,36-45,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,2,Yes,Out-of-Body Experiences
+UK,Female,46-60,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,10,No,Memory Loss
+USA,Other,60+,0,,,,,,
+Canada,Other,60+,0,,,,,,
+USA,Other,Under 18,0,,,,,,
+Canada,Male,46-60,0,,,,,,
+Canada,Female,18-25,1,Dissociative Amnesia,Combat Exposure,Severe,12,Yes,Emotional Detachment
+UK,Female,26-35,0,,,,,,
+UK,Other,60+,0,,,,,,
+Canada,Female,Under 18,1,Dissociative Identity Disorder,Neglect,Moderate,19,No,Memory Loss
+Australia,Other,18-25,0,,,,,,
+USA,Male,46-60,1,Dissociative Amnesia,Childhood Abuse,Severe,9,No,Work Impairment
+Australia,Female,36-45,0,,,,,,
+Germany,Male,26-35,1,Depersonalization/Derealization Disorder,Neglect,Moderate,18,Yes,Out-of-Body Experiences
+Germany,Female,46-60,0,,,,,,
+Australia,Other,46-60,0,,,,,,
+India,Female,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,4,Yes,Memory Loss
+Australia,Female,26-35,0,,,,,,
+Australia,Female,26-35,0,,,,,,
+Australia,Female,26-35,0,,,,,,
+Canada,Male,36-45,1,Depersonalization/Derealization Disorder,Sexual Trauma,Mild,19,No,Out-of-Body Experiences
+USA,Male,Under 18,0,,,,,,
+UK,Female,36-45,0,,,,,,
+Germany,Male,36-45,0,,,,,,
+Canada,Other,26-35,1,Dissociative Amnesia,Childhood Abuse,Moderate,16,No,Work Impairment
+India,Other,36-45,0,,,,,,
+Germany,Female,18-25,0,,,,,,
+Australia,Other,18-25,0,,,,,,
+USA,Male,46-60,0,,,,,,
+India,Male,18-25,1,Depersonalization/Derealization Disorder,Witnessing Violence,Mild,15,No,Out-of-Body Experiences
+UK,Other,26-35,0,,,,,,
+USA,Male,36-45,0,,,,,,
+India,Female,26-35,1,Dissociative Identity Disorder,Accidents,Mild,5,No,Out-of-Body Experiences
+Germany,Male,18-25,1,Dissociative Amnesia,Sexual Trauma,Mild,17,No,Identity Confusion
+Australia,Female,46-60,0,,,,,,
+UK,Other,18-25,0,,,,,,
+UK,Female,36-45,0,,,,,,
+Germany,Other,36-45,0,,,,,,
+India,Female,36-45,1,Dissociative Amnesia,Witnessing Violence,Moderate,2,Yes,Out-of-Body Experiences
+Germany,Female,18-25,0,,,,,,
+USA,Female,36-45,0,,,,,,
+Australia,Female,Under 18,0,,,,,,
+Australia,Other,26-35,1,Dissociative Identity Disorder,Witnessing Violence,Severe,11,No,Work Impairment
+UK,Male,18-25,0,,,,,,
+Australia,Female,26-35,0,,,,,,
+UK,Other,Under 18,0,,,,,,
+UK,Other,18-25,0,,,,,,
+UK,Other,18-25,1,Dissociative Amnesia,Sexual Trauma,Mild,3,No,Identity Confusion
+USA,Male,46-60,0,,,,,,
+Australia,Female,36-45,0,,,,,,
+Australia,Female,18-25,0,,,,,,
+UK,Other,46-60,0,,,,,,
+UK,Other,18-25,0,,,,,,
+India,Male,46-60,1,Dissociative Amnesia,Accidents,Mild,5,Yes,Memory Loss
+India,Female,26-35,0,,,,,,
+Australia,Female,36-45,0,,,,,,
+Australia,Female,Under 18,0,,,,,,
+India,Female,46-60,1,Dissociative Identity Disorder,Sexual Trauma,Severe,4,Yes,Memory Loss
+Germany,Other,26-35,0,,,,,,
+USA,Other,36-45,0,,,,,,
+USA,Male,36-45,0,,,,,,
+Canada,Male,18-25,0,,,,,,
+USA,Male,46-60,0,,,,,,
+Canada,Female,26-35,1,Depersonalization/Derealization Disorder,Neglect,Moderate,6,No,Memory Loss
+India,Female,26-35,0,,,,,,
+USA,Male,18-25,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,6,No,Work Impairment
+UK,Female,18-25,1,Dissociative Amnesia,Witnessing Violence,Moderate,16,Yes,Memory Loss
+UK,Male,36-45,0,,,,,,
+UK,Other,18-25,0,,,,,,
+Germany,Male,60+,0,,,,,,
+Canada,Male,Under 18,1,Depersonalization/Derealization Disorder,Neglect,Severe,8,No,Identity Confusion
+UK,Male,60+,0,,,,,,
+USA,Other,18-25,1,Dissociative Amnesia,Sexual Trauma,Moderate,2,No,Work Impairment
+Germany,Other,46-60,0,,,,,,
+Australia,Male,60+,0,,,,,,
+Canada,Other,18-25,1,Dissociative Identity Disorder,Neglect,Severe,15,Yes,Work Impairment
+Canada,Other,18-25,0,,,,,,
+Australia,Other,46-60,1,Depersonalization/Derealization Disorder,Witnessing Violence,Mild,2,No,Emotional Detachment
+Canada,Male,26-35,1,Dissociative Amnesia,Combat Exposure,Severe,12,No,Memory Loss
+Australia,Male,60+,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,19,No,Out-of-Body Experiences
+Canada,Other,18-25,0,,,,,,
+UK,Male,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,4,Yes,Out-of-Body Experiences
+UK,Male,26-35,0,,,,,,
+USA,Other,18-25,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+Germany,Other,60+,1,Dissociative Identity Disorder,Sexual Trauma,Severe,5,No,Memory Loss
+Canada,Male,60+,1,Dissociative Identity Disorder,Neglect,Mild,12,No,Memory Loss
+UK,Male,18-25,1,Dissociative Amnesia,Accidents,Mild,20,Yes,Out-of-Body Experiences
+Germany,Female,18-25,0,,,,,,
+Canada,Female,46-60,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+USA,Female,36-45,1,Dissociative Identity Disorder,Neglect,Severe,20,No,Emotional Detachment
+UK,Other,26-35,0,,,,,,
+Australia,Female,46-60,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,5,No,Work Impairment
+USA,Female,26-35,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,1,No,Out-of-Body Experiences
+India,Other,18-25,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,12,Yes,Relationship Issues
+Canada,Male,46-60,0,,,,,,
+USA,Male,18-25,1,Dissociative Amnesia,Witnessing Violence,Moderate,16,No,Work Impairment
+USA,Male,60+,1,Dissociative Amnesia,Combat Exposure,Severe,7,No,Identity Confusion
+Germany,Male,18-25,1,Dissociative Amnesia,Childhood Abuse,Mild,9,Yes,Work Impairment
+Germany,Female,18-25,0,,,,,,
+India,Female,26-35,0,,,,,,
+Germany,Male,46-60,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,20,Yes,Relationship Issues
+India,Other,60+,1,Dissociative Identity Disorder,Sexual Trauma,Mild,18,No,Out-of-Body Experiences
+USA,Female,46-60,0,,,,,,
+Australia,Female,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,7,Yes,Memory Loss
+UK,Other,Under 18,1,Dissociative Amnesia,Sexual Trauma,Moderate,16,Yes,Work Impairment
+India,Male,36-45,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,2,Yes,Identity Confusion
+Germany,Other,36-45,0,,,,,,
+USA,Female,26-35,0,,,,,,
+Australia,Male,46-60,0,,,,,,
+Australia,Male,26-35,0,,,,,,
+UK,Female,36-45,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,17,Yes,Memory Loss
+Germany,Other,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,2,Yes,Emotional Detachment
+USA,Other,18-25,0,,,,,,
+Canada,Other,Under 18,0,,,,,,
+UK,Female,46-60,1,Dissociative Identity Disorder,Combat Exposure,Severe,9,Yes,Emotional Detachment
+UK,Other,36-45,0,,,,,,
+India,Female,26-35,0,,,,,,
+Canada,Other,18-25,1,Dissociative Amnesia,Sexual Trauma,Mild,20,No,Identity Confusion
+Australia,Female,18-25,0,,,,,,
+Germany,Male,18-25,0,,,,,,
+UK,Female,18-25,0,,,,,,
+Germany,Other,36-45,1,Dissociative Identity Disorder,Witnessing Violence,Severe,1,No,Memory Loss
+India,Female,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Severe,8,No,Emotional Detachment
+Germany,Other,26-35,0,,,,,,
+UK,Male,36-45,1,Dissociative Amnesia,Accidents,Mild,12,Yes,Out-of-Body Experiences
+India,Other,Under 18,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+Canada,Male,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Mild,16,Yes,Work Impairment
+Australia,Male,26-35,0,,,,,,
+Germany,Male,26-35,0,,,,,,
+Germany,Female,36-45,0,,,,,,
+Canada,Female,60+,0,,,,,,
+Australia,Other,46-60,1,Dissociative Identity Disorder,Combat Exposure,Moderate,9,No,Relationship Issues
+UK,Other,18-25,0,,,,,,
+UK,Male,26-35,0,,,,,,
+Australia,Other,Under 18,0,,,,,,
+Australia,Male,36-45,1,Dissociative Amnesia,Childhood Abuse,Mild,7,No,Relationship Issues
+Germany,Male,Under 18,0,,,,,,
+UK,Other,26-35,0,,,,,,
+USA,Other,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,10,Yes,Emotional Detachment
+Canada,Female,18-25,0,,,,,,
+USA,Female,26-35,1,Dissociative Identity Disorder,Neglect,Severe,11,Yes,Work Impairment
+Canada,Male,18-25,1,Dissociative Identity Disorder,Accidents,Mild,18,No,Identity Confusion
+Germany,Other,46-60,1,Depersonalization/Derealization Disorder,Sexual Trauma,Mild,15,Yes,Emotional Detachment
+Australia,Female,36-45,0,,,,,,
+India,Female,18-25,0,,,,,,
+USA,Female,36-45,0,,,,,,
+Australia,Female,18-25,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,9,Yes,Identity Confusion
+Australia,Other,26-35,0,,,,,,
+UK,Female,36-45,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,19,No,Memory Loss
+Germany,Male,18-25,0,,,,,,
+Australia,Male,36-45,1,Dissociative Identity Disorder,Witnessing Violence,Severe,15,No,Memory Loss
+Australia,Female,26-35,1,Depersonalization/Derealization Disorder,Neglect,Moderate,17,No,Memory Loss
+UK,Male,60+,1,Depersonalization/Derealization Disorder,Accidents,Moderate,13,No,Relationship Issues
+Australia,Female,18-25,0,,,,,,
+Australia,Male,18-25,0,,,,,,
+UK,Female,60+,0,,,,,,
+Germany,Female,46-60,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,1,Yes,Emotional Detachment
+Germany,Other,18-25,0,,,,,,
+Canada,Other,36-45,0,,,,,,
+USA,Female,60+,0,,,,,,
+Canada,Other,26-35,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,1,No,Relationship Issues
+Australia,Other,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Mild,8,No,Out-of-Body Experiences
+India,Female,18-25,1,Dissociative Identity Disorder,Sexual Trauma,Mild,1,Yes,Identity Confusion
+USA,Male,60+,0,,,,,,
+Germany,Male,26-35,0,,,,,,
+Canada,Female,36-45,0,,,,,,
+India,Female,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,1,Yes,Identity Confusion
+India,Other,26-35,1,Dissociative Amnesia,Childhood Abuse,Mild,15,Yes,Work Impairment
+UK,Female,26-35,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,14,Yes,Memory Loss
+Australia,Other,36-45,0,,,,,,
+India,Male,36-45,1,Depersonalization/Derealization Disorder,Neglect,Moderate,13,No,Relationship Issues
+UK,Other,18-25,0,,,,,,
+Germany,Other,36-45,1,Dissociative Amnesia,Sexual Trauma,Severe,15,Yes,Relationship Issues
+USA,Female,36-45,0,,,,,,
+Australia,Other,26-35,1,Dissociative Amnesia,Combat Exposure,Moderate,17,No,Memory Loss
+Australia,Female,60+,0,,,,,,
+Germany,Male,36-45,1,Depersonalization/Derealization Disorder,Accidents,Mild,14,Yes,Identity Confusion
+India,Male,60+,0,,,,,,
+Australia,Other,46-60,1,Dissociative Amnesia,Accidents,Severe,2,No,Relationship Issues
+Canada,Other,36-45,1,Dissociative Amnesia,Accidents,Moderate,18,Yes,Memory Loss
+India,Male,18-25,0,,,,,,
+USA,Other,18-25,0,,,,,,
+Germany,Male,60+,1,Dissociative Identity Disorder,Witnessing Violence,Severe,4,No,Out-of-Body Experiences
+Germany,Other,36-45,0,,,,,,
+UK,Male,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,19,No,Emotional Detachment
+India,Other,18-25,0,,,,,,
+Australia,Other,18-25,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,2,Yes,Out-of-Body Experiences
+Germany,Female,26-35,1,Dissociative Amnesia,Neglect,Severe,20,Yes,Relationship Issues
+Canada,Male,36-45,0,,,,,,
+Germany,Female,Under 18,1,Dissociative Identity Disorder,Witnessing Violence,Severe,5,No,Relationship Issues
+USA,Other,60+,0,,,,,,
+USA,Female,36-45,1,Dissociative Amnesia,Sexual Trauma,Severe,19,Yes,Emotional Detachment
+Canada,Other,26-35,0,,,,,,
+Australia,Female,26-35,1,Dissociative Identity Disorder,Accidents,Severe,1,No,Emotional Detachment
+USA,Other,26-35,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,14,No,Out-of-Body Experiences
+Australia,Other,18-25,0,,,,,,
+India,Other,46-60,0,,,,,,
+UK,Other,60+,1,Dissociative Identity Disorder,Neglect,Moderate,13,No,Identity Confusion
+USA,Female,60+,1,Depersonalization/Derealization Disorder,Neglect,Moderate,13,Yes,Emotional Detachment
+Australia,Male,26-35,0,,,,,,
+India,Other,26-35,1,Depersonalization/Derealization Disorder,Combat Exposure,Severe,4,Yes,Memory Loss
+Canada,Male,46-60,0,,,,,,
+India,Male,26-35,1,Dissociative Amnesia,Childhood Abuse,Severe,6,Yes,Identity Confusion
+Canada,Female,26-35,0,,,,,,
+India,Female,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,19,No,Memory Loss
+Canada,Other,26-35,0,,,,,,
+UK,Male,46-60,0,,,,,,
+Australia,Other,36-45,1,Dissociative Identity Disorder,Accidents,Moderate,2,No,Work Impairment
+Germany,Female,46-60,1,Dissociative Identity Disorder,Combat Exposure,Moderate,15,No,Out-of-Body Experiences
+Canada,Male,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,20,Yes,Identity Confusion
+India,Other,46-60,0,,,,,,
+Germany,Female,26-35,0,,,,,,
+Canada,Male,18-25,0,,,,,,
+Germany,Male,36-45,0,,,,,,
+USA,Other,26-35,1,Depersonalization/Derealization Disorder,Neglect,Moderate,13,Yes,Memory Loss
+Australia,Female,26-35,0,,,,,,
+USA,Other,60+,0,,,,,,
+UK,Other,60+,1,Depersonalization/Derealization Disorder,Combat Exposure,Severe,14,Yes,Work Impairment
+USA,Other,26-35,0,,,,,,
+Australia,Other,36-45,0,,,,,,
+USA,Female,36-45,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,13,No,Memory Loss
+India,Male,Under 18,0,,,,,,
+India,Male,46-60,1,Dissociative Amnesia,Combat Exposure,Mild,4,No,Emotional Detachment
+Australia,Male,18-25,0,,,,,,
+Germany,Male,18-25,0,,,,,,
+Australia,Male,18-25,0,,,,,,
+India,Other,26-35,0,,,,,,
+Canada,Other,26-35,0,,,,,,
+Australia,Male,46-60,0,,,,,,
+Germany,Male,26-35,1,Dissociative Amnesia,Accidents,Severe,9,Yes,Memory Loss
+UK,Other,36-45,1,Dissociative Identity Disorder,Neglect,Mild,9,Yes,Identity Confusion
+USA,Female,26-35,1,Dissociative Amnesia,Sexual Trauma,Severe,7,Yes,Out-of-Body Experiences
+Australia,Male,26-35,1,Dissociative Amnesia,Neglect,Severe,3,No,Memory Loss
+UK,Female,36-45,0,,,,,,
+Australia,Other,36-45,1,Dissociative Identity Disorder,Accidents,Severe,17,No,Work Impairment
+USA,Female,Under 18,0,,,,,,
+Germany,Male,18-25,0,,,,,,
+India,Other,36-45,0,,,,,,
+Canada,Female,26-35,1,Dissociative Identity Disorder,Neglect,Moderate,6,Yes,Relationship Issues
+India,Female,26-35,0,,,,,,
+Australia,Other,26-35,1,Dissociative Amnesia,Witnessing Violence,Moderate,13,No,Emotional Detachment
+India,Female,Under 18,0,,,,,,
+India,Other,60+,1,Dissociative Amnesia,Neglect,Mild,15,Yes,Out-of-Body Experiences
+Australia,Other,36-45,1,Dissociative Identity Disorder,Accidents,Mild,7,No,Relationship Issues
+USA,Male,46-60,1,Dissociative Amnesia,Accidents,Moderate,14,No,Memory Loss
+Germany,Male,36-45,1,Dissociative Amnesia,Accidents,Moderate,5,No,Work Impairment
+Germany,Other,46-60,0,,,,,,
+Australia,Female,36-45,1,Dissociative Amnesia,Neglect,Moderate,7,No,Identity Confusion
+Germany,Female,36-45,1,Dissociative Amnesia,Combat Exposure,Mild,8,Yes,Memory Loss
+USA,Male,36-45,0,,,,,,
+Australia,Other,26-35,1,Dissociative Identity Disorder,Sexual Trauma,Mild,11,No,Work Impairment
+Canada,Male,60+,1,Depersonalization/Derealization Disorder,Witnessing Violence,Mild,4,No,Relationship Issues
+Canada,Other,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,16,Yes,Work Impairment
+India,Other,26-35,1,Dissociative Identity Disorder,Combat Exposure,Mild,4,Yes,Emotional Detachment
+Germany,Female,18-25,0,,,,,,
+USA,Female,Under 18,1,Dissociative Identity Disorder,Witnessing Violence,Mild,19,No,Relationship Issues
+Canada,Other,18-25,1,Dissociative Amnesia,Neglect,Mild,20,Yes,Emotional Detachment
+UK,Male,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Mild,7,No,Memory Loss
+Canada,Male,Under 18,1,Dissociative Identity Disorder,Childhood Abuse,Mild,18,Yes,Work Impairment
+Australia,Other,60+,1,Depersonalization/Derealization Disorder,Neglect,Mild,10,Yes,Relationship Issues
+Canada,Other,60+,0,,,,,,
+Canada,Other,60+,1,Depersonalization/Derealization Disorder,Accidents,Mild,8,No,Memory Loss
+India,Male,60+,1,Dissociative Amnesia,Witnessing Violence,Moderate,6,Yes,Out-of-Body Experiences
+UK,Female,26-35,0,,,,,,
+Canada,Female,18-25,0,,,,,,
+USA,Other,60+,0,,,,,,
+Canada,Male,36-45,1,Depersonalization/Derealization Disorder,Neglect,Severe,3,No,Relationship Issues
+USA,Other,18-25,0,,,,,,
+Australia,Male,36-45,0,,,,,,
+USA,Other,36-45,0,,,,,,
+Canada,Female,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Moderate,14,Yes,Identity Confusion
+USA,Female,18-25,0,,,,,,
+Germany,Female,26-35,1,Depersonalization/Derealization Disorder,Accidents,Moderate,5,No,Work Impairment
+Germany,Female,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,11,Yes,Out-of-Body Experiences
+USA,Other,18-25,0,,,,,,
+Germany,Male,26-35,1,Dissociative Identity Disorder,Combat Exposure,Moderate,18,No,Work Impairment
+Canada,Female,Under 18,1,Dissociative Identity Disorder,Combat Exposure,Severe,17,No,Work Impairment
+UK,Female,26-35,0,,,,,,
+UK,Other,36-45,0,,,,,,
+UK,Male,Under 18,0,,,,,,
+India,Other,36-45,0,,,,,,
+Canada,Male,46-60,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,18,No,Identity Confusion
+Germany,Other,18-25,0,,,,,,
+UK,Male,36-45,0,,,,,,
+Canada,Other,60+,0,,,,,,
+UK,Other,26-35,0,,,,,,
+USA,Other,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Moderate,13,Yes,Memory Loss
+Canada,Other,26-35,0,,,,,,
+Canada,Male,46-60,0,,,,,,
+Germany,Male,60+,1,Dissociative Amnesia,Sexual Trauma,Moderate,12,No,Identity Confusion
+Canada,Female,60+,0,,,,,,
+USA,Other,Under 18,0,,,,,,
+UK,Female,36-45,0,,,,,,
+India,Other,46-60,0,,,,,,
+UK,Male,36-45,1,Depersonalization/Derealization Disorder,Sexual Trauma,Severe,2,No,Identity Confusion
+India,Female,36-45,0,,,,,,
+Australia,Female,18-25,1,Dissociative Identity Disorder,Neglect,Mild,3,No,Work Impairment
+Germany,Male,18-25,1,Depersonalization/Derealization Disorder,Combat Exposure,Severe,1,No,Memory Loss
+UK,Male,18-25,0,,,,,,
+USA,Male,26-35,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,17,Yes,Emotional Detachment
+Canada,Female,26-35,1,Dissociative Identity Disorder,Sexual Trauma,Severe,20,Yes,Emotional Detachment
+UK,Female,46-60,0,,,,,,
+USA,Other,18-25,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,16,No,Emotional Detachment
+Germany,Female,Under 18,1,Dissociative Amnesia,Neglect,Severe,1,No,Work Impairment
+Germany,Female,18-25,1,Dissociative Identity Disorder,Combat Exposure,Moderate,3,No,Memory Loss
+Germany,Female,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,18,No,Identity Confusion
+Canada,Male,18-25,0,,,,,,
+Germany,Female,18-25,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+Australia,Female,36-45,0,,,,,,
+India,Male,46-60,0,,,,,,
+India,Female,60+,0,,,,,,
+Germany,Other,36-45,0,,,,,,
+Germany,Male,26-35,0,,,,,,
+India,Female,36-45,0,,,,,,
+UK,Male,26-35,1,Dissociative Amnesia,Neglect,Moderate,1,No,Identity Confusion
+Germany,Female,60+,1,Depersonalization/Derealization Disorder,Combat Exposure,Moderate,6,No,Memory Loss
+Germany,Male,26-35,0,,,,,,
+Canada,Female,Under 18,1,Dissociative Identity Disorder,Accidents,Moderate,18,Yes,Emotional Detachment
+USA,Other,46-60,1,Dissociative Amnesia,Accidents,Moderate,11,No,Memory Loss
+India,Other,46-60,1,Dissociative Identity Disorder,Neglect,Severe,11,Yes,Work Impairment
+USA,Male,18-25,0,,,,,,
+Germany,Other,60+,1,Dissociative Amnesia,Combat Exposure,Severe,1,Yes,Work Impairment
+Germany,Female,26-35,0,,,,,,
+USA,Female,46-60,0,,,,,,
+Canada,Other,18-25,0,,,,,,
+USA,Male,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Moderate,8,Yes,Memory Loss
+USA,Other,18-25,1,Dissociative Amnesia,Witnessing Violence,Mild,8,Yes,Memory Loss
+UK,Male,18-25,0,,,,,,
+Canada,Male,18-25,0,,,,,,
+Australia,Male,18-25,0,,,,,,
+Australia,Other,18-25,0,,,,,,
+Germany,Other,36-45,0,,,,,,
+USA,Other,18-25,0,,,,,,
+India,Male,36-45,0,,,,,,
+Germany,Male,Under 18,1,Dissociative Amnesia,Sexual Trauma,Mild,15,No,Identity Confusion
+UK,Female,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Moderate,5,Yes,Emotional Detachment
+USA,Female,36-45,0,,,,,,
+USA,Other,60+,0,,,,,,
+Germany,Male,26-35,1,Dissociative Identity Disorder,Accidents,Moderate,15,No,Out-of-Body Experiences
+Germany,Male,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Mild,6,Yes,Work Impairment
+USA,Male,18-25,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,2,No,Identity Confusion
+Canada,Female,26-35,0,,,,,,
+India,Female,36-45,0,,,,,,
+Germany,Female,36-45,1,Dissociative Amnesia,Combat Exposure,Mild,11,Yes,Memory Loss
+Canada,Female,36-45,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,11,Yes,Relationship Issues
+USA,Male,46-60,1,Depersonalization/Derealization Disorder,Neglect,Moderate,12,No,Memory Loss
+Germany,Female,Under 18,0,,,,,,
+Australia,Other,36-45,0,,,,,,
+Australia,Other,18-25,1,Dissociative Identity Disorder,Sexual Trauma,Mild,14,No,Relationship Issues
+India,Female,26-35,0,,,,,,
+Canada,Male,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,2,Yes,Memory Loss
+Germany,Other,46-60,1,Dissociative Amnesia,Combat Exposure,Mild,12,Yes,Memory Loss
+USA,Male,60+,0,,,,,,
+USA,Male,18-25,0,,,,,,
+Canada,Other,26-35,0,,,,,,
+USA,Other,60+,1,Dissociative Identity Disorder,Neglect,Mild,20,Yes,Work Impairment
+India,Male,18-25,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,13,Yes,Identity Confusion
+Australia,Male,26-35,1,Dissociative Identity Disorder,Sexual Trauma,Mild,18,Yes,Relationship Issues
+Canada,Male,36-45,1,Depersonalization/Derealization Disorder,Witnessing Violence,Moderate,13,Yes,Work Impairment
+USA,Other,36-45,1,Depersonalization/Derealization Disorder,Sexual Trauma,Moderate,1,Yes,Memory Loss
+Germany,Female,46-60,1,Dissociative Identity Disorder,Neglect,Mild,15,No,Identity Confusion
+UK,Other,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Mild,13,Yes,Memory Loss
+Germany,Other,26-35,0,,,,,,
+USA,Male,26-35,1,Dissociative Amnesia,Accidents,Moderate,10,Yes,Memory Loss
+USA,Other,46-60,0,,,,,,
+Canada,Other,46-60,0,,,,,,
+Germany,Male,60+,0,,,,,,
+Germany,Other,36-45,1,Dissociative Amnesia,Sexual Trauma,Mild,7,Yes,Work Impairment
+Canada,Other,26-35,0,,,,,,
+India,Female,18-25,0,,,,,,
+USA,Female,26-35,1,Depersonalization/Derealization Disorder,Accidents,Moderate,20,Yes,Memory Loss
+India,Female,60+,1,Dissociative Amnesia,Accidents,Moderate,14,Yes,Memory Loss
+Australia,Female,26-35,1,Dissociative Identity Disorder,Sexual Trauma,Mild,17,No,Work Impairment
+India,Male,36-45,1,Depersonalization/Derealization Disorder,Accidents,Severe,14,Yes,Identity Confusion
+UK,Male,18-25,1,Dissociative Identity Disorder,Witnessing Violence,Mild,4,No,Out-of-Body Experiences
+Australia,Male,18-25,0,,,,,,
+India,Male,26-35,0,,,,,,
+India,Male,26-35,1,Depersonalization/Derealization Disorder,Accidents,Moderate,9,Yes,Identity Confusion
+Germany,Female,26-35,0,,,,,,
+Germany,Male,26-35,0,,,,,,
+Germany,Female,18-25,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,12,Yes,Relationship Issues
+Australia,Female,18-25,1,Dissociative Identity Disorder,Accidents,Moderate,2,Yes,Out-of-Body Experiences
+India,Other,26-35,0,,,,,,
+Canada,Other,26-35,1,Dissociative Identity Disorder,Accidents,Mild,10,No,Work Impairment
+Canada,Male,46-60,0,,,,,,
+India,Female,18-25,1,Dissociative Amnesia,Witnessing Violence,Severe,15,No,Work Impairment
+UK,Male,46-60,0,,,,,,
+USA,Other,36-45,0,,,,,,
+Germany,Female,18-25,0,,,,,,
+Canada,Female,26-35,1,Depersonalization/Derealization Disorder,Childhood Abuse,Severe,15,No,Work Impairment
+UK,Other,46-60,1,Dissociative Identity Disorder,Neglect,Severe,5,No,Out-of-Body Experiences
+Canada,Female,36-45,0,,,,,,
+India,Male,26-35,0,,,,,,
+UK,Other,Under 18,1,Depersonalization/Derealization Disorder,Accidents,Mild,5,No,Work Impairment
+India,Male,60+,1,Depersonalization/Derealization Disorder,Neglect,Mild,13,No,Out-of-Body Experiences
+Canada,Female,60+,1,Depersonalization/Derealization Disorder,Witnessing Violence,Mild,7,Yes,Out-of-Body Experiences
+UK,Female,36-45,0,,,,,,
+Germany,Other,36-45,1,Dissociative Amnesia,Combat Exposure,Moderate,13,No,Work Impairment
+Canada,Other,Under 18,0,,,,,,
+India,Female,26-35,1,Dissociative Amnesia,Childhood Abuse,Mild,14,Yes,Out-of-Body Experiences
+Germany,Male,60+,1,Dissociative Identity Disorder,Neglect,Moderate,13,Yes,Out-of-Body Experiences
+UK,Male,18-25,1,Dissociative Identity Disorder,Childhood Abuse,Moderate,4,Yes,Emotional Detachment
+Germany,Other,26-35,0,,,,,,
+UK,Female,36-45,1,Dissociative Identity Disorder,Sexual Trauma,Mild,13,No,Identity Confusion
+Canada,Other,18-25,0,,,,,,
+USA,Male,18-25,1,Dissociative Amnesia,Witnessing Violence,Mild,19,Yes,Relationship Issues
+Australia,Other,18-25,0,,,,,,
+India,Female,26-35,0,,,,,,
+India,Female,26-35,0,,,,,,
+Canada,Female,18-25,0,,,,,,
+USA,Female,18-25,1,Dissociative Identity Disorder,Combat Exposure,Mild,14,Yes,Out-of-Body Experiences
+UK,Female,26-35,0,,,,,,
+Germany,Other,26-35,0,,,,,,
+India,Other,Under 18,1,Dissociative Identity Disorder,Childhood Abuse,Mild,4,Yes,Relationship Issues

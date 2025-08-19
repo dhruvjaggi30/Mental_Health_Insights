@@ -1,0 +1,801 @@
+Country,Gender,Age Group,Diagnosed,Phobia Type,Severity,Avoidance Behavior,Treatment Sought
+South Africa,Female,46-60,0,,,,
+Australia,Female,Under 18,1,Clowns,Moderate,Yes,No
+Brazil,Female,26-35,1,Animals,Severe,Yes,Yes
+USA,Female,18-25,1,Thunderstorms,Mild,Yes,Yes
+Canada,Female,26-35,0,,,,
+Germany,Male,18-25,0,,,,
+UK,Female,26-35,1,Animals,Severe,No,No
+USA,Female,60+,0,,,,
+India,Male,Under 18,0,,,,
+South Africa,Female,46-60,1,Thunderstorms,Severe,No,Yes
+India,Male,18-25,0,,,,
+France,Male,26-35,1,Heights,Mild,No,Yes
+Germany,Female,26-35,0,,,,
+Australia,Female,18-25,0,,,,
+Mexico,Female,Under 18,1,Needles,Moderate,Yes,No
+South Africa,Male,Under 18,0,,,,
+Australia,Male,36-45,0,,,,
+UK,Male,26-35,1,Water,Moderate,No,Yes
+Germany,Male,18-25,0,,,,
+France,Male,36-45,0,,,,
+India,Male,60+,1,Animals,Severe,Yes,No
+Italy,Male,18-25,1,Clowns,Moderate,Yes,No
+Australia,Female,18-25,0,,,,
+India,Male,36-45,1,Heights,Mild,Yes,No
+Australia,Female,Under 18,0,,,,
+Australia,Male,26-35,0,,,,
+Italy,Female,26-35,0,,,,
+UK,Female,Under 18,0,,,,
+Japan,Female,36-45,1,Needles,Moderate,No,Yes
+Brazil,Male,Under 18,1,Animals,Mild,No,Yes
+Germany,Female,36-45,0,,,,
+Canada,Female,36-45,1,Enclosed Spaces,Severe,Yes,Yes
+Germany,Male,36-45,1,Heights,Moderate,No,Yes
+Italy,Male,Under 18,0,,,,
+USA,Female,36-45,0,,,,
+Italy,Female,46-60,1,Needles,Mild,No,Yes
+France,Male,18-25,0,,,,
+Canada,Female,26-35,1,Water,Moderate,Yes,No
+India,Male,18-25,0,,,,
+Germany,Male,60+,1,Clowns,Moderate,Yes,Yes
+Italy,Male,26-35,0,,,,
+India,Male,26-35,0,,,,
+Mexico,Female,26-35,1,Thunderstorms,Moderate,Yes,No
+Japan,Female,26-35,1,Enclosed Spaces,Moderate,Yes,No
+Brazil,Female,46-60,0,,,,
+Brazil,Male,26-35,0,,,,
+India,Male,18-25,1,Clowns,Moderate,No,Yes
+Germany,Male,36-45,0,,,,
+Brazil,Male,46-60,1,Animals,Moderate,No,No
+Italy,Male,46-60,1,Thunderstorms,Mild,No,No
+India,Female,46-60,1,Enclosed Spaces,Severe,No,Yes
+UK,Female,60+,1,Enclosed Spaces,Moderate,No,No
+UK,Male,36-45,1,Needles,Moderate,No,No
+South Africa,Female,46-60,0,,,,
+UK,Male,26-35,1,Clowns,Moderate,Yes,Yes
+USA,Male,18-25,0,,,,
+USA,Male,26-35,1,Clowns,Severe,No,No
+Mexico,Female,18-25,0,,,,
+UK,Female,18-25,1,Needles,Mild,Yes,Yes
+Italy,Male,26-35,1,Needles,Mild,Yes,No
+Mexico,Male,26-35,0,,,,
+Germany,Female,18-25,1,Needles,Moderate,Yes,No
+South Africa,Female,26-35,1,Animals,Mild,Yes,No
+UK,Female,Under 18,1,Enclosed Spaces,Mild,No,Yes
+USA,Male,36-45,1,Enclosed Spaces,Mild,No,Yes
+Canada,Female,18-25,1,Enclosed Spaces,Severe,Yes,No
+Australia,Female,36-45,1,Enclosed Spaces,Severe,Yes,No
+Japan,Female,18-25,0,,,,
+Japan,Female,26-35,1,Thunderstorms,Moderate,No,No
+Italy,Female,18-25,1,Needles,Moderate,Yes,No
+Brazil,Male,36-45,1,Enclosed Spaces,Mild,Yes,No
+Australia,Female,26-35,1,Flying,Mild,No,No
+Mexico,Female,26-35,1,Thunderstorms,Severe,No,No
+USA,Male,18-25,1,Needles,Mild,No,No
+Australia,Female,26-35,1,Flying,Moderate,No,Yes
+USA,Male,26-35,0,,,,
+India,Male,18-25,1,Thunderstorms,Moderate,No,No
+UK,Male,46-60,1,Clowns,Moderate,Yes,No
+India,Female,46-60,1,Thunderstorms,Severe,Yes,No
+France,Female,18-25,0,,,,
+South Africa,Female,46-60,1,Clowns,Moderate,No,No
+USA,Male,18-25,1,Enclosed Spaces,Mild,Yes,No
+Brazil,Female,18-25,1,Animals,Moderate,Yes,Yes
+India,Female,26-35,1,Needles,Mild,No,Yes
+Brazil,Female,36-45,1,Animals,Mild,Yes,Yes
+Mexico,Female,36-45,0,,,,
+Brazil,Female,36-45,1,Animals,Severe,Yes,Yes
+India,Female,Under 18,1,Clowns,Mild,No,No
+India,Female,26-35,1,Heights,Mild,Yes,No
+India,Male,26-35,1,Needles,Moderate,Yes,No
+UK,Female,18-25,1,Needles,Moderate,No,Yes
+France,Female,26-35,1,Thunderstorms,Moderate,No,No
+Canada,Female,36-45,0,,,,
+South Africa,Male,18-25,1,Flying,Severe,No,No
+South Africa,Male,36-45,1,Animals,Moderate,No,Yes
+South Africa,Female,36-45,1,Thunderstorms,Severe,No,Yes
+Canada,Male,26-35,0,,,,
+Italy,Male,60+,1,Flying,Mild,Yes,No
+Canada,Female,26-35,1,Water,Moderate,Yes,Yes
+UK,Female,26-35,1,Thunderstorms,Mild,No,No
+Japan,Female,18-25,0,,,,
+Canada,Male,36-45,1,Heights,Mild,Yes,Yes
+Brazil,Male,36-45,0,,,,
+UK,Male,36-45,1,Needles,Mild,Yes,Yes
+Canada,Female,26-35,1,Flying,Moderate,Yes,No
+Mexico,Female,46-60,0,,,,
+Australia,Male,18-25,0,,,,
+UK,Female,46-60,1,Heights,Mild,Yes,Yes
+Mexico,Male,26-35,0,,,,
+Germany,Male,26-35,0,,,,
+Mexico,Male,36-45,1,Animals,Mild,No,Yes
+UK,Female,60+,1,Thunderstorms,Moderate,No,Yes
+Japan,Female,46-60,1,Animals,Severe,Yes,No
+Japan,Male,46-60,1,Clowns,Severe,No,Yes
+Japan,Female,18-25,0,,,,
+Brazil,Female,36-45,0,,,,
+Mexico,Male,Under 18,1,Clowns,Severe,Yes,No
+Japan,Male,46-60,1,Thunderstorms,Mild,Yes,Yes
+Mexico,Female,60+,1,Needles,Mild,No,No
+Italy,Female,46-60,1,Needles,Moderate,Yes,Yes
+Germany,Female,46-60,1,Thunderstorms,Moderate,Yes,No
+UK,Female,46-60,1,Animals,Mild,Yes,No
+Australia,Male,46-60,1,Flying,Moderate,Yes,No
+Australia,Male,18-25,0,,,,
+Mexico,Male,26-35,1,Clowns,Severe,Yes,No
+USA,Male,46-60,1,Heights,Mild,No,Yes
+France,Female,46-60,0,,,,
+USA,Female,18-25,1,Needles,Moderate,No,No
+Australia,Female,18-25,0,,,,
+Canada,Female,18-25,0,,,,
+UK,Female,46-60,1,Animals,Moderate,Yes,No
+Italy,Male,Under 18,0,,,,
+France,Male,60+,0,,,,
+Japan,Female,46-60,1,Flying,Severe,No,Yes
+France,Female,Under 18,0,,,,
+India,Female,26-35,1,Enclosed Spaces,Moderate,No,Yes
+Germany,Male,18-25,1,Heights,Moderate,No,Yes
+India,Female,26-35,1,Water,Moderate,Yes,Yes
+UK,Female,46-60,0,,,,
+Australia,Male,26-35,1,Animals,Severe,No,No
+Germany,Female,36-45,0,,,,
+Australia,Female,26-35,0,,,,
+Mexico,Female,36-45,1,Clowns,Moderate,Yes,Yes
+UK,Female,18-25,1,Needles,Mild,No,Yes
+UK,Female,46-60,1,Thunderstorms,Mild,No,Yes
+Canada,Male,36-45,0,,,,
+France,Female,26-35,1,Animals,Severe,Yes,No
+India,Female,36-45,1,Thunderstorms,Mild,No,No
+USA,Male,26-35,1,Thunderstorms,Moderate,Yes,No
+Australia,Male,18-25,1,Clowns,Moderate,No,No
+Japan,Male,18-25,1,Needles,Mild,No,Yes
+Brazil,Male,36-45,0,,,,
+Mexico,Male,18-25,0,,,,
+USA,Male,26-35,1,Enclosed Spaces,Moderate,Yes,No
+Australia,Female,60+,0,,,,
+Italy,Female,36-45,1,Needles,Moderate,Yes,Yes
+India,Male,Under 18,1,Clowns,Moderate,No,Yes
+UK,Male,60+,1,Needles,Moderate,No,No
+South Africa,Female,18-25,1,Needles,Moderate,Yes,No
+Australia,Male,18-25,1,Water,Moderate,Yes,No
+South Africa,Female,18-25,1,Water,Severe,Yes,Yes
+Germany,Female,Under 18,1,Flying,Moderate,Yes,No
+France,Male,26-35,1,Enclosed Spaces,Mild,Yes,No
+UK,Male,18-25,0,,,,
+Australia,Female,18-25,1,Animals,Moderate,Yes,No
+USA,Female,60+,1,Heights,Severe,No,Yes
+South Africa,Male,18-25,0,,,,
+India,Male,36-45,0,,,,
+South Africa,Male,26-35,1,Water,Severe,No,No
+Brazil,Female,36-45,1,Heights,Moderate,Yes,Yes
+Canada,Male,Under 18,0,,,,
+Canada,Female,18-25,1,Heights,Moderate,No,Yes
+Canada,Female,46-60,0,,,,
+India,Female,36-45,0,,,,
+France,Female,18-25,1,Enclosed Spaces,Mild,No,Yes
+South Africa,Male,60+,0,,,,
+Brazil,Male,Under 18,0,,,,
+Mexico,Male,Under 18,1,Heights,Moderate,No,Yes
+USA,Female,26-35,1,Needles,Moderate,Yes,No
+USA,Male,36-45,1,Clowns,Mild,No,Yes
+Australia,Female,18-25,1,Needles,Mild,Yes,Yes
+France,Male,36-45,1,Heights,Moderate,Yes,No
+Japan,Female,36-45,1,Heights,Severe,No,No
+Mexico,Male,26-35,1,Heights,Moderate,No,Yes
+Mexico,Male,46-60,1,Heights,Moderate,No,Yes
+Germany,Female,46-60,1,Water,Mild,Yes,No
+Japan,Female,60+,1,Flying,Moderate,Yes,Yes
+Italy,Male,46-60,1,Heights,Moderate,Yes,Yes
+USA,Male,26-35,0,,,,
+India,Female,18-25,1,Heights,Severe,No,Yes
+Italy,Female,26-35,1,Thunderstorms,Moderate,No,Yes
+Japan,Female,26-35,0,,,,
+Australia,Female,26-35,1,Enclosed Spaces,Moderate,Yes,No
+Australia,Male,46-60,0,,,,
+USA,Female,60+,0,,,,
+USA,Male,26-35,1,Thunderstorms,Moderate,Yes,No
+UK,Female,36-45,0,,,,
+Australia,Female,Under 18,1,Thunderstorms,Severe,Yes,Yes
+Germany,Male,60+,0,,,,
+Italy,Male,18-25,0,,,,
+UK,Male,26-35,0,,,,
+South Africa,Female,26-35,1,Enclosed Spaces,Moderate,No,Yes
+South Africa,Female,Under 18,1,Thunderstorms,Moderate,No,Yes
+South Africa,Female,26-35,1,Animals,Moderate,Yes,No
+Italy,Female,26-35,1,Animals,Moderate,No,No
+USA,Female,46-60,1,Thunderstorms,Mild,No,Yes
+Australia,Male,46-60,1,Water,Moderate,No,No
+USA,Male,46-60,1,Enclosed Spaces,Severe,Yes,No
+South Africa,Female,Under 18,1,Needles,Moderate,No,Yes
+UK,Male,46-60,1,Heights,Mild,Yes,Yes
+Mexico,Female,36-45,1,Water,Mild,Yes,Yes
+Brazil,Male,26-35,1,Needles,Mild,No,Yes
+South Africa,Female,36-45,0,,,,
+Italy,Female,36-45,1,Animals,Severe,No,Yes
+France,Female,26-35,1,Enclosed Spaces,Mild,No,Yes
+Japan,Male,18-25,0,,,,
+Australia,Male,60+,1,Heights,Moderate,Yes,No
+India,Male,Under 18,1,Heights,Mild,Yes,Yes
+Canada,Female,18-25,1,Thunderstorms,Moderate,No,Yes
+France,Male,36-45,0,,,,
+Australia,Male,Under 18,0,,,,
+Japan,Female,26-35,0,,,,
+Germany,Female,18-25,0,,,,
+Mexico,Female,26-35,1,Thunderstorms,Mild,Yes,No
+UK,Male,18-25,0,,,,
+France,Female,26-35,1,Clowns,Moderate,Yes,No
+Canada,Female,18-25,1,Needles,Moderate,Yes,No
+South Africa,Female,36-45,1,Clowns,Moderate,Yes,Yes
+Brazil,Male,36-45,0,,,,
+Brazil,Female,26-35,1,Heights,Severe,Yes,Yes
+Japan,Male,26-35,1,Water,Severe,Yes,Yes
+Canada,Male,Under 18,0,,,,
+South Africa,Female,Under 18,0,,,,
+Canada,Female,18-25,1,Needles,Moderate,Yes,No
+Japan,Female,26-35,1,Enclosed Spaces,Severe,No,Yes
+Italy,Male,18-25,0,,,,
+Australia,Female,36-45,1,Enclosed Spaces,Severe,No,No
+Canada,Female,18-25,1,Enclosed Spaces,Moderate,Yes,Yes
+USA,Male,26-35,1,Animals,Mild,Yes,Yes
+Italy,Female,26-35,0,,,,
+South Africa,Female,46-60,1,Thunderstorms,Mild,No,No
+UK,Male,18-25,0,,,,
+France,Female,18-25,1,Flying,Moderate,No,No
+Japan,Male,18-25,0,,,,
+Mexico,Male,46-60,1,Flying,Moderate,Yes,No
+Japan,Male,18-25,1,Flying,Mild,No,No
+India,Female,26-35,1,Thunderstorms,Severe,Yes,Yes
+USA,Female,36-45,1,Thunderstorms,Moderate,No,No
+Mexico,Female,46-60,1,Needles,Moderate,No,Yes
+France,Female,18-25,0,,,,
+Mexico,Female,26-35,1,Thunderstorms,Mild,No,Yes
+Australia,Female,18-25,1,Needles,Moderate,Yes,Yes
+France,Male,36-45,1,Needles,Moderate,Yes,Yes
+UK,Female,18-25,1,Needles,Moderate,No,No
+Canada,Female,36-45,0,,,,
+France,Female,18-25,1,Flying,Moderate,Yes,Yes
+Germany,Female,26-35,0,,,,
+France,Female,18-25,1,Heights,Moderate,No,No
+India,Male,18-25,1,Water,Severe,No,Yes
+India,Male,26-35,0,,,,
+Italy,Male,60+,1,Thunderstorms,Severe,No,No
+Brazil,Female,46-60,1,Needles,Severe,No,No
+Japan,Male,36-45,1,Heights,Mild,Yes,No
+Mexico,Female,46-60,1,Enclosed Spaces,Mild,No,Yes
+South Africa,Male,26-35,0,,,,
+Japan,Male,26-35,1,Clowns,Severe,Yes,Yes
+Italy,Female,Under 18,1,Needles,Mild,Yes,Yes
+India,Female,46-60,1,Thunderstorms,Moderate,No,No
+India,Female,18-25,1,Clowns,Moderate,Yes,Yes
+Mexico,Male,26-35,0,,,,
+USA,Female,18-25,1,Flying,Moderate,No,Yes
+UK,Male,36-45,0,,,,
+Germany,Female,46-60,1,Thunderstorms,Mild,No,No
+UK,Male,18-25,0,,,,
+South Africa,Female,18-25,1,Animals,Moderate,No,No
+France,Female,18-25,1,Thunderstorms,Mild,No,Yes
+France,Female,18-25,0,,,,
+Mexico,Female,26-35,1,Enclosed Spaces,Severe,No,No
+Brazil,Female,36-45,1,Needles,Mild,Yes,No
+Brazil,Female,18-25,0,,,,
+South Africa,Female,18-25,1,Animals,Moderate,No,Yes
+South Africa,Female,36-45,1,Thunderstorms,Mild,Yes,No
+France,Male,18-25,0,,,,
+Italy,Male,18-25,1,Enclosed Spaces,Moderate,Yes,Yes
+France,Female,18-25,0,,,,
+Australia,Male,18-25,0,,,,
+Japan,Male,36-45,0,,,,
+Australia,Male,Under 18,0,,,,
+Australia,Female,46-60,1,Flying,Mild,Yes,Yes
+Japan,Female,36-45,1,Animals,Moderate,No,No
+Brazil,Female,Under 18,1,Enclosed Spaces,Severe,No,Yes
+Germany,Female,60+,1,Water,Mild,No,Yes
+South Africa,Female,26-35,1,Needles,Mild,No,Yes
+USA,Male,46-60,1,Animals,Severe,No,No
+Italy,Male,60+,0,,,,
+Mexico,Female,60+,0,,,,
+Brazil,Female,18-25,1,Thunderstorms,Moderate,Yes,No
+Mexico,Male,18-25,1,Clowns,Severe,Yes,Yes
+India,Female,18-25,1,Animals,Severe,No,No
+India,Female,26-35,1,Flying,Moderate,Yes,No
+Brazil,Female,Under 18,1,Needles,Mild,No,Yes
+Canada,Male,36-45,0,,,,
+Brazil,Female,Under 18,0,,,,
+Brazil,Female,46-60,1,Needles,Moderate,Yes,No
+Brazil,Male,36-45,0,,,,
+France,Male,26-35,1,Water,Severe,No,No
+Brazil,Male,36-45,0,,,,
+Japan,Female,60+,1,Thunderstorms,Severe,No,Yes
+Germany,Male,26-35,0,,,,
+UK,Female,18-25,0,,,,
+Germany,Female,26-35,1,Enclosed Spaces,Moderate,Yes,Yes
+Germany,Female,18-25,0,,,,
+Mexico,Female,46-60,1,Water,Moderate,Yes,No
+Japan,Female,36-45,1,Animals,Severe,No,Yes
+Australia,Female,26-35,1,Enclosed Spaces,Severe,Yes,Yes
+UK,Male,26-35,0,,,,
+USA,Male,36-45,0,,,,
+Mexico,Male,60+,0,,,,
+France,Female,36-45,0,,,,
+Germany,Female,36-45,1,Needles,Mild,Yes,No
+Mexico,Male,18-25,1,Needles,Mild,No,Yes
+UK,Female,26-35,1,Flying,Mild,No,No
+Brazil,Female,36-45,1,Heights,Severe,Yes,No
+Germany,Female,46-60,1,Heights,Mild,Yes,Yes
+Mexico,Male,26-35,0,,,,
+Germany,Male,18-25,0,,,,
+India,Female,26-35,1,Needles,Moderate,No,Yes
+Brazil,Male,26-35,0,,,,
+Japan,Male,18-25,0,,,,
+Germany,Female,36-45,1,Thunderstorms,Mild,No,No
+Japan,Male,Under 18,0,,,,
+USA,Female,26-35,1,Thunderstorms,Mild,Yes,No
+Germany,Female,26-35,0,,,,
+USA,Male,26-35,1,Clowns,Mild,No,Yes
+UK,Male,26-35,1,Needles,Moderate,Yes,Yes
+Japan,Female,46-60,1,Enclosed Spaces,Moderate,Yes,No
+UK,Female,26-35,0,,,,
+Brazil,Male,36-45,0,,,,
+Mexico,Female,26-35,1,Water,Mild,No,Yes
+Germany,Male,26-35,1,Heights,Moderate,No,No
+Mexico,Male,18-25,0,,,,
+Japan,Male,18-25,1,Heights,Moderate,Yes,Yes
+Canada,Female,26-35,1,Enclosed Spaces,Moderate,Yes,Yes
+South Africa,Male,Under 18,0,,,,
+India,Male,46-60,1,Water,Moderate,No,Yes
+Brazil,Male,60+,0,,,,
+Japan,Male,46-60,0,,,,
+Germany,Female,60+,1,Water,Moderate,No,Yes
+Mexico,Female,26-35,1,Needles,Mild,No,No
+Germany,Female,18-25,1,Enclosed Spaces,Mild,Yes,No
+Italy,Female,36-45,1,Flying,Severe,No,No
+Germany,Female,18-25,1,Needles,Mild,Yes,Yes
+South Africa,Female,26-35,1,Flying,Mild,No,No
+Australia,Female,26-35,0,,,,
+Italy,Female,18-25,1,Enclosed Spaces,Mild,Yes,Yes
+France,Female,46-60,1,Clowns,Mild,No,Yes
+India,Female,18-25,0,,,,
+Mexico,Female,26-35,0,,,,
+Japan,Male,Under 18,0,,,,
+Australia,Female,46-60,1,Enclosed Spaces,Moderate,Yes,No
+Germany,Male,18-25,1,Enclosed Spaces,Moderate,Yes,No
+Japan,Female,60+,1,Needles,Severe,No,No
+Australia,Female,18-25,0,,,,
+Canada,Female,26-35,0,,,,
+Canada,Male,18-25,0,,,,
+Mexico,Male,18-25,1,Heights,Moderate,Yes,Yes
+USA,Male,18-25,1,Flying,Mild,No,Yes
+France,Male,46-60,1,Needles,Moderate,No,Yes
+UK,Male,Under 18,0,,,,
+USA,Male,26-35,1,Thunderstorms,Mild,No,Yes
+India,Male,46-60,0,,,,
+Brazil,Female,26-35,1,Thunderstorms,Severe,Yes,No
+Mexico,Female,36-45,1,Enclosed Spaces,Moderate,Yes,Yes
+Canada,Female,18-25,1,Thunderstorms,Mild,Yes,Yes
+Italy,Male,36-45,1,Clowns,Mild,No,Yes
+Canada,Female,18-25,1,Needles,Moderate,No,Yes
+South Africa,Female,26-35,1,Flying,Moderate,Yes,Yes
+Japan,Male,18-25,1,Water,Mild,Yes,No
+UK,Female,Under 18,0,,,,
+UK,Male,36-45,0,,,,
+UK,Female,36-45,1,Needles,Moderate,No,No
+Italy,Female,46-60,0,,,,
+Japan,Male,60+,0,,,,
+South Africa,Female,46-60,1,Animals,Moderate,No,Yes
+India,Male,36-45,1,Heights,Mild,No,No
+France,Male,46-60,0,,,,
+Japan,Female,26-35,1,Animals,Moderate,Yes,No
+UK,Female,18-25,1,Flying,Moderate,No,No
+France,Female,18-25,1,Thunderstorms,Mild,No,No
+Brazil,Female,26-35,1,Needles,Mild,Yes,No
+South Africa,Female,18-25,1,Heights,Mild,Yes,Yes
+Mexico,Female,26-35,0,,,,
+Mexico,Female,60+,1,Needles,Mild,Yes,Yes
+Brazil,Female,60+,0,,,,
+Mexico,Female,46-60,1,Heights,Moderate,Yes,No
+Italy,Female,26-35,1,Thunderstorms,Severe,No,No
+Canada,Male,18-25,1,Heights,Moderate,Yes,No
+Germany,Female,36-45,1,Needles,Mild,No,Yes
+France,Female,36-45,1,Thunderstorms,Moderate,No,Yes
+Germany,Female,Under 18,1,Animals,Moderate,No,No
+India,Male,36-45,1,Needles,Severe,No,Yes
+South Africa,Female,26-35,1,Enclosed Spaces,Moderate,No,No
+Australia,Female,18-25,1,Enclosed Spaces,Mild,Yes,No
+France,Male,36-45,0,,,,
+South Africa,Male,18-25,0,,,,
+Australia,Female,60+,0,,,,
+France,Female,46-60,1,Thunderstorms,Mild,No,No
+Mexico,Female,18-25,1,Thunderstorms,Mild,Yes,No
+UK,Female,18-25,1,Needles,Severe,No,Yes
+Australia,Female,60+,1,Thunderstorms,Moderate,Yes,No
+South Africa,Male,36-45,1,Water,Mild,Yes,No
+Germany,Female,18-25,1,Needles,Severe,Yes,No
+Canada,Female,26-35,1,Flying,Moderate,Yes,Yes
+Canada,Male,26-35,1,Animals,Severe,No,Yes
+India,Female,26-35,1,Thunderstorms,Severe,No,Yes
+South Africa,Female,Under 18,0,,,,
+USA,Male,Under 18,0,,,,
+UK,Female,46-60,1,Animals,Mild,Yes,No
+Italy,Female,36-45,1,Enclosed Spaces,Mild,Yes,Yes
+Japan,Male,Under 18,1,Clowns,Moderate,No,Yes
+Japan,Male,18-25,1,Enclosed Spaces,Moderate,Yes,No
+Italy,Female,46-60,1,Flying,Mild,No,Yes
+Mexico,Female,18-25,1,Flying,Moderate,Yes,Yes
+Japan,Female,26-35,1,Water,Severe,No,No
+Italy,Male,Under 18,1,Enclosed Spaces,Severe,Yes,No
+Germany,Male,36-45,0,,,,
+Australia,Male,36-45,1,Heights,Severe,No,No
+Brazil,Female,26-35,1,Animals,Moderate,Yes,No
+South Africa,Male,36-45,1,Clowns,Severe,No,No
+Japan,Female,Under 18,0,,,,
+UK,Female,36-45,0,,,,
+Italy,Female,36-45,1,Flying,Severe,Yes,No
+Italy,Male,18-25,1,Water,Moderate,No,Yes
+Italy,Female,26-35,0,,,,
+South Africa,Female,26-35,1,Needles,Moderate,No,No
+India,Male,18-25,1,Heights,Severe,No,No
+Australia,Female,26-35,1,Needles,Moderate,Yes,Yes
+Brazil,Female,18-25,0,,,,
+Italy,Male,60+,0,,,,
+USA,Male,18-25,1,Heights,Moderate,No,Yes
+Germany,Male,Under 18,1,Flying,Moderate,Yes,No
+Brazil,Female,36-45,0,,,,
+South Africa,Female,18-25,1,Thunderstorms,Moderate,No,Yes
+France,Male,26-35,1,Heights,Moderate,No,No
+Brazil,Male,36-45,1,Water,Moderate,No,No
+Japan,Female,36-45,0,,,,
+India,Male,36-45,1,Clowns,Mild,Yes,No
+France,Male,36-45,0,,,,
+Australia,Male,46-60,0,,,,
+Brazil,Male,Under 18,1,Enclosed Spaces,Mild,No,No
+South Africa,Female,36-45,0,,,,
+Japan,Female,36-45,0,,,,
+Japan,Female,26-35,1,Water,Severe,Yes,Yes
+India,Male,18-25,1,Animals,Moderate,No,No
+Italy,Female,18-25,1,Needles,Moderate,Yes,Yes
+Brazil,Female,26-35,0,,,,
+Brazil,Female,36-45,0,,,,
+Mexico,Male,26-35,0,,,,
+UK,Male,18-25,0,,,,
+Germany,Female,Under 18,1,Needles,Moderate,No,Yes
+Brazil,Female,18-25,1,Thunderstorms,Moderate,Yes,No
+Japan,Female,18-25,1,Thunderstorms,Moderate,No,Yes
+USA,Female,Under 18,1,Thunderstorms,Moderate,Yes,No
+France,Female,46-60,0,,,,
+Mexico,Male,46-60,1,Needles,Moderate,Yes,Yes
+Mexico,Female,26-35,1,Flying,Mild,Yes,No
+UK,Female,18-25,1,Flying,Moderate,No,No
+Brazil,Female,18-25,1,Needles,Moderate,Yes,Yes
+Italy,Female,60+,1,Needles,Severe,Yes,No
+Mexico,Female,18-25,0,,,,
+India,Female,Under 18,1,Needles,Moderate,No,No
+USA,Female,46-60,1,Thunderstorms,Severe,No,Yes
+Brazil,Male,36-45,1,Clowns,Moderate,Yes,Yes
+France,Male,26-35,1,Needles,Severe,No,Yes
+Japan,Male,36-45,1,Heights,Severe,No,No
+Japan,Female,46-60,1,Water,Moderate,Yes,No
+France,Male,18-25,0,,,,
+Australia,Male,26-35,1,Heights,Mild,Yes,Yes
+Mexico,Male,26-35,0,,,,
+France,Female,46-60,1,Water,Moderate,Yes,Yes
+Germany,Male,18-25,1,Needles,Mild,Yes,Yes
+Australia,Male,18-25,1,Heights,Moderate,No,Yes
+South Africa,Female,26-35,1,Flying,Moderate,No,Yes
+Canada,Female,26-35,1,Needles,Severe,Yes,Yes
+Australia,Female,18-25,1,Thunderstorms,Moderate,Yes,Yes
+France,Female,60+,1,Needles,Mild,Yes,Yes
+Brazil,Male,26-35,0,,,,
+Australia,Female,46-60,1,Clowns,Severe,No,No
+South Africa,Female,26-35,1,Enclosed Spaces,Moderate,Yes,Yes
+Japan,Male,18-25,1,Water,Moderate,No,Yes
+South Africa,Female,26-35,0,,,,
+UK,Female,18-25,0,,,,
+Australia,Male,26-35,0,,,,
+Germany,Female,26-35,1,Flying,Mild,No,No
+India,Female,36-45,0,,,,
+UK,Male,60+,1,Thunderstorms,Moderate,Yes,Yes
+Italy,Female,46-60,0,,,,
+UK,Female,46-60,1,Enclosed Spaces,Moderate,No,No
+USA,Female,46-60,0,,,,
+Germany,Male,36-45,1,Animals,Mild,No,Yes
+India,Male,46-60,0,,,,
+India,Male,18-25,1,Water,Severe,No,No
+Brazil,Male,18-25,0,,,,
+France,Female,Under 18,0,,,,
+South Africa,Female,Under 18,1,Enclosed Spaces,Mild,No,Yes
+Japan,Male,36-45,1,Clowns,Moderate,No,Yes
+Canada,Female,60+,1,Flying,Mild,Yes,No
+Brazil,Female,36-45,1,Thunderstorms,Mild,Yes,Yes
+USA,Female,26-35,1,Water,Severe,Yes,No
+Germany,Male,46-60,0,,,,
+Brazil,Male,18-25,1,Heights,Moderate,No,No
+USA,Male,18-25,1,Clowns,Moderate,Yes,Yes
+India,Female,36-45,1,Flying,Moderate,Yes,No
+Germany,Male,36-45,1,Enclosed Spaces,Moderate,No,Yes
+South Africa,Female,36-45,1,Flying,Moderate,Yes,Yes
+South Africa,Male,46-60,0,,,,
+France,Female,26-35,0,,,,
+Japan,Male,18-25,0,,,,
+India,Male,18-25,1,Thunderstorms,Moderate,Yes,No
+Mexico,Male,26-35,0,,,,
+Japan,Male,36-45,0,,,,
+USA,Female,Under 18,1,Animals,Severe,Yes,No
+Mexico,Male,Under 18,1,Thunderstorms,Mild,Yes,Yes
+Italy,Male,60+,1,Clowns,Mild,No,Yes
+France,Female,60+,1,Enclosed Spaces,Mild,No,No
+France,Male,46-60,1,Thunderstorms,Moderate,No,Yes
+Japan,Female,26-35,0,,,,
+Germany,Male,26-35,0,,,,
+France,Male,36-45,1,Animals,Moderate,No,Yes
+India,Female,26-35,1,Heights,Moderate,Yes,No
+Australia,Female,46-60,1,Clowns,Severe,Yes,Yes
+Japan,Female,46-60,1,Needles,Mild,No,No
+Canada,Male,18-25,0,,,,
+Mexico,Female,60+,1,Flying,Moderate,Yes,Yes
+India,Female,26-35,1,Heights,Mild,Yes,Yes
+France,Female,26-35,0,,,,
+Germany,Male,18-25,1,Clowns,Moderate,No,Yes
+UK,Male,26-35,1,Clowns,Moderate,Yes,Yes
+Australia,Female,Under 18,1,Thunderstorms,Severe,No,No
+Canada,Male,36-45,1,Needles,Moderate,No,No
+UK,Female,26-35,1,Thunderstorms,Mild,No,No
+Mexico,Male,46-60,1,Clowns,Severe,No,Yes
+UK,Female,46-60,0,,,,
+Brazil,Male,26-35,0,,,,
+France,Male,26-35,1,Thunderstorms,Moderate,Yes,Yes
+France,Female,18-25,0,,,,
+Brazil,Female,26-35,1,Water,Moderate,Yes,No
+UK,Male,36-45,0,,,,
+UK,Female,18-25,1,Flying,Mild,Yes,No
+Japan,Male,36-45,0,,,,
+Japan,Female,26-35,1,Thunderstorms,Mild,No,No
+Mexico,Male,26-35,1,Clowns,Severe,No,Yes
+USA,Female,18-25,0,,,,
+Mexico,Female,18-25,1,Thunderstorms,Severe,No,Yes
+South Africa,Female,36-45,1,Animals,Severe,No,No
+Mexico,Male,46-60,1,Water,Mild,Yes,Yes
+Mexico,Female,18-25,1,Animals,Moderate,Yes,No
+USA,Male,26-35,0,,,,
+Italy,Female,26-35,1,Animals,Moderate,Yes,No
+Brazil,Male,36-45,1,Clowns,Moderate,Yes,No
+Japan,Female,26-35,1,Water,Moderate,Yes,Yes
+Australia,Male,26-35,1,Heights,Moderate,Yes,No
+India,Male,Under 18,0,,,,
+France,Male,46-60,1,Heights,Mild,Yes,No
+South Africa,Male,36-45,0,,,,
+Italy,Female,46-60,1,Animals,Mild,Yes,Yes
+Mexico,Female,26-35,1,Water,Moderate,Yes,Yes
+USA,Male,26-35,0,,,,
+Italy,Female,Under 18,1,Needles,Mild,Yes,Yes
+Italy,Female,26-35,1,Needles,Severe,Yes,Yes
+France,Female,46-60,1,Enclosed Spaces,Mild,Yes,Yes
+Australia,Female,18-25,0,,,,
+South Africa,Male,26-35,1,Flying,Moderate,No,Yes
+Italy,Male,26-35,0,,,,
+Australia,Male,26-35,1,Flying,Severe,Yes,Yes
+USA,Male,26-35,1,Flying,Moderate,Yes,No
+Italy,Male,18-25,0,,,,
+Mexico,Female,46-60,1,Thunderstorms,Severe,No,Yes
+Italy,Male,18-25,1,Flying,Moderate,No,No
+France,Female,18-25,1,Thunderstorms,Moderate,No,Yes
+Mexico,Male,Under 18,1,Water,Moderate,Yes,Yes
+France,Male,26-35,0,,,,
+India,Female,18-25,1,Needles,Severe,No,No
+Mexico,Female,36-45,1,Thunderstorms,Severe,Yes,Yes
+Australia,Female,18-25,0,,,,
+Italy,Male,36-45,0,,,,
+UK,Female,26-35,1,Water,Mild,Yes,No
+USA,Female,26-35,0,,,,
+Mexico,Female,36-45,0,,,,
+Brazil,Male,Under 18,0,,,,
+Japan,Female,26-35,0,,,,
+France,Female,18-25,0,,,,
+South Africa,Female,18-25,0,,,,
+UK,Female,26-35,1,Clowns,Moderate,No,Yes
+Canada,Female,18-25,1,Thunderstorms,Mild,No,No
+Japan,Male,18-25,1,Enclosed Spaces,Severe,No,Yes
+Canada,Male,26-35,1,Water,Moderate,No,Yes
+Italy,Female,26-35,1,Clowns,Moderate,Yes,No
+Japan,Male,26-35,1,Flying,Severe,Yes,No
+Germany,Female,60+,1,Flying,Severe,No,No
+Italy,Female,26-35,1,Enclosed Spaces,Mild,No,No
+USA,Male,26-35,1,Heights,Moderate,No,Yes
+Mexico,Female,46-60,0,,,,
+USA,Female,26-35,1,Thunderstorms,Mild,No,Yes
+Mexico,Male,18-25,0,,,,
+Brazil,Female,46-60,1,Animals,Severe,No,No
+Mexico,Male,46-60,1,Water,Severe,No,Yes
+Italy,Female,36-45,1,Thunderstorms,Mild,Yes,No
+Brazil,Female,18-25,1,Animals,Moderate,Yes,No
+Canada,Male,26-35,0,,,,
+India,Female,26-35,0,,,,
+Japan,Male,Under 18,0,,,,
+Germany,Male,18-25,0,,,,
+UK,Male,18-25,1,Clowns,Moderate,Yes,No
+UK,Male,18-25,1,Heights,Severe,No,No
+Japan,Female,Under 18,0,,,,
+France,Female,46-60,1,Thunderstorms,Mild,No,Yes
+Italy,Male,26-35,0,,,,
+Italy,Female,Under 18,0,,,,
+Germany,Female,60+,1,Thunderstorms,Mild,No,Yes
+Italy,Male,18-25,1,Clowns,Moderate,No,Yes
+Mexico,Male,46-60,1,Water,Moderate,Yes,Yes
+Canada,Female,26-35,0,,,,
+India,Female,18-25,1,Enclosed Spaces,Mild,Yes,Yes
+Japan,Female,26-35,0,,,,
+Germany,Male,26-35,0,,,,
+Brazil,Male,36-45,0,,,,
+Italy,Female,18-25,1,Needles,Moderate,No,No
+Canada,Male,18-25,1,Clowns,Moderate,Yes,No
+South Africa,Male,26-35,1,Heights,Mild,Yes,No
+UK,Male,Under 18,0,,,,
+France,Female,18-25,1,Heights,Mild,Yes,Yes
+Japan,Male,36-45,1,Clowns,Moderate,Yes,Yes
+Italy,Female,26-35,1,Thunderstorms,Mild,Yes,Yes
+Mexico,Male,36-45,1,Heights,Moderate,No,Yes
+India,Female,46-60,1,Flying,Moderate,Yes,Yes
+Italy,Female,18-25,0,,,,
+USA,Female,Under 18,0,,,,
+Brazil,Male,36-45,1,Heights,Moderate,No,No
+Australia,Female,26-35,1,Animals,Mild,Yes,Yes
+Japan,Male,46-60,0,,,,
+Australia,Female,18-25,1,Needles,Moderate,No,Yes
+Brazil,Female,26-35,0,,,,
+Australia,Male,36-45,1,Animals,Severe,Yes,Yes
+Germany,Male,46-60,1,Heights,Moderate,No,No
+UK,Male,18-25,1,Enclosed Spaces,Mild,No,Yes
+Australia,Female,18-25,1,Clowns,Mild,No,No
+Japan,Male,46-60,0,,,,
+Germany,Female,36-45,1,Animals,Moderate,No,Yes
+South Africa,Female,18-25,1,Flying,Mild,Yes,Yes
+Japan,Female,26-35,1,Needles,Moderate,Yes,No
+South Africa,Female,26-35,1,Animals,Moderate,No,No
+Mexico,Female,26-35,0,,,,
+Japan,Male,26-35,0,,,,
+Japan,Female,46-60,1,Needles,Moderate,No,No
+France,Male,26-35,0,,,,
+Germany,Male,Under 18,1,Water,Moderate,Yes,Yes
+Australia,Male,36-45,0,,,,
+Italy,Male,18-25,0,,,,
+Mexico,Female,18-25,1,Needles,Moderate,No,No
+Mexico,Male,18-25,0,,,,
+Mexico,Male,46-60,0,,,,
+Brazil,Male,18-25,1,Clowns,Mild,Yes,No
+UK,Female,26-35,1,Thunderstorms,Moderate,Yes,No
+USA,Female,26-35,1,Thunderstorms,Severe,No,Yes
+South Africa,Female,46-60,1,Needles,Moderate,No,No
+Germany,Female,Under 18,0,,,,
+South Africa,Female,46-60,1,Water,Severe,No,Yes
+UK,Male,Under 18,0,,,,
+UK,Male,Under 18,0,,,,
+UK,Female,Under 18,1,Flying,Moderate,No,No
+Germany,Male,26-35,1,Water,Mild,Yes,No
+Mexico,Female,60+,0,,,,
+India,Female,26-35,1,Heights,Moderate,No,No
+India,Male,60+,0,,,,
+Italy,Male,Under 18,0,,,,
+UK,Male,60+,1,Animals,Moderate,No,No
+UK,Female,Under 18,1,Thunderstorms,Moderate,No,Yes
+France,Male,26-35,1,Needles,Severe,No,Yes
+India,Male,26-35,1,Thunderstorms,Severe,No,No
+Germany,Male,Under 18,1,Water,Moderate,Yes,No
+USA,Male,26-35,1,Needles,Moderate,Yes,Yes
+Canada,Male,36-45,0,,,,
+Japan,Female,26-35,1,Needles,Mild,No,No
+USA,Female,46-60,1,Flying,Mild,Yes,No
+UK,Female,18-25,1,Thunderstorms,Moderate,No,Yes
+Mexico,Male,18-25,0,,,,
+France,Male,46-60,0,,,,
+Mexico,Female,26-35,1,Enclosed Spaces,Moderate,No,No
+Mexico,Male,46-60,1,Clowns,Moderate,Yes,No
+Australia,Female,46-60,1,Animals,Moderate,Yes,No
+Italy,Male,18-25,1,Water,Moderate,Yes,No
+Mexico,Female,46-60,1,Needles,Moderate,Yes,Yes
+Italy,Male,18-25,1,Animals,Severe,Yes,Yes
+Brazil,Female,36-45,1,Flying,Moderate,Yes,No
+France,Female,18-25,1,Enclosed Spaces,Mild,Yes,Yes
+Germany,Male,36-45,0,,,,
+India,Male,26-35,0,,,,
+Italy,Female,60+,0,,,,
+UK,Female,18-25,1,Enclosed Spaces,Mild,Yes,No
+France,Male,26-35,1,Clowns,Mild,Yes,Yes
+Germany,Female,18-25,1,Flying,Severe,Yes,Yes
+France,Male,26-35,0,,,,
+India,Female,26-35,0,,,,
+Mexico,Male,36-45,1,Flying,Moderate,Yes,Yes
+South Africa,Female,18-25,0,,,,
+Mexico,Female,36-45,1,Enclosed Spaces,Moderate,Yes,No
+Australia,Female,60+,1,Enclosed Spaces,Moderate,No,Yes
+Australia,Female,18-25,0,,,,
+Australia,Female,36-45,1,Animals,Moderate,Yes,No
+India,Female,26-35,1,Thunderstorms,Moderate,No,No
+France,Female,26-35,0,,,,
+France,Female,36-45,1,Enclosed Spaces,Mild,Yes,No
+Germany,Female,60+,1,Thunderstorms,Mild,No,No
+India,Female,Under 18,0,,,,
+Australia,Female,18-25,1,Enclosed Spaces,Moderate,Yes,No
+Canada,Female,26-35,1,Thunderstorms,Severe,No,No
+Canada,Female,18-25,1,Needles,Mild,No,No
+Italy,Male,46-60,0,,,,
+South Africa,Female,26-35,1,Needles,Severe,Yes,Yes
+France,Male,26-35,0,,,,
+India,Female,26-35,1,Enclosed Spaces,Severe,No,Yes
+Australia,Female,26-35,1,Thunderstorms,Moderate,No,Yes
+Italy,Male,60+,1,Flying,Moderate,No,No
+Mexico,Female,18-25,1,Needles,Mild,Yes,No
+Brazil,Male,26-35,1,Thunderstorms,Moderate,No,Yes
+Brazil,Female,18-25,1,Enclosed Spaces,Moderate,Yes,Yes
+Brazil,Female,Under 18,0,,,,
+South Africa,Female,46-60,0,,,,
+India,Female,18-25,1,Clowns,Moderate,Yes,Yes
+South Africa,Male,26-35,0,,,,
+India,Male,46-60,1,Enclosed Spaces,Moderate,Yes,No
+UK,Male,36-45,1,Water,Mild,Yes,No
+France,Female,18-25,0,,,,
+Japan,Female,36-45,1,Enclosed Spaces,Severe,Yes,No
+Mexico,Male,18-25,1,Heights,Moderate,Yes,No
+Mexico,Female,18-25,0,,,,
+Australia,Male,36-45,0,,,,
+Australia,Female,26-35,1,Needles,Moderate,No,Yes
+Mexico,Female,18-25,1,Animals,Moderate,No,No
+Canada,Male,18-25,1,Needles,Moderate,No,Yes
+Germany,Female,18-25,1,Needles,Moderate,No,Yes
+Brazil,Male,36-45,1,Thunderstorms,Moderate,Yes,Yes
+Brazil,Female,36-45,1,Water,Severe,Yes,No
+USA,Female,46-60,0,,,,
+USA,Female,36-45,1,Flying,Mild,No,Yes
+Australia,Female,60+,1,Thunderstorms,Moderate,Yes,No
+Mexico,Female,26-35,1,Water,Mild,Yes,No
+Japan,Male,46-60,1,Heights,Severe,Yes,No
+Canada,Male,26-35,1,Water,Moderate,Yes,Yes
+USA,Female,26-35,1,Animals,Severe,No,No
+UK,Male,46-60,0,,,,
+Brazil,Female,36-45,1,Needles,Mild,No,No
+Australia,Female,36-45,1,Thunderstorms,Moderate,Yes,Yes
+Australia,Male,26-35,1,Clowns,Moderate,Yes,No
+UK,Male,18-25,0,,,,
+France,Female,46-60,0,,,,
+Brazil,Female,60+,1,Heights,Severe,No,No
+India,Male,36-45,0,,,,
+Mexico,Female,26-35,1,Thunderstorms,Moderate,Yes,Yes
+Canada,Male,18-25,0,,,,
+Canada,Female,46-60,1,Needles,Moderate,No,No
+India,Female,60+,1,Needles,Severe,Yes,Yes
+UK,Female,18-25,1,Needles,Moderate,Yes,Yes
+South Africa,Female,26-35,1,Water,Moderate,Yes,No
+Australia,Female,36-45,1,Flying,Moderate,No,No
+Mexico,Female,18-25,1,Animals,Mild,No,No
+USA,Male,60+,0,,,,
+Canada,Female,18-25,0,,,,
+USA,Male,18-25,0,,,,
+Canada,Male,36-45,0,,,,
+South Africa,Female,Under 18,1,Enclosed Spaces,Mild,Yes,No
+Italy,Male,18-25,0,,,,
+USA,Female,46-60,1,Needles,Moderate,No,Yes
+Canada,Female,46-60,1,Animals,Moderate,Yes,Yes
+Italy,Male,26-35,1,Water,Severe,Yes,No
+Germany,Female,36-45,1,Thunderstorms,Moderate,No,No
+South Africa,Female,36-45,0,,,,
+Australia,Female,18-25,0,,,,
+Japan,Female,18-25,1,Heights,Severe,Yes,No
+France,Female,36-45,1,Animals,Mild,Yes,Yes
+South Africa,Male,36-45,1,Animals,Moderate,No,Yes
+India,Female,18-25,1,Enclosed Spaces,Severe,No,No
+Mexico,Male,18-25,1,Clowns,Moderate,No,Yes
+Canada,Female,36-45,1,Thunderstorms,Severe,Yes,Yes
+India,Female,46-60,1,Animals,Severe,Yes,No
+USA,Female,26-35,1,Thunderstorms,Moderate,Yes,No
+Brazil,Male,26-35,0,,,,
+India,Female,36-45,1,Animals,Moderate,No,Yes
+Mexico,Male,36-45,1,Flying,Moderate,Yes,Yes
+South Africa,Female,36-45,0,,,,
+Brazil,Male,46-60,0,,,,
+France,Female,46-60,0,,,,
+Australia,Male,26-35,1,Clowns,Moderate,No,Yes
+UK,Female,36-45,0,,,,
+Australia,Female,26-35,1,Clowns,Moderate,No,Yes
+Germany,Female,26-35,1,Needles,Moderate,No,Yes
+France,Female,46-60,1,Needles,Moderate,Yes,No
+UK,Female,18-25,1,Enclosed Spaces,Mild,Yes,No
+USA,Male,26-35,1,Thunderstorms,Moderate,Yes,No

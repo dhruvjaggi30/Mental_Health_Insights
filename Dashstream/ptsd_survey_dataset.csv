@@ -1,0 +1,1001 @@
+Country,Gender,Age Group,PTSD Diagnosed,Trigger Type,Severity Level,Years Since Trauma,Treatment Sought
+Afghanistan,Other,26-35,1,Sexual Abuse,Mild,1,Yes
+India,Other,46-60,0,,,,
+UK,Female,18-25,1,Sexual Abuse,Mild,6,Yes
+Pakistan,Other,36-45,1,War and Violence,Severe,23,Yes
+UK,Female,26-35,0,,,,
+US,Other,18-25,1,War and Violence,Moderate,14,Yes
+Afghanistan,Female,60+,0,,,,
+US,Female,18-25,1,Accidents,Moderate,24,Yes
+India,Male,18-25,1,Childhood Trauma,Mild,4,Yes
+India,Other,26-35,1,War and Violence,Moderate,12,Yes
+US,Female,18-25,1,Natural Calamities,Mild,13,Yes
+Afghanistan,Other,18-25,0,,,,
+UK,Male,60+,1,Natural Calamities,Mild,30,Yes
+Bangladesh,Other,46-60,0,,,,
+India,Male,46-60,0,,,,
+Pakistan,Male,18-25,1,Accidents,Mild,17,No
+US,Other,26-35,1,Natural Calamities,Severe,14,Yes
+Afghanistan,Other,36-45,0,,,,
+UK,Male,18-25,0,,,,
+India,Female,18-25,0,,,,
+Afghanistan,Female,46-60,1,Accidents,Mild,17,Yes
+US,Female,46-60,0,,,,
+UK,Other,46-60,0,,,,
+Bangladesh,Male,60+,0,,,,
+Afghanistan,Other,26-35,0,,,,
+UK,Other,18-25,0,,,,
+Pakistan,Male,26-35,0,,,,
+US,Female,60+,0,,,,
+Afghanistan,Female,60+,1,Accidents,Severe,22,No
+Bangladesh,Female,36-45,0,,,,
+UK,Male,60+,1,Loss of Loved One,Severe,20,Yes
+Pakistan,Male,26-35,0,,,,
+Pakistan,Other,46-60,0,,,,
+UK,Female,36-45,0,,,,
+Bangladesh,Other,36-45,0,,,,
+India,Female,60+,0,,,,
+US,Male,18-25,1,Sexual Abuse,Severe,20,Yes
+Bangladesh,Male,26-35,0,,,,
+UK,Female,36-45,1,War and Violence,Mild,1,Yes
+Pakistan,Other,18-25,0,,,,
+Pakistan,Other,36-45,0,,,,
+Pakistan,Female,46-60,0,,,,
+Pakistan,Male,60+,1,Sexual Abuse,Severe,29,Yes
+Afghanistan,Other,18-25,1,Childhood Trauma,Mild,26,No
+India,Female,36-45,1,Accidents,Mild,9,No
+Pakistan,Female,60+,1,Sexual Abuse,Moderate,27,Yes
+Afghanistan,Female,26-35,1,War and Violence,Moderate,8,Yes
+Bangladesh,Male,36-45,0,,,,
+Bangladesh,Male,46-60,0,,,,
+Pakistan,Other,46-60,1,Accidents,Mild,17,Yes
+India,Other,46-60,0,,,,
+India,Female,46-60,0,,,,
+US,Other,18-25,0,,,,
+Pakistan,Male,60+,0,,,,
+India,Female,26-35,0,,,,
+Pakistan,Female,60+,0,,,,
+Pakistan,Other,18-25,0,,,,
+Pakistan,Male,46-60,0,,,,
+US,Female,26-35,0,,,,
+US,Female,46-60,0,,,,
+US,Male,36-45,0,,,,
+Bangladesh,Female,26-35,0,,,,
+Pakistan,Male,36-45,0,,,,
+Pakistan,Male,26-35,0,,,,
+India,Female,60+,1,Sexual Abuse,Moderate,28,No
+India,Male,26-35,1,War and Violence,Moderate,19,Yes
+India,Other,36-45,1,Accidents,Severe,18,Yes
+US,Male,26-35,0,,,,
+Pakistan,Male,60+,1,Sexual Abuse,Severe,26,Yes
+Bangladesh,Other,18-25,0,,,,
+Pakistan,Female,26-35,0,,,,
+Bangladesh,Male,26-35,0,,,,
+India,Male,60+,1,Sexual Abuse,Moderate,26,Yes
+US,Male,60+,0,,,,
+Pakistan,Male,18-25,0,,,,
+Bangladesh,Other,36-45,1,War and Violence,Severe,4,Yes
+US,Male,18-25,0,,,,
+US,Female,36-45,0,,,,
+UK,Female,46-60,1,Accidents,Severe,9,Yes
+Bangladesh,Female,36-45,1,Accidents,Moderate,24,No
+US,Other,18-25,0,,,,
+Bangladesh,Other,60+,1,War and Violence,Moderate,9,Yes
+Pakistan,Female,46-60,0,,,,
+Pakistan,Male,26-35,1,Loss of Loved One,Severe,18,Yes
+US,Female,26-35,1,Accidents,Moderate,19,Yes
+Pakistan,Male,46-60,1,War and Violence,Severe,15,Yes
+UK,Male,60+,0,,,,
+India,Male,46-60,0,,,,
+US,Male,26-35,0,,,,
+Bangladesh,Male,36-45,0,,,,
+Pakistan,Other,46-60,1,Sexual Abuse,Mild,23,No
+UK,Female,46-60,1,Sexual Abuse,Severe,25,Yes
+India,Male,36-45,0,,,,
+Afghanistan,Other,36-45,0,,,,
+Bangladesh,Other,60+,0,,,,
+UK,Other,60+,1,Natural Calamities,Mild,14,Yes
+Bangladesh,Male,36-45,1,Sexual Abuse,Mild,11,No
+Pakistan,Male,46-60,0,,,,
+US,Male,26-35,1,Accidents,Severe,17,Yes
+India,Female,18-25,0,,,,
+India,Female,36-45,0,,,,
+Pakistan,Male,18-25,0,,,,
+India,Male,18-25,0,,,,
+US,Other,46-60,0,,,,
+India,Male,60+,0,,,,
+US,Other,26-35,0,,,,
+US,Male,36-45,0,,,,
+Pakistan,Female,46-60,1,Sexual Abuse,Moderate,18,Yes
+Bangladesh,Female,60+,0,,,,
+UK,Male,18-25,1,Sexual Abuse,Moderate,21,Yes
+Pakistan,Male,60+,0,,,,
+India,Male,18-25,0,,,,
+India,Other,46-60,0,,,,
+Afghanistan,Male,46-60,0,,,,
+India,Other,26-35,1,Accidents,Mild,9,Yes
+UK,Other,46-60,0,,,,
+Bangladesh,Other,46-60,0,,,,
+Bangladesh,Male,26-35,0,,,,
+Pakistan,Female,26-35,0,,,,
+Bangladesh,Other,60+,0,,,,
+India,Male,36-45,0,,,,
+UK,Other,26-35,1,Sexual Abuse,Moderate,27,Yes
+India,Other,46-60,0,,,,
+Pakistan,Male,60+,0,,,,
+Bangladesh,Other,36-45,0,,,,
+Pakistan,Other,26-35,1,War and Violence,Severe,10,Yes
+US,Other,60+,0,,,,
+Pakistan,Female,26-35,0,,,,
+Pakistan,Female,26-35,0,,,,
+Bangladesh,Other,26-35,0,,,,
+India,Female,26-35,1,Accidents,Severe,6,Yes
+UK,Female,60+,1,Sexual Abuse,Severe,9,Yes
+India,Male,60+,0,,,,
+UK,Other,46-60,0,,,,
+Pakistan,Male,60+,0,,,,
+Pakistan,Other,36-45,1,Natural Calamities,Severe,27,Yes
+Pakistan,Female,18-25,0,,,,
+Bangladesh,Female,26-35,0,,,,
+US,Other,26-35,1,Sexual Abuse,Mild,25,Yes
+US,Other,18-25,1,Accidents,Mild,20,Yes
+UK,Other,18-25,1,Sexual Abuse,Moderate,15,Yes
+US,Female,46-60,1,Loss of Loved One,Moderate,3,Yes
+Afghanistan,Female,60+,1,Natural Calamities,Severe,1,Yes
+Bangladesh,Male,18-25,1,War and Violence,Moderate,19,No
+Bangladesh,Female,18-25,0,,,,
+US,Male,46-60,0,,,,
+India,Female,18-25,0,,,,
+Afghanistan,Female,26-35,0,,,,
+US,Male,18-25,0,,,,
+US,Other,18-25,1,Accidents,Mild,8,Yes
+India,Female,26-35,0,,,,
+US,Male,26-35,0,,,,
+UK,Female,46-60,0,,,,
+Afghanistan,Other,36-45,0,,,,
+India,Other,60+,1,Loss of Loved One,Moderate,8,Yes
+Afghanistan,Other,60+,0,,,,
+Pakistan,Other,36-45,0,,,,
+UK,Other,46-60,1,Childhood Trauma,Moderate,26,Yes
+UK,Male,60+,0,,,,
+UK,Other,46-60,0,,,,
+Afghanistan,Female,26-35,0,,,,
+India,Male,46-60,0,,,,
+US,Male,60+,0,,,,
+Afghanistan,Female,26-35,0,,,,
+UK,Other,26-35,1,Accidents,Severe,4,No
+UK,Other,60+,0,,,,
+Bangladesh,Female,60+,1,War and Violence,Moderate,30,Yes
+India,Female,60+,1,Loss of Loved One,Mild,13,No
+UK,Male,60+,0,,,,
+Bangladesh,Male,18-25,0,,,,
+UK,Male,60+,1,Natural Calamities,Mild,9,Yes
+UK,Other,26-35,0,,,,
+UK,Female,36-45,1,Sexual Abuse,Moderate,18,Yes
+US,Female,26-35,0,,,,
+India,Male,26-35,1,Accidents,Moderate,26,No
+Bangladesh,Male,26-35,1,Natural Calamities,Moderate,30,No
+Afghanistan,Other,60+,0,,,,
+Bangladesh,Other,18-25,0,,,,
+US,Male,18-25,0,,,,
+US,Female,60+,1,Loss of Loved One,Moderate,11,Yes
+India,Female,26-35,0,,,,
+Pakistan,Other,46-60,0,,,,
+India,Male,60+,1,War and Violence,Moderate,23,Yes
+India,Female,26-35,0,,,,
+India,Female,26-35,0,,,,
+UK,Male,26-35,0,,,,
+India,Male,60+,1,War and Violence,Mild,20,Yes
+UK,Male,26-35,0,,,,
+India,Female,60+,1,Loss of Loved One,Moderate,4,Yes
+US,Female,26-35,0,,,,
+India,Other,46-60,0,,,,
+India,Male,18-25,1,War and Violence,Mild,13,Yes
+Pakistan,Other,18-25,1,War and Violence,Mild,6,Yes
+Pakistan,Other,46-60,0,,,,
+Afghanistan,Female,26-35,1,War and Violence,Moderate,24,No
+US,Other,18-25,0,,,,
+India,Other,36-45,0,,,,
+Pakistan,Female,46-60,0,,,,
+Bangladesh,Other,60+,1,Accidents,Moderate,29,Yes
+US,Female,60+,0,,,,
+Pakistan,Male,46-60,0,,,,
+India,Other,60+,1,Sexual Abuse,Moderate,2,Yes
+Bangladesh,Male,60+,1,Accidents,Mild,16,Yes
+Afghanistan,Other,60+,0,,,,
+US,Male,26-35,0,,,,
+Pakistan,Male,26-35,0,,,,
+India,Male,18-25,1,Accidents,Mild,22,No
+Bangladesh,Female,46-60,1,Loss of Loved One,Severe,7,No
+India,Male,46-60,0,,,,
+Pakistan,Male,36-45,0,,,,
+Pakistan,Female,60+,0,,,,
+Afghanistan,Other,36-45,0,,,,
+Pakistan,Male,26-35,0,,,,
+UK,Male,18-25,1,Accidents,Severe,3,Yes
+Pakistan,Male,60+,0,,,,
+Bangladesh,Other,36-45,1,War and Violence,Moderate,13,Yes
+Pakistan,Female,26-35,1,Childhood Trauma,Mild,1,Yes
+US,Male,36-45,1,War and Violence,Moderate,4,Yes
+UK,Male,36-45,0,,,,
+Afghanistan,Female,36-45,0,,,,
+Afghanistan,Female,46-60,0,,,,
+India,Female,26-35,0,,,,
+India,Female,18-25,1,Childhood Trauma,Moderate,28,Yes
+US,Male,46-60,0,,,,
+US,Male,60+,1,Sexual Abuse,Mild,20,Yes
+UK,Female,18-25,0,,,,
+US,Male,60+,0,,,,
+Afghanistan,Male,60+,0,,,,
+India,Other,60+,0,,,,
+Bangladesh,Female,60+,0,,,,
+US,Male,18-25,1,Accidents,Mild,28,Yes
+US,Other,46-60,0,,,,
+India,Female,60+,0,,,,
+Bangladesh,Other,36-45,0,,,,
+India,Female,18-25,1,War and Violence,Moderate,24,No
+Pakistan,Female,18-25,0,,,,
+Bangladesh,Male,60+,0,,,,
+US,Male,46-60,0,,,,
+Pakistan,Female,60+,0,,,,
+Pakistan,Male,36-45,1,Sexual Abuse,Mild,29,Yes
+Bangladesh,Other,26-35,0,,,,
+UK,Female,18-25,0,,,,
+India,Female,60+,0,,,,
+Bangladesh,Male,18-25,1,War and Violence,Severe,9,Yes
+India,Male,60+,0,,,,
+US,Female,36-45,0,,,,
+US,Female,60+,0,,,,
+US,Female,36-45,0,,,,
+India,Male,36-45,1,Sexual Abuse,Severe,6,No
+Pakistan,Female,26-35,0,,,,
+Afghanistan,Other,60+,0,,,,
+US,Male,60+,0,,,,
+US,Male,60+,1,Sexual Abuse,Mild,26,No
+Bangladesh,Female,18-25,1,Sexual Abuse,Severe,15,Yes
+India,Female,60+,0,,,,
+Bangladesh,Male,18-25,1,War and Violence,Severe,3,Yes
+US,Male,46-60,1,Sexual Abuse,Mild,5,No
+India,Other,60+,0,,,,
+Afghanistan,Male,60+,0,,,,
+Pakistan,Other,36-45,0,,,,
+Pakistan,Female,36-45,0,,,,
+UK,Male,36-45,0,,,,
+Pakistan,Female,26-35,0,,,,
+India,Female,60+,0,,,,
+Pakistan,Male,46-60,1,Sexual Abuse,Mild,14,Yes
+Pakistan,Male,36-45,0,,,,
+UK,Male,18-25,0,,,,
+Bangladesh,Male,46-60,1,Sexual Abuse,Moderate,30,Yes
+Pakistan,Other,46-60,1,Loss of Loved One,Severe,21,Yes
+Pakistan,Male,46-60,1,Sexual Abuse,Moderate,5,Yes
+US,Female,26-35,1,Childhood Trauma,Severe,15,Yes
+India,Male,18-25,0,,,,
+US,Other,60+,0,,,,
+India,Female,46-60,1,Childhood Trauma,Mild,3,Yes
+Pakistan,Male,26-35,1,Sexual Abuse,Severe,5,Yes
+Pakistan,Other,18-25,1,Loss of Loved One,Mild,20,Yes
+US,Female,36-45,1,Loss of Loved One,Severe,14,Yes
+Bangladesh,Male,18-25,0,,,,
+US,Other,36-45,0,,,,
+India,Other,36-45,0,,,,
+US,Male,26-35,0,,,,
+Pakistan,Other,26-35,0,,,,
+Afghanistan,Other,26-35,1,Accidents,Mild,5,Yes
+India,Other,26-35,0,,,,
+UK,Other,18-25,1,Accidents,Moderate,11,Yes
+Pakistan,Female,26-35,1,Accidents,Severe,7,Yes
+India,Male,60+,0,,,,
+India,Female,36-45,0,,,,
+Bangladesh,Female,36-45,1,Natural Calamities,Severe,21,No
+Bangladesh,Female,60+,0,,,,
+UK,Other,46-60,0,,,,
+UK,Other,18-25,0,,,,
+India,Male,60+,0,,,,
+Pakistan,Female,26-35,0,,,,
+US,Female,18-25,0,,,,
+US,Male,46-60,0,,,,
+Afghanistan,Other,60+,1,Accidents,Moderate,6,Yes
+Afghanistan,Other,36-45,1,Loss of Loved One,Severe,8,No
+US,Other,26-35,0,,,,
+Bangladesh,Male,36-45,0,,,,
+UK,Female,36-45,0,,,,
+Pakistan,Other,18-25,0,,,,
+UK,Female,36-45,0,,,,
+Bangladesh,Male,26-35,1,War and Violence,Moderate,1,No
+Bangladesh,Male,36-45,0,,,,
+UK,Female,26-35,0,,,,
+US,Other,26-35,1,War and Violence,Severe,8,Yes
+UK,Other,46-60,0,,,,
+Bangladesh,Other,18-25,0,,,,
+US,Female,36-45,0,,,,
+Bangladesh,Male,18-25,0,,,,
+UK,Male,46-60,0,,,,
+India,Male,60+,0,,,,
+India,Other,60+,0,,,,
+Pakistan,Male,18-25,0,,,,
+Pakistan,Female,46-60,1,Accidents,Mild,25,Yes
+Pakistan,Female,46-60,0,,,,
+US,Male,18-25,0,,,,
+US,Male,60+,0,,,,
+Bangladesh,Female,26-35,0,,,,
+Bangladesh,Other,26-35,1,War and Violence,Moderate,18,No
+India,Other,60+,0,,,,
+US,Male,18-25,1,Natural Calamities,Severe,4,Yes
+Bangladesh,Female,26-35,1,Sexual Abuse,Severe,13,Yes
+Pakistan,Female,18-25,0,,,,
+Bangladesh,Female,26-35,1,Loss of Loved One,Mild,13,Yes
+India,Female,46-60,1,Sexual Abuse,Severe,9,Yes
+Pakistan,Male,60+,0,,,,
+UK,Female,18-25,0,,,,
+India,Male,60+,0,,,,
+US,Female,26-35,0,,,,
+Pakistan,Other,46-60,0,,,,
+India,Female,18-25,0,,,,
+Pakistan,Female,36-45,0,,,,
+Afghanistan,Other,60+,0,,,,
+Pakistan,Other,46-60,1,Childhood Trauma,Mild,14,Yes
+Afghanistan,Other,36-45,1,War and Violence,Severe,14,Yes
+Afghanistan,Other,26-35,0,,,,
+Pakistan,Male,26-35,0,,,,
+Bangladesh,Other,36-45,1,Natural Calamities,Moderate,6,Yes
+US,Female,60+,1,Loss of Loved One,Severe,7,Yes
+India,Male,18-25,1,Sexual Abuse,Moderate,17,Yes
+UK,Male,36-45,1,Sexual Abuse,Mild,30,No
+US,Male,60+,0,,,,
+India,Male,26-35,1,Loss of Loved One,Severe,15,Yes
+Pakistan,Male,18-25,1,Natural Calamities,Moderate,17,Yes
+Afghanistan,Female,46-60,0,,,,
+Afghanistan,Female,18-25,0,,,,
+Afghanistan,Other,46-60,1,Accidents,Mild,26,Yes
+Bangladesh,Other,46-60,0,,,,
+India,Male,46-60,1,War and Violence,Severe,3,Yes
+Afghanistan,Male,26-35,1,Natural Calamities,Moderate,29,Yes
+India,Other,46-60,1,Sexual Abuse,Moderate,2,No
+Pakistan,Other,18-25,0,,,,
+US,Other,36-45,1,War and Violence,Mild,24,Yes
+Pakistan,Male,26-35,0,,,,
+UK,Female,60+,0,,,,
+Afghanistan,Female,18-25,0,,,,
+Pakistan,Other,36-45,0,,,,
+Bangladesh,Male,18-25,1,Sexual Abuse,Moderate,3,Yes
+Pakistan,Other,36-45,0,,,,
+Afghanistan,Male,60+,0,,,,
+UK,Male,36-45,1,War and Violence,Moderate,3,No
+India,Other,26-35,0,,,,
+UK,Other,60+,1,War and Violence,Severe,12,No
+US,Female,18-25,0,,,,
+India,Other,26-35,0,,,,
+Bangladesh,Other,36-45,0,,,,
+UK,Female,46-60,0,,,,
+Bangladesh,Male,26-35,0,,,,
+Pakistan,Other,60+,0,,,,
+Pakistan,Female,60+,0,,,,
+India,Male,18-25,1,Natural Calamities,Mild,26,Yes
+US,Other,60+,1,Sexual Abuse,Severe,28,Yes
+Pakistan,Other,18-25,0,,,,
+India,Male,60+,1,Childhood Trauma,Moderate,17,Yes
+Bangladesh,Other,46-60,0,,,,
+UK,Male,60+,0,,,,
+US,Female,60+,1,War and Violence,Moderate,29,Yes
+India,Male,26-35,0,,,,
+US,Male,36-45,0,,,,
+US,Male,26-35,0,,,,
+US,Male,46-60,1,Childhood Trauma,Mild,2,No
+India,Female,60+,0,,,,
+US,Male,46-60,0,,,,
+US,Female,60+,0,,,,
+Pakistan,Other,18-25,0,,,,
+India,Female,46-60,1,Sexual Abuse,Severe,30,Yes
+Pakistan,Other,18-25,0,,,,
+India,Male,18-25,0,,,,
+Pakistan,Female,60+,0,,,,
+Pakistan,Other,46-60,1,Sexual Abuse,Severe,17,Yes
+Bangladesh,Other,36-45,0,,,,
+UK,Other,26-35,0,,,,
+India,Other,26-35,1,Natural Calamities,Severe,22,Yes
+Afghanistan,Male,18-25,0,,,,
+US,Male,18-25,0,,,,
+Bangladesh,Male,60+,0,,,,
+US,Female,60+,0,,,,
+Afghanistan,Male,60+,1,Accidents,Severe,18,Yes
+Pakistan,Male,26-35,1,Sexual Abuse,Mild,22,No
+Afghanistan,Other,46-60,0,,,,
+Pakistan,Male,46-60,0,,,,
+India,Female,26-35,1,Natural Calamities,Moderate,15,Yes
+Pakistan,Female,26-35,0,,,,
+UK,Other,18-25,0,,,,
+Bangladesh,Other,18-25,1,Sexual Abuse,Moderate,27,No
+US,Male,26-35,1,Accidents,Moderate,23,No
+UK,Female,60+,1,Sexual Abuse,Moderate,9,No
+UK,Other,60+,1,Sexual Abuse,Moderate,15,Yes
+Afghanistan,Female,46-60,0,,,,
+Pakistan,Male,36-45,0,,,,
+Pakistan,Female,36-45,1,Sexual Abuse,Mild,6,Yes
+UK,Other,26-35,0,,,,
+India,Other,36-45,0,,,,
+Bangladesh,Other,46-60,1,War and Violence,Severe,11,Yes
+UK,Male,18-25,1,Loss of Loved One,Mild,10,No
+India,Male,46-60,1,Sexual Abuse,Mild,10,No
+UK,Female,36-45,0,,,,
+Afghanistan,Female,18-25,0,,,,
+Bangladesh,Male,36-45,1,Accidents,Mild,12,Yes
+Bangladesh,Other,46-60,1,Accidents,Moderate,26,No
+India,Female,26-35,0,,,,
+Afghanistan,Male,36-45,1,Childhood Trauma,Moderate,7,Yes
+US,Other,18-25,1,War and Violence,Severe,3,No
+Afghanistan,Female,18-25,1,Accidents,Severe,21,Yes
+India,Male,46-60,0,,,,
+India,Other,26-35,0,,,,
+US,Female,26-35,0,,,,
+Bangladesh,Female,46-60,0,,,,
+UK,Male,26-35,0,,,,
+US,Female,60+,0,,,,
+Pakistan,Other,46-60,0,,,,
+Afghanistan,Female,46-60,1,War and Violence,Moderate,16,Yes
+US,Male,26-35,0,,,,
+India,Male,36-45,0,,,,
+Pakistan,Other,36-45,1,Sexual Abuse,Mild,2,Yes
+UK,Female,26-35,1,Accidents,Mild,14,Yes
+US,Female,60+,0,,,,
+US,Other,36-45,1,Natural Calamities,Severe,11,Yes
+Bangladesh,Other,36-45,0,,,,
+Bangladesh,Other,46-60,0,,,,
+US,Male,26-35,0,,,,
+US,Other,36-45,0,,,,
+India,Other,60+,1,War and Violence,Moderate,1,Yes
+UK,Male,60+,0,,,,
+India,Other,18-25,0,,,,
+India,Male,46-60,0,,,,
+UK,Other,60+,0,,,,
+Pakistan,Female,36-45,1,Accidents,Moderate,3,Yes
+UK,Female,26-35,0,,,,
+Pakistan,Other,46-60,0,,,,
+India,Female,18-25,0,,,,
+India,Male,60+,0,,,,
+Afghanistan,Male,60+,0,,,,
+Bangladesh,Other,60+,1,War and Violence,Severe,23,Yes
+Pakistan,Male,18-25,0,,,,
+UK,Other,36-45,0,,,,
+US,Female,26-35,0,,,,
+India,Female,60+,0,,,,
+US,Other,36-45,1,Sexual Abuse,Severe,30,Yes
+UK,Other,18-25,0,,,,
+UK,Other,36-45,1,War and Violence,Moderate,7,No
+India,Male,60+,0,,,,
+Bangladesh,Male,60+,1,Accidents,Severe,8,No
+UK,Other,36-45,0,,,,
+UK,Female,18-25,1,War and Violence,Mild,29,No
+Bangladesh,Female,60+,0,,,,
+Pakistan,Female,46-60,0,,,,
+Pakistan,Female,26-35,1,Childhood Trauma,Severe,24,Yes
+US,Male,60+,1,Accidents,Mild,16,Yes
+US,Female,36-45,0,,,,
+US,Female,46-60,1,Loss of Loved One,Mild,23,Yes
+US,Female,18-25,0,,,,
+US,Male,60+,0,,,,
+Pakistan,Other,60+,0,,,,
+US,Male,46-60,0,,,,
+Afghanistan,Other,26-35,0,,,,
+Afghanistan,Female,46-60,0,,,,
+Afghanistan,Male,26-35,0,,,,
+India,Female,18-25,0,,,,
+Pakistan,Male,26-35,1,War and Violence,Mild,22,No
+UK,Male,18-25,0,,,,
+Afghanistan,Female,26-35,0,,,,
+Bangladesh,Female,46-60,0,,,,
+UK,Female,26-35,1,Childhood Trauma,Moderate,26,No
+Pakistan,Female,60+,1,War and Violence,Mild,9,Yes
+UK,Female,46-60,0,,,,
+Pakistan,Other,26-35,1,Sexual Abuse,Moderate,14,Yes
+India,Male,18-25,0,,,,
+India,Female,26-35,0,,,,
+Bangladesh,Other,26-35,1,Natural Calamities,Severe,9,Yes
+Pakistan,Male,60+,0,,,,
+India,Male,26-35,1,Sexual Abuse,Moderate,28,No
+UK,Male,36-45,0,,,,
+UK,Other,60+,1,Sexual Abuse,Moderate,13,Yes
+Bangladesh,Female,60+,0,,,,
+Bangladesh,Other,60+,1,Sexual Abuse,Moderate,4,Yes
+UK,Male,60+,1,Natural Calamities,Mild,18,Yes
+Pakistan,Male,26-35,0,,,,
+US,Other,26-35,1,Sexual Abuse,Severe,24,Yes
+Pakistan,Other,46-60,1,Natural Calamities,Moderate,25,Yes
+India,Male,36-45,0,,,,
+Pakistan,Female,36-45,0,,,,
+India,Male,60+,0,,,,
+UK,Male,46-60,0,,,,
+India,Male,36-45,1,War and Violence,Moderate,30,No
+US,Female,46-60,0,,,,
+US,Male,46-60,1,Natural Calamities,Severe,24,No
+Pakistan,Female,60+,1,Loss of Loved One,Moderate,17,Yes
+Pakistan,Other,26-35,0,,,,
+US,Female,26-35,0,,,,
+Bangladesh,Male,60+,1,War and Violence,Severe,22,Yes
+Bangladesh,Male,18-25,1,Childhood Trauma,Severe,5,Yes
+Pakistan,Other,18-25,1,Sexual Abuse,Severe,20,No
+UK,Other,26-35,1,War and Violence,Severe,22,Yes
+India,Female,18-25,0,,,,
+Bangladesh,Other,36-45,0,,,,
+Bangladesh,Female,18-25,1,Accidents,Severe,26,Yes
+UK,Other,46-60,0,,,,
+Bangladesh,Male,18-25,1,Natural Calamities,Mild,5,No
+Pakistan,Female,18-25,1,War and Violence,Moderate,7,Yes
+Pakistan,Female,46-60,0,,,,
+US,Male,18-25,0,,,,
+UK,Female,26-35,1,Loss of Loved One,Moderate,21,Yes
+Bangladesh,Other,18-25,0,,,,
+Bangladesh,Female,36-45,1,War and Violence,Severe,24,Yes
+US,Female,36-45,0,,,,
+India,Female,26-35,0,,,,
+Pakistan,Other,18-25,1,Sexual Abuse,Moderate,10,Yes
+Pakistan,Female,26-35,0,,,,
+Pakistan,Female,36-45,0,,,,
+US,Female,36-45,0,,,,
+UK,Male,36-45,1,Accidents,Moderate,4,Yes
+Bangladesh,Male,60+,1,Accidents,Moderate,8,Yes
+Pakistan,Male,60+,0,,,,
+Pakistan,Other,46-60,0,,,,
+India,Female,36-45,1,Sexual Abuse,Moderate,12,Yes
+Pakistan,Female,26-35,0,,,,
+UK,Female,26-35,0,,,,
+India,Other,18-25,1,Loss of Loved One,Moderate,18,Yes
+US,Female,36-45,0,,,,
+India,Other,46-60,1,Sexual Abuse,Severe,25,Yes
+Pakistan,Male,26-35,1,War and Violence,Moderate,2,Yes
+India,Other,18-25,0,,,,
+US,Female,36-45,0,,,,
+Bangladesh,Other,46-60,0,,,,
+Bangladesh,Female,26-35,1,Accidents,Mild,30,Yes
+Pakistan,Other,18-25,0,,,,
+Bangladesh,Male,18-25,0,,,,
+UK,Other,26-35,1,Sexual Abuse,Mild,18,Yes
+Bangladesh,Male,36-45,1,War and Violence,Severe,26,Yes
+India,Female,36-45,1,War and Violence,Mild,11,Yes
+Pakistan,Female,36-45,1,Childhood Trauma,Mild,16,No
+US,Male,18-25,0,,,,
+US,Other,60+,0,,,,
+Pakistan,Female,18-25,0,,,,
+Afghanistan,Other,46-60,0,,,,
+India,Female,26-35,0,,,,
+US,Female,60+,0,,,,
+India,Female,60+,1,Childhood Trauma,Severe,27,No
+UK,Male,60+,0,,,,
+UK,Female,26-35,0,,,,
+Bangladesh,Female,18-25,1,Natural Calamities,Moderate,9,Yes
+India,Female,36-45,0,,,,
+Pakistan,Other,18-25,1,War and Violence,Mild,18,Yes
+India,Female,60+,0,,,,
+Afghanistan,Male,18-25,0,,,,
+India,Other,36-45,0,,,,
+India,Female,36-45,1,Natural Calamities,Moderate,19,Yes
+US,Other,18-25,0,,,,
+Pakistan,Male,18-25,0,,,,
+UK,Female,46-60,1,Accidents,Moderate,30,Yes
+Bangladesh,Female,60+,0,,,,
+Pakistan,Other,26-35,0,,,,
+US,Other,46-60,0,,,,
+UK,Male,60+,1,Natural Calamities,Moderate,10,Yes
+Bangladesh,Male,60+,1,War and Violence,Severe,29,Yes
+UK,Female,46-60,0,,,,
+Pakistan,Other,46-60,1,Natural Calamities,Severe,6,No
+UK,Other,46-60,0,,,,
+India,Male,36-45,0,,,,
+India,Other,46-60,1,War and Violence,Mild,25,Yes
+UK,Female,60+,0,,,,
+India,Other,60+,0,,,,
+US,Male,60+,0,,,,
+Pakistan,Female,18-25,0,,,,
+UK,Male,18-25,0,,,,
+Bangladesh,Other,26-35,1,War and Violence,Severe,11,Yes
+India,Other,36-45,0,,,,
+Pakistan,Female,26-35,0,,,,
+Bangladesh,Male,26-35,0,,,,
+India,Female,18-25,1,Natural Calamities,Moderate,15,Yes
+India,Female,36-45,0,,,,
+Pakistan,Male,46-60,0,,,,
+Afghanistan,Male,36-45,0,,,,
+India,Other,36-45,1,War and Violence,Moderate,13,No
+UK,Other,36-45,1,Loss of Loved One,Moderate,22,Yes
+US,Female,60+,0,,,,
+Bangladesh,Male,26-35,0,,,,
+UK,Other,26-35,0,,,,
+India,Male,18-25,0,,,,
+Bangladesh,Female,18-25,1,Loss of Loved One,Severe,28,Yes
+UK,Other,26-35,1,Childhood Trauma,Mild,16,No
+Pakistan,Female,26-35,0,,,,
+Afghanistan,Other,26-35,0,,,,
+Bangladesh,Female,46-60,1,War and Violence,Moderate,6,No
+Pakistan,Other,46-60,0,,,,
+Bangladesh,Male,60+,0,,,,
+Pakistan,Female,18-25,0,,,,
+Pakistan,Female,36-45,0,,,,
+Pakistan,Female,26-35,1,Sexual Abuse,Severe,22,Yes
+India,Female,46-60,0,,,,
+Afghanistan,Female,18-25,0,,,,
+Bangladesh,Male,18-25,1,Accidents,Moderate,24,Yes
+Pakistan,Female,60+,0,,,,
+UK,Other,18-25,0,,,,
+India,Female,36-45,1,War and Violence,Moderate,5,Yes
+Pakistan,Male,46-60,1,War and Violence,Severe,9,Yes
+Pakistan,Female,26-35,0,,,,
+Pakistan,Other,36-45,1,Sexual Abuse,Mild,20,Yes
+India,Male,36-45,0,,,,
+Pakistan,Male,36-45,1,Loss of Loved One,Moderate,30,Yes
+India,Male,46-60,1,War and Violence,Mild,8,Yes
+US,Female,26-35,0,,,,
+Pakistan,Male,36-45,1,Accidents,Severe,24,Yes
+US,Other,46-60,0,,,,
+India,Male,46-60,0,,,,
+Pakistan,Other,46-60,0,,,,
+Pakistan,Other,60+,1,Sexual Abuse,Severe,4,No
+US,Other,60+,0,,,,
+Bangladesh,Female,46-60,0,,,,
+Pakistan,Female,18-25,1,Accidents,Severe,1,Yes
+US,Other,46-60,0,,,,
+US,Male,26-35,1,Sexual Abuse,Severe,21,Yes
+UK,Female,46-60,1,Sexual Abuse,Mild,20,No
+Bangladesh,Other,60+,0,,,,
+Bangladesh,Other,18-25,0,,,,
+Afghanistan,Other,18-25,0,,,,
+India,Female,36-45,0,,,,
+Pakistan,Other,26-35,0,,,,
+Afghanistan,Female,26-35,0,,,,
+India,Male,18-25,1,War and Violence,Moderate,8,Yes
+US,Male,46-60,1,Loss of Loved One,Mild,29,Yes
+UK,Female,46-60,0,,,,
+UK,Male,60+,0,,,,
+India,Female,46-60,1,Accidents,Moderate,19,No
+Bangladesh,Female,26-35,0,,,,
+US,Other,36-45,1,Childhood Trauma,Severe,16,Yes
+UK,Other,26-35,0,,,,
+Afghanistan,Male,36-45,1,Sexual Abuse,Moderate,29,No
+Bangladesh,Other,26-35,1,Accidents,Moderate,23,Yes
+India,Male,18-25,0,,,,
+Pakistan,Male,26-35,1,Sexual Abuse,Severe,8,Yes
+Bangladesh,Other,46-60,1,Accidents,Moderate,7,Yes
+US,Male,46-60,1,Sexual Abuse,Severe,15,Yes
+Pakistan,Other,26-35,0,,,,
+Bangladesh,Male,60+,0,,,,
+Pakistan,Other,18-25,1,Accidents,Mild,18,No
+UK,Male,36-45,1,Childhood Trauma,Moderate,17,No
+Bangladesh,Male,60+,1,War and Violence,Moderate,16,Yes
+Bangladesh,Male,60+,0,,,,
+Bangladesh,Other,36-45,0,,,,
+Afghanistan,Female,18-25,0,,,,
+Pakistan,Other,26-35,1,War and Violence,Moderate,10,Yes
+Afghanistan,Other,46-60,0,,,,
+US,Male,26-35,0,,,,
+US,Female,18-25,0,,,,
+Afghanistan,Male,36-45,1,Accidents,Moderate,30,No
+US,Other,26-35,0,,,,
+Pakistan,Male,46-60,0,,,,
+Pakistan,Other,36-45,1,War and Violence,Severe,10,Yes
+UK,Other,46-60,0,,,,
+US,Other,36-45,1,Sexual Abuse,Moderate,13,Yes
+Bangladesh,Other,36-45,0,,,,
+US,Female,46-60,0,,,,
+UK,Other,26-35,0,,,,
+UK,Male,36-45,0,,,,
+Pakistan,Male,26-35,0,,,,
+India,Female,60+,0,,,,
+US,Female,26-35,0,,,,
+Pakistan,Male,26-35,0,,,,
+Pakistan,Other,18-25,1,War and Violence,Mild,23,No
+US,Other,60+,0,,,,
+UK,Female,36-45,1,Accidents,Mild,30,Yes
+US,Other,26-35,0,,,,
+US,Other,36-45,0,,,,
+Afghanistan,Male,46-60,1,Loss of Loved One,Moderate,9,Yes
+Pakistan,Male,26-35,1,Accidents,Moderate,4,No
+Afghanistan,Male,26-35,0,,,,
+Bangladesh,Other,60+,1,Loss of Loved One,Severe,16,Yes
+India,Male,36-45,0,,,,
+US,Female,60+,1,Accidents,Moderate,15,Yes
+Afghanistan,Female,46-60,0,,,,
+Pakistan,Male,60+,0,,,,
+US,Female,36-45,0,,,,
+UK,Male,60+,1,Accidents,Severe,10,Yes
+India,Female,46-60,0,,,,
+India,Male,60+,0,,,,
+Bangladesh,Female,46-60,1,Loss of Loved One,Mild,17,Yes
+Pakistan,Male,36-45,1,War and Violence,Severe,7,Yes
+India,Other,46-60,0,,,,
+India,Other,36-45,1,War and Violence,Severe,28,No
+India,Female,46-60,1,Accidents,Moderate,15,Yes
+Bangladesh,Other,46-60,0,,,,
+Bangladesh,Other,46-60,0,,,,
+Pakistan,Other,26-35,1,Sexual Abuse,Severe,6,Yes
+US,Other,18-25,0,,,,
+US,Female,18-25,0,,,,
+Bangladesh,Female,26-35,0,,,,
+Afghanistan,Other,46-60,0,,,,
+Pakistan,Female,60+,1,Loss of Loved One,Mild,28,Yes
+US,Male,60+,0,,,,
+Bangladesh,Other,46-60,0,,,,
+India,Other,26-35,1,Sexual Abuse,Moderate,25,Yes
+UK,Male,46-60,1,Natural Calamities,Mild,23,Yes
+US,Male,46-60,1,Loss of Loved One,Severe,6,Yes
+Pakistan,Female,18-25,1,Sexual Abuse,Moderate,10,Yes
+India,Female,18-25,1,Accidents,Moderate,10,No
+Pakistan,Female,26-35,0,,,,
+India,Female,26-35,0,,,,
+US,Male,26-35,0,,,,
+India,Male,60+,1,Sexual Abuse,Mild,7,Yes
+US,Female,18-25,0,,,,
+US,Female,18-25,0,,,,
+Afghanistan,Male,26-35,1,War and Violence,Mild,23,Yes
+Bangladesh,Female,36-45,0,,,,
+UK,Female,46-60,1,Accidents,Mild,12,Yes
+Bangladesh,Other,26-35,0,,,,
+Pakistan,Other,26-35,1,Childhood Trauma,Mild,28,No
+India,Male,60+,0,,,,
+Pakistan,Other,60+,1,Sexual Abuse,Moderate,6,Yes
+Pakistan,Other,18-25,0,,,,
+UK,Other,26-35,0,,,,
+Pakistan,Other,36-45,0,,,,
+US,Male,46-60,0,,,,
+UK,Other,46-60,0,,,,
+India,Male,18-25,0,,,,
+US,Male,46-60,0,,,,
+UK,Other,60+,0,,,,
+Afghanistan,Male,36-45,0,,,,
+India,Other,26-35,1,Accidents,Mild,24,Yes
+Pakistan,Other,36-45,0,,,,
+Bangladesh,Other,60+,1,Loss of Loved One,Mild,15,Yes
+Pakistan,Other,36-45,0,,,,
+Pakistan,Male,18-25,1,Accidents,Severe,28,No
+UK,Male,26-35,0,,,,
+UK,Male,60+,0,,,,
+Bangladesh,Other,26-35,0,,,,
+UK,Male,26-35,0,,,,
+India,Other,46-60,0,,,,
+UK,Male,46-60,1,Natural Calamities,Moderate,20,Yes
+US,Female,60+,0,,,,
+UK,Male,46-60,0,,,,
+Bangladesh,Female,26-35,1,Natural Calamities,Moderate,17,No
+US,Female,18-25,0,,,,
+Pakistan,Other,36-45,0,,,,
+Afghanistan,Female,18-25,0,,,,
+India,Male,46-60,0,,,,
+US,Male,26-35,0,,,,
+US,Female,36-45,0,,,,
+Bangladesh,Other,36-45,0,,,,
+India,Male,60+,0,,,,
+India,Other,60+,1,Childhood Trauma,Severe,16,No
+Pakistan,Female,60+,1,Natural Calamities,Mild,2,Yes
+US,Other,46-60,1,Accidents,Moderate,12,Yes
+Afghanistan,Male,60+,1,Sexual Abuse,Moderate,11,Yes
+US,Other,26-35,0,,,,
+UK,Male,46-60,1,War and Violence,Moderate,29,Yes
+Bangladesh,Female,60+,1,Accidents,Mild,6,Yes
+Pakistan,Female,60+,1,Accidents,Moderate,10,No
+Bangladesh,Male,46-60,1,Sexual Abuse,Severe,9,Yes
+Pakistan,Female,36-45,0,,,,
+Pakistan,Other,18-25,0,,,,
+India,Male,60+,0,,,,
+US,Female,18-25,0,,,,
+UK,Female,18-25,1,War and Violence,Moderate,4,Yes
+US,Male,36-45,1,War and Violence,Moderate,12,Yes
+Bangladesh,Other,18-25,1,War and Violence,Severe,1,Yes
+Pakistan,Other,36-45,0,,,,
+US,Male,18-25,1,Loss of Loved One,Severe,27,Yes
+Bangladesh,Female,18-25,1,Childhood Trauma,Severe,30,Yes
+Pakistan,Male,36-45,0,,,,
+Pakistan,Male,36-45,0,,,,
+Pakistan,Male,36-45,0,,,,
+UK,Other,26-35,0,,,,
+UK,Other,18-25,0,,,,
+Afghanistan,Other,26-35,0,,,,
+Bangladesh,Other,60+,0,,,,
+US,Other,60+,0,,,,
+UK,Other,18-25,0,,,,
+India,Female,46-60,0,,,,
+UK,Other,60+,0,,,,
+Pakistan,Female,60+,0,,,,
+UK,Male,18-25,1,Natural Calamities,Mild,11,Yes
+India,Other,60+,0,,,,
+India,Other,46-60,0,,,,
+US,Female,26-35,1,War and Violence,Mild,16,No
+UK,Male,18-25,1,Sexual Abuse,Moderate,18,No
+India,Female,46-60,1,Sexual Abuse,Moderate,24,Yes
+Pakistan,Male,60+,0,,,,
+US,Male,36-45,1,Loss of Loved One,Moderate,25,No
+India,Female,60+,0,,,,
+Bangladesh,Male,46-60,0,,,,
+UK,Other,26-35,0,,,,
+UK,Other,26-35,0,,,,
+Pakistan,Male,18-25,0,,,,
+Pakistan,Other,46-60,0,,,,
+US,Female,18-25,0,,,,
+Bangladesh,Male,36-45,0,,,,
+Pakistan,Other,18-25,0,,,,
+US,Male,36-45,0,,,,
+US,Female,60+,1,War and Violence,Mild,10,Yes
+UK,Other,18-25,0,,,,
+Afghanistan,Other,26-35,0,,,,
+Bangladesh,Other,18-25,1,Sexual Abuse,Moderate,1,Yes
+US,Female,26-35,0,,,,
+UK,Male,26-35,0,,,,
+US,Male,18-25,0,,,,
+India,Female,26-35,1,Natural Calamities,Mild,21,Yes
+India,Other,46-60,0,,,,
+Bangladesh,Male,36-45,0,,,,
+Pakistan,Other,26-35,0,,,,
+Bangladesh,Other,60+,1,Sexual Abuse,Severe,15,No
+Pakistan,Female,26-35,1,Sexual Abuse,Moderate,21,Yes
+India,Female,46-60,1,Loss of Loved One,Severe,25,Yes
+Bangladesh,Other,60+,0,,,,
+Bangladesh,Other,60+,0,,,,
+Bangladesh,Male,36-45,1,Loss of Loved One,Mild,3,No
+US,Female,46-60,0,,,,
+US,Male,18-25,0,,,,
+India,Male,26-35,0,,,,
+Afghanistan,Female,46-60,0,,,,
+Pakistan,Male,60+,1,Accidents,Severe,18,No
+Pakistan,Female,46-60,0,,,,
+India,Other,60+,0,,,,
+UK,Female,36-45,0,,,,
+US,Other,60+,1,Accidents,Moderate,9,Yes
+Bangladesh,Male,26-35,0,,,,
+India,Male,46-60,1,Sexual Abuse,Moderate,20,Yes
+India,Female,26-35,0,,,,
+Bangladesh,Male,46-60,1,Sexual Abuse,Mild,28,Yes
+India,Other,60+,0,,,,
+US,Other,46-60,0,,,,
+Bangladesh,Male,46-60,0,,,,
+Pakistan,Female,36-45,1,War and Violence,Severe,5,No
+India,Female,60+,1,Natural Calamities,Mild,7,Yes
+UK,Female,36-45,1,Sexual Abuse,Moderate,7,Yes
+Bangladesh,Female,26-35,0,,,,
+UK,Male,36-45,0,,,,
+US,Other,26-35,1,Loss of Loved One,Severe,26,Yes
+India,Other,36-45,0,,,,
+US,Female,46-60,1,Accidents,Mild,22,Yes
+Bangladesh,Male,26-35,0,,,,
+Afghanistan,Other,60+,0,,,,
+UK,Male,36-45,1,Sexual Abuse,Moderate,16,Yes
+Afghanistan,Female,46-60,1,Accidents,Mild,7,Yes
+US,Other,18-25,0,,,,
+UK,Female,36-45,1,Childhood Trauma,Moderate,22,No
+Bangladesh,Male,46-60,0,,,,
+US,Female,26-35,0,,,,
+India,Female,26-35,0,,,,
+India,Female,46-60,0,,,,
+Bangladesh,Other,36-45,0,,,,
+Afghanistan,Other,46-60,1,Sexual Abuse,Mild,4,No
+UK,Male,36-45,1,War and Violence,Mild,9,No
+Pakistan,Male,60+,0,,,,
+Bangladesh,Male,26-35,1,Childhood Trauma,Severe,5,Yes
+Afghanistan,Female,18-25,0,,,,
+Bangladesh,Female,26-35,0,,,,
+India,Other,26-35,1,Sexual Abuse,Mild,5,No
+Bangladesh,Female,46-60,1,Sexual Abuse,Mild,14,No
+India,Other,46-60,0,,,,
+Bangladesh,Male,18-25,1,Sexual Abuse,Moderate,16,Yes
+Pakistan,Female,46-60,1,Natural Calamities,Moderate,2,Yes
+India,Other,60+,0,,,,
+India,Female,36-45,1,Accidents,Severe,25,Yes
+Afghanistan,Other,18-25,0,,,,
+US,Female,46-60,1,Loss of Loved One,Moderate,17,Yes
+India,Female,46-60,0,,,,
+Afghanistan,Female,18-25,1,Natural Calamities,Severe,15,Yes
+UK,Female,36-45,1,War and Violence,Severe,11,No
+Pakistan,Male,60+,1,Sexual Abuse,Severe,5,Yes
+Bangladesh,Male,18-25,0,,,,
+US,Male,46-60,1,Loss of Loved One,Moderate,13,Yes
+India,Female,26-35,0,,,,
+Pakistan,Other,36-45,1,Sexual Abuse,Mild,6,Yes
+India,Other,18-25,0,,,,
+UK,Male,36-45,1,Childhood Trauma,Severe,24,No
+Afghanistan,Female,18-25,1,Accidents,Moderate,2,Yes
+US,Female,46-60,1,Sexual Abuse,Moderate,5,Yes
+UK,Other,26-35,0,,,,
+Pakistan,Male,60+,1,Sexual Abuse,Severe,29,Yes
+US,Other,36-45,1,Sexual Abuse,Mild,1,Yes
+Bangladesh,Male,60+,0,,,,
+UK,Female,46-60,1,Sexual Abuse,Moderate,25,Yes
+UK,Female,26-35,1,Sexual Abuse,Moderate,16,Yes
+US,Female,26-35,1,Accidents,Moderate,13,No
+Pakistan,Other,26-35,1,Natural Calamities,Severe,14,No
+US,Male,36-45,0,,,,
+Pakistan,Female,36-45,0,,,,
+India,Female,46-60,0,,,,
+India,Male,46-60,0,,,,
+Pakistan,Female,60+,1,Sexual Abuse,Mild,10,Yes
+UK,Other,26-35,0,,,,
+Bangladesh,Female,46-60,0,,,,
+US,Male,60+,1,War and Violence,Moderate,27,No
+US,Other,60+,0,,,,
+Bangladesh,Male,46-60,1,War and Violence,Moderate,19,Yes
+Bangladesh,Other,18-25,0,,,,
+US,Other,36-45,0,,,,
+UK,Female,26-35,0,,,,
+US,Female,36-45,1,Sexual Abuse,Moderate,5,Yes
+India,Other,46-60,1,Sexual Abuse,Mild,3,Yes
+US,Female,60+,0,,,,
+India,Male,26-35,0,,,,
+India,Female,46-60,1,War and Violence,Moderate,17,Yes
+UK,Male,60+,1,Childhood Trauma,Moderate,8,Yes
+Pakistan,Other,18-25,0,,,,
+India,Female,36-45,0,,,,
+Pakistan,Other,36-45,0,,,,
+Pakistan,Male,26-35,0,,,,
+UK,Other,18-25,0,,,,
+India,Other,60+,0,,,,
+Afghanistan,Female,36-45,0,,,,
+Pakistan,Male,60+,1,Loss of Loved One,Moderate,2,Yes
+Bangladesh,Other,36-45,1,Sexual Abuse,Moderate,18,Yes
+US,Male,36-45,1,Natural Calamities,Mild,12,Yes
+Afghanistan,Other,46-60,1,Childhood Trauma,Mild,2,No
+India,Male,60+,1,Accidents,Mild,18,Yes
+Bangladesh,Male,26-35,0,,,,
+US,Other,26-35,1,Sexual Abuse,Mild,19,Yes
+US,Other,26-35,0,,,,
+UK,Other,46-60,0,,,,
+UK,Female,26-35,0,,,,
+Pakistan,Other,60+,0,,,,
+Pakistan,Male,26-35,0,,,,
+India,Female,60+,0,,,,
+India,Female,46-60,0,,,,
+Afghanistan,Female,60+,0,,,,
+UK,Other,18-25,1,Childhood Trauma,Severe,9,Yes
+UK,Other,18-25,0,,,,
+UK,Female,18-25,0,,,,
+Pakistan,Other,36-45,0,,,,
+UK,Other,46-60,0,,,,
+Afghanistan,Female,18-25,1,War and Violence,Severe,18,Yes
+UK,Other,46-60,1,Natural Calamities,Severe,29,Yes
+Pakistan,Male,60+,1,Childhood Trauma,Severe,21,Yes
+UK,Male,26-35,1,Childhood Trauma,Moderate,29,No
+Afghanistan,Male,26-35,1,Sexual Abuse,Moderate,2,No
+UK,Male,36-45,1,Sexual Abuse,Severe,10,No
+US,Other,36-45,0,,,,
+Bangladesh,Female,18-25,0,,,,
+India,Female,46-60,0,,,,
+Bangladesh,Male,46-60,0,,,,
+Pakistan,Male,18-25,1,Accidents,Mild,13,Yes
+US,Other,46-60,0,,,,
+UK,Male,60+,1,War and Violence,Severe,7,Yes
+Afghanistan,Female,46-60,0,,,,
+US,Female,18-25,1,Natural Calamities,Moderate,25,No
+Bangladesh,Other,60+,1,Sexual Abuse,Moderate,5,Yes
+India,Male,18-25,0,,,,
+US,Other,46-60,1,Sexual Abuse,Moderate,3,No
+Pakistan,Female,36-45,0,,,,
+Pakistan,Female,36-45,0,,,,
+Pakistan,Male,46-60,0,,,,
+US,Other,60+,0,,,,
+UK,Female,36-45,1,War and Violence,Moderate,30,Yes
+US,Male,18-25,0,,,,
+US,Female,46-60,0,,,,
+Afghanistan,Other,26-35,0,,,,
+US,Male,60+,1,Accidents,Severe,29,No
+US,Male,60+,1,Sexual Abuse,Severe,24,Yes
+Bangladesh,Female,26-35,1,Loss of Loved One,Moderate,9,Yes
+UK,Male,26-35,0,,,,
+Bangladesh,Male,46-60,1,Accidents,Severe,1,No
+Pakistan,Female,26-35,0,,,,
+India,Female,60+,1,Sexual Abuse,Severe,17,Yes
+Pakistan,Other,46-60,1,Natural Calamities,Moderate,21,No
+Bangladesh,Male,46-60,1,Accidents,Moderate,27,Yes
+UK,Male,36-45,0,,,,
+India,Other,36-45,0,,,,
+Bangladesh,Other,18-25,0,,,,
+Pakistan,Other,46-60,0,,,,
+US,Female,46-60,1,Loss of Loved One,Mild,16,Yes
+Afghanistan,Male,18-25,1,Accidents,Mild,22,Yes
+UK,Other,36-45,1,War and Violence,Severe,24,Yes
+India,Male,46-60,0,,,,
+UK,Male,60+,0,,,,
+US,Other,46-60,0,,,,
+Afghanistan,Male,36-45,1,Childhood Trauma,Moderate,17,Yes
+India,Other,46-60,1,War and Violence,Mild,14,Yes
+Bangladesh,Female,36-45,0,,,,
+India,Other,46-60,0,,,,
+US,Male,46-60,0,,,,
+Pakistan,Male,60+,1,Natural Calamities,Moderate,20,No
+Afghanistan,Female,26-35,1,Natural Calamities,Moderate,11,Yes
+UK,Female,26-35,1,War and Violence,Severe,5,No
+Afghanistan,Female,26-35,0,,,,
+Pakistan,Female,46-60,0,,,,
