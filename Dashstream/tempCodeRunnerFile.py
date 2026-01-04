@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import joblib
+import numpy as np
+
 
 # Page config
 st.set_page_config(page_title="Mental Health Insights Explorer", layout="wide")
@@ -18,6 +21,8 @@ datasets = {
     "Eating Disorders": pd.read_csv("anorexia-bulimia-nervosa-estimated-cases.csv"),
     "Anxiety vs Depression": pd.read_csv("Dataset with Anxiety and depression.csv")
 }
+model = joblib.load("mental_health_model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 descriptions = {
     "Personality Disorders": "Long-term patterns of behavior and inner experiences that differ significantly from cultural expectations.",
@@ -34,7 +39,11 @@ descriptions = {
 
 # Sidebar
 st.sidebar.title("🧠 Mental Health")
-disorder = st.sidebar.selectbox("Select a disorder", list(datasets.keys()) + ["Substance Use Disorder"])
+disorder = st.sidebar.selectbox(
+    "Select a disorder",
+    list(datasets.keys()) + ["Substance Use Disorder", "Mental Health Risk Prediction (ML)"]
+)
+
 
 # Main content
 st.title("Mental Health Insights Explorer")
@@ -152,6 +161,27 @@ if disorder:
                      title='😟 Anxiety vs Depression Prevalence by Country', color_discrete_sequence=px.colors.qualitative.Set1)
         fig.update_layout(xaxis_tickangle=-45, height=600)
         st.plotly_chart(fig, use_container_width=True)
+
+    elif disorder == "Mental Health Risk Prediction (ML)":
+      st.subheader("🔮 Mental Health Risk Prediction")
+      st.info("ML model predicts mental health risk using anxiety and depression indicators.")
+
+    anxiety = st.slider("Anxiety Level (%)", 0.0, 20.0, 5.0)
+    depression = st.slider("Depression Level (%)", 0.0, 20.0, 5.0)
+
+    if st.button("Predict Risk"):
+        input_data = np.array([[anxiety, depression]])
+        input_scaled = scaler.transform(input_data)
+        prediction = model.predict(input_scaled)[0]
+
+        if prediction == "Low":
+            st.success("🟢 Low Mental Health Risk")
+        elif prediction == "Medium":
+            st.warning("🟠 Medium Mental Health Risk")
+        else:
+            st.error("🔴 High Mental Health Risk")
+   
+    
 
     else:
         st.warning("No chart available.")
